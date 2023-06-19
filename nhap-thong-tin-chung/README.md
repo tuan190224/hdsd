@@ -18,7 +18,7 @@ _Màn hình danh sách nhân viên trong doanh nghiệp_
 
 Bước 1: Vào Thông tin chung, chọn danh mục Nhân viên.
 
-Bước 2: Nhấn nút ![](<../.gitbook/assets/1 (1).png>) và Nhập thông tin Nhân viên vào bảng thêm mới. Nhấn ![](<../.gitbook/assets/2 (4).png>) để lưu thông tin nhân viên mới tạo.
+Bước 2: Nhấn nút ![](<../.gitbook/assets/1 (7).png>) và Nhập thông tin Nhân viên vào bảng thêm mới. Nhấn ![](../.gitbook/assets/2.png) để lưu thông tin nhân viên mới tạo.
 
 ![](../.gitbook/assets/3.jpeg)
 
@@ -37,7 +37,7 @@ Quản lý thông tin đối tác của doanh nghiệp, bao gồm 5 loại đố
 * NCC phí thường niên: Quản lý nhà cung cấp các phí khấu hao, dịch vụ thường niên, …
 * NCC vật tư: Quản lý thông tin nhà cung cấp các phụ tùng cho sửa chữa, các kho hàng, vật tư văn phòng, …
 
-![](<../.gitbook/assets/4 (5).png>)
+![](<../.gitbook/assets/4 (2).png>)
 
 _Màn hình danh sách đối tác -Khách hàng_
 
@@ -51,7 +51,7 @@ Bước 3: Nhập các thông tin đối tác vào các trường dữ liệu. S
 
 _Lưu ý : Người dùng có thể chọn nhiều hơn 01 loại đối tác cho cùng một doanh nghiệp. Khi chọn loại đối tác là NCC Nhiên liệu, bảng thêm mới xuất hiện thêm ô chọn là Nhà cung cấp nhiên liệu của công ty. Trường hợp bỏ tích chọn, phần mềm tự động hiểu thông tin thêm mới là một cây dầu của công ty để tính lượng dầu trong kho._
 
-![](<../.gitbook/assets/5 (5).png>)
+![](<../.gitbook/assets/5 (2).png>)
 
 _Màn hình Thêm mới đối tác_
 
@@ -59,7 +59,7 @@ _Màn hình Thêm mới đối tác_
 
 Chức năng hoạt động trên cơ chế phân quyền nhóm người dùng vào quản lý từng nhóm khách hàng riêng biệt. Thông qua chức năng này, cá nhân/ bộ phận có thể dễ dàng và độc lập quản lý tệp khách hàng mà mình được phân công. Đồng thời, nhà quản lý sẽ đánh giá được hiệu suất công việc của từng cá nhân/ bộ phận theo ngày, theo tháng, …; đánh giá được nhóm khách hàng tiềm năng cho doanh nghiệp.
 
-![](<../.gitbook/assets/6 (6).png>)
+![](<../.gitbook/assets/6 (3).png>)
 
 _Màn hình quản lý Khách hàng theo nhóm_
 
@@ -73,11 +73,11 @@ Bước 3: Trong bảng Đối tác, với phân loại Khách hàng, khi thêm 
 
 Như vậy, những nhóm người dùng sẽ chỉ tập trung vào từng nhóm Khách hàng được phân công khi thực hiện các công việc thuộc mục Điều hành (bao gồm quản lý lô hàng, điều xe, quản lý cước, thông báo)
 
-![](<../.gitbook/assets/7 (3).png>)
+![](<../.gitbook/assets/7 (4).png>)
 
 _Màn hình thêm mới Nhóm KH (Bước 1-2)_
 
-![](<../.gitbook/assets/8 (2).png>)
+![](<../.gitbook/assets/8 (4).png>)
 
 _Màn hình phân nhóm khách hàng (Bước 3)_
 
@@ -107,7 +107,7 @@ Quản lý thông tin xe giúp doanh nghiệp quản lý chi tiết các dữ li
 
 Giống với quản lý mooc, danh sách xe trên phần mềm cũng quản lý thêm cả các thông số liên quan tới tải trọng xe, làm cơ sở dữ liệu tính toán tải trọng an toàn, sắp xếp hàng hóa lên xe của bộ phận điều xe.
 
-![](<../.gitbook/assets/10 (5).png>)
+![](<../.gitbook/assets/10 (3).png>)
 
 _Màn hình chính của mục quản lý xe_
 
@@ -125,7 +125,7 @@ _Lưu ý: Mỗi một xe của chủ doanh nghiệp được thêm mới tương
 
 Quản lý thông tin cảng, depot, kho CFS và các chi cục tương ứng; phục vụ cho việc lên đơn hàng (Quản lý lô hàng) và lên chi phí đơn hàng tự động (Định mức hải quản – tạm ứng lô hàng).
 
-![](<../.gitbook/assets/11 (3).png>)
+![](<../.gitbook/assets/11 (4).png>)
 
 _Màn hình danh sách các cảng và depot_
 
@@ -179,7 +179,7 @@ _Lưu ý: Việc Lựa chọn hàng hóa có kiểm tra và tỉ lệ kiểm s�
 
 Bước 3: Nhấn Lưu để lưu lại thông tin hàng hóa vừa tạo.
 
-![](../.gitbook/assets/16.jpeg)
+![](<../.gitbook/assets/16 (1).jpeg>)
 
 _Màn hình Thêm mới thông tin hàng hóa_
 
@@ -197,7 +197,7 @@ Bước 2: Nhập địa chỉ vào bảng 🡪 Nhấn lưu
 
 Lưu ý: Trong trường hợp đơn vị tính toán chi phí vận chuyển theo khu vực, người dùng chọn thêm địa chỉ Mở rộng cho các địa chỉ chi tiết đã nhập. Khi đó, các địa chỉ chi tiết có cùng địa chỉ mở rộng sẽ có cùng mức chi phí vận chuyển.
 
-![](<../.gitbook/assets/17 (6).png>)
+![](../.gitbook/assets/17.png)
 
 _Màn hình Danh sách địa chỉ_
 
@@ -207,7 +207,7 @@ Bước 1: Chọn mục điều hành🡪 Chọn Lô hàng hoặc Kế hoạch v
 
 Bước 2: Tại các ô nhập địa chỉ Lấy/ giao hàng, Lấy/ Hạ vỏ, chọn Địa chỉ khác🡪 Nhập địa chỉ🡪 Nhấn tạo mới “tên địa chỉ”. Địa chỉ thêm mới sẽ được tự động lưu lại vào Thông tin chung.
 
-![](<../.gitbook/assets/18 (6).png>)
+![](<../.gitbook/assets/18 (1).png>)
 
 _Màn hình thêm mới địa chỉ trong Lô hàng_
 
@@ -227,7 +227,7 @@ Bước 2: Chọn mục Thông tin chung🡪 Chọn Tuyến đường
 
 Bước 3: Nhấn nút Thêm mới🡪 Nhập tuyến đường🡪 Nhấn Lưu.
 
-![](<../.gitbook/assets/19 (1).jpeg>)
+![](../.gitbook/assets/19.jpeg)
 
 _Màn hình Danh sách tuyến đường_
 
@@ -237,7 +237,7 @@ Bước 1: Chọn mục điều hành🡪 Chọn Kế hoạch điều xe
 
 Bước 2: Tại các ô nhập Tuyến đường 🡪 Chọn hoặc nhập mới địa chỉ🡪Thêm khoảng cách tuyến đường. Tuyến đường mới lưu trực tiếp vào Thông tin chung.
 
-![](<../.gitbook/assets/20 (2).png>)
+![](<../.gitbook/assets/20 (7).png>)
 
 _Màn hình thêm kế hoạch điều xe- Thêm trực tiếp tuyến đường_
 
@@ -425,4 +425,4 @@ Bước 2: Nhập thông tin theo yêu cầu.
 
 Bước 3: Nhấn Lưu để lưu lại thông tin.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><em>Màn hình thêm mới cước vận tải biển</em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><em>Màn hình thêm mới cước vận tải biển</em></p></figcaption></figure>

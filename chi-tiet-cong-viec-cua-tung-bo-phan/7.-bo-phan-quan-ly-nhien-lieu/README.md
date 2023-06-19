@@ -4,7 +4,7 @@
 
 Bước 1: Tại mục **Nhiên liệu**, lựa chọn chức năng **Quản lý nhập nhiên liệu**.
 
-Bước 2: Nhấn nút ![](<../../.gitbook/assets/0 (8).png>)🡪 Điền các thông tin vào bảng.
+Bước 2: Nhấn nút ![](<../../.gitbook/assets/0 (4).png>)🡪 Điền các thông tin vào bảng.
 
 Bước 3: Nhấn Lưu để lưu lại thông tin thêm mới nhiên liệu
 
@@ -47,11 +47,11 @@ Có 2 cách để thêm mới cấp dầu:
 
 Bước 1: Tại mục Nhiên liệu, chọn QL dầu cấp cho xe
 
-Bước 2: Nhấn nút ![](<../../.gitbook/assets/4 (8).png>) 🡪 nhập thông tin vào bảng 🡪 Lưu.
+Bước 2: Nhấn nút ![](<../../.gitbook/assets/4 (5).png>) 🡪 nhập thông tin vào bảng 🡪 Lưu.
 
-![](<../../.gitbook/assets/5 (4).png>)
+![](<../../.gitbook/assets/5 (1).png>)
 
-![](<../../.gitbook/assets/6 (5).png>)
+![](<../../.gitbook/assets/6 (2).png>)
 
 _Màn hình nhập dữ liệu_
 
@@ -63,7 +63,7 @@ _Màn hình nhập dữ liệu_
 
 #### **7.3.2 Tải file excel dầu cấp nhiều xe** <a href="#_13qzunr" id="_13qzunr"></a>
 
-Bước 1: Tại màn hình Ql cấp dầu cho xe, nhấn nút ![](<../../.gitbook/assets/7 (6).png>)
+Bước 1: Tại màn hình Ql cấp dầu cho xe, nhấn nút ![](<../../.gitbook/assets/7 (2).png>)
 
 * Mẫu file excel tải lên: [https://bitly.com.vn/0e9aeq](https://bitly.com.vn/0e9aeq)
 
@@ -75,6 +75,6 @@ Bước 2: Chọn file excel từ máy tính 🡪 nhấn Mở để đưa file l
 
 _Lưu ý: trong trường hợp người dùng khai báo cấp dầu từ cây dầu của công ty, số liệu sẽ được sử dụng vào báo cáo tồn dầu._
 
-![](<../../.gitbook/assets/8 (5).png>)
+![](<../../.gitbook/assets/8 (3).png>)
 
 _Mẫu nhập liệu file excel_

@@ -6,7 +6,7 @@ Là chức năng phụ trợ, cho phép người dùng cài đặt: nhóm công 
 
 \+ Các nhóm công việc: phụ thuộc vào các đặt của công ty, doanh nghiệp - theo bộ phận, dự án, …; quản lý người dùng trong từng nhóm công việc.
 
-![](<../../.gitbook/assets/0 (3).png>)
+![](<../../.gitbook/assets/0 (5).png>)
 
 _Màn hình quản lý nhóm công việc_
 
@@ -18,19 +18,19 @@ Bước 2: Nhấn nút Thêm người dùng vào nhóm 🡪 Tích chọn ngườ
 
 Bước 3: Xóa người dùng khỏi nhóm (nếu cần).
 
-![](<../../.gitbook/assets/1 (2).png>)
+![](<../../.gitbook/assets/1 (8).png>)
 
 _Màn hình quản lý người dùng trong nhóm công việc_
 
 \+ Loại công việc: phụ thuộc vào các đặt của công ty, doanh nghiệp- mặc định: hợp đồng, tạm ứng, thanh toán, báo giá
 
-![](<../../.gitbook/assets/2 (5).png>)
+![](<../../.gitbook/assets/2 (1).png>)
 
 _Màn hình cài đặt loại công việc_
 
 \+ Các mức độ ưu tiên: phân chia thứ tự ưu tiên để hoàn thành công việc- Cực cao, cao, bình thường, thấp, cực thấp, …
 
-![](<../../.gitbook/assets/3 (6).png>)
+![](<../../.gitbook/assets/3 (1).png>)
 
 _Màn hình cài đặt các mức độ ưu tiên_
 
@@ -38,7 +38,7 @@ _Màn hình cài đặt các mức độ ưu tiên_
 
 Bao gồm 3 màn hình chính: Biểu đồ gantt quản lý tiến độ chung công việc chung của một dự án/ bộ phận, Bảng danh sách công việc chi tiết, Biểu đồ gantt thể hiện tiến độ công việc theo từng cá nhân.
 
-![](<../../.gitbook/assets/4 (6).png>)
+![](<../../.gitbook/assets/4 (3).png>)
 
 _Biểu đồ gantt theo công việc_
 
@@ -46,7 +46,7 @@ Người dùng quản lý các đầu công việc và tiến độ của từng
 
 \- Có thể di chuyển chuột tới từng nội dung để xem thêm chi tiết
 
-![](<../../.gitbook/assets/5 (1).png>)
+![](<../../.gitbook/assets/5 (6).png>)
 
 _Màn hình Danh sách công việc_
 
@@ -64,7 +64,7 @@ Bước 2: Nhập thông tin trong bảng thêm mới công việc🡪 Lưu.
 * Công việc cha: Được hiểu như 1 Công việc bao quát chung/ 1 dự án/ 1 mục của dự án. Khi chọn Công việc cha, có nghĩa là Công việc thêm mới là một trong số những công việc nhỏ nằm trong Công việc cha.
 * Nhập file: Cho phép người dùng đưa lên 1 file bất kỳ có liên quan tới công việc đang tạo.
 
-![](<../../.gitbook/assets/6 (3).png>)
+![](../../.gitbook/assets/6.png)
 
 _Màn hình thêm mới công việc_
 
@@ -76,11 +76,11 @@ Người dùng có thể thêm mới công việc gián tiếp từ các bảng:
 
 Có 4 cách để cập nhật nội dung công việc.
 
-![](<../../.gitbook/assets/12 (4).png>)
+![](<../../.gitbook/assets/12 (2).png>)
 
 _Màn hình lịch sử thay đổi_
 
-* **Cách 3:** Trong màn hình Gantt🡪 Nhấn chuột vào nội dung công việc trên thanh gantt 🡪 Nhấn nút cập nhật ![](<../../.gitbook/assets/13 (1).png>)
+* **Cách 3:** Trong màn hình Gantt🡪 Nhấn chuột vào nội dung công việc trên thanh gantt 🡪 Nhấn nút cập nhật ![](<../../.gitbook/assets/13 (5).png>)
 * **Cách 4:** Đối với công việc tạo gián tiếp từ tạm ứng và phơi phiếu, người dùng có thể sửa đổi trực tiếp trong chi tiết tạm ứng lô hàng và trong lệnh điều xe và nhấn lại nút đề xuất🡪 phần mềm tự tạo thêm 1 file cập nhật đưa vào lịch sử thay đổi của lô hàng.
 
 #### **1.2.3 Lọc thông tin** <a href="#_1664s55" id="_1664s55"></a>
@@ -91,11 +91,11 @@ Người dùng có thể lọc các thông tin theo:
 * Theo trạng thái công việc tại ô số 2
 * Theo nhóm công việc tại ô số 3
 
-![](<../../.gitbook/assets/14 (6).png>)
+![](../../.gitbook/assets/14.png)
 
 Người dùng cũng có thể theo dõi công việc cho từng cá nhân và tiến độ công việc của họ bằng cách nhấn sang tab Theo người thực hiện
 
-![](<../../.gitbook/assets/15 (1).png>)
+![](<../../.gitbook/assets/15 (3).png>)
 
 _Màn hình quản lý tiến độ công việc theo người thực hiện_
 
@@ -103,17 +103,17 @@ _Màn hình quản lý tiến độ công việc theo người thực hiện_
 
 #### **1.3.1 Quản lý đề xuất** <a href="#_25b2l0r" id="_25b2l0r"></a>
 
-![](<../../.gitbook/assets/16 (3).png>)
+![](../../.gitbook/assets/16.png)
 
 _Màn hình quản lý đề xuất_
 
 Bước 1: Trong chức năng **Phê duyệt**, chọn tab **Đề xuất**
 
-Bước 2: Nhấn nút Thêm mới🡪 Nhập thông tin cần phê duyệt, tải file đính kèm bằng cách nhấn nút ![](<../../.gitbook/assets/17 (3).png>) (nếu có).
+Bước 2: Nhấn nút Thêm mới🡪 Nhập thông tin cần phê duyệt, tải file đính kèm bằng cách nhấn nút ![](<../../.gitbook/assets/17 (7).png>) (nếu có).
 
 Bước 3: nhấn Lưu để chuyển tiếp đề xuất sang người phê duyệt.
 
-![](<../../.gitbook/assets/18 (2).png>)
+![](<../../.gitbook/assets/18 (5).png>)
 
 _Màn hình thêm mới đề xuất_
 
@@ -121,8 +121,8 @@ _Màn hình thêm mới đề xuất_
 
 Bao gồm các đề xuất mà người đăng nhập là: Người yêu cầu hoặc người duyệt.
 
-![](<../../.gitbook/assets/19 (1).png>)
+![](<../../.gitbook/assets/19 (4).png>)
 
-Để thêm nội dung phê duyệt, người dùng chọn nút ![](../../.gitbook/assets/20.png) và nhập nội dung.
+Để thêm nội dung phê duyệt, người dùng chọn nút ![](<../../.gitbook/assets/20 (5).png>) và nhập nội dung.
 
-Để duyệt đề xuất, người dùng nhấn nút ![](../../.gitbook/assets/21.png) để chuyển trạng thái phê duyệt, chuyển duyệt.
+Để duyệt đề xuất, người dùng nhấn nút ![](<../../.gitbook/assets/21 (2).png>) để chuyển trạng thái phê duyệt, chuyển duyệt.
