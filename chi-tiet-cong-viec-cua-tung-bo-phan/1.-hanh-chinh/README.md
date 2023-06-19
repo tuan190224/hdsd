@@ -46,7 +46,7 @@ Người dùng quản lý các đầu công việc và tiến độ của từng
 
 \- Có thể di chuyển chuột tới từng nội dung để xem thêm chi tiết
 
-![](<../../.gitbook/assets/5 (7).png>)
+![](<../../.gitbook/assets/5 (8).png>)
 
 _Màn hình Danh sách công việc_
 

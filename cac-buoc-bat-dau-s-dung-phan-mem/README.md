@@ -29,25 +29,25 @@ Tài khoản để được chia thành các cấp bậc với vai trò và ch�
 
 **3.2.1 Tạo Nhóm Người Dùng**
 
-* Bước 1: Vào mục Quản lý hệ thống <img src="../.gitbook/assets/image (17).png" alt="" data-size="line">  , chọn mục Quản lý nhóm <img src="../.gitbook/assets/image (7).png" alt="" data-size="line">
-* &#x20;Bước 2: Chọn thêm mới để thêm mới người dùng <img src="../.gitbook/assets/image (9).png" alt="" data-size="line">
+* Bước 1: Vào mục Quản lý hệ thống <img src="../.gitbook/assets/image (13).png" alt="" data-size="line">  , chọn mục Quản lý nhóm <img src="../.gitbook/assets/image (14).png" alt="" data-size="line">
+* &#x20;Bước 2: Chọn thêm mới để thêm mới người dùng <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
 * Bước 4: Nhập các thông tin (Tên nhóm, Tên ngắn gọn và Miêu tả)
-* Bước 5: Nhấn nút Lưu ![](<../.gitbook/assets/image (5).png>) để lưu lại thông tin nhóm vừa tạo, hoặc Đóng ![](<../.gitbook/assets/image (8).png>) để hủy bỏ&#x20;
+* Bước 5: Nhấn nút Lưu ![](<../.gitbook/assets/image (4).png>) để lưu lại thông tin nhóm vừa tạo, hoặc Đóng ![](<../.gitbook/assets/image (15).png>) để hủy bỏ&#x20;
 
-Người dùng có thể sửa thông tin của nhóm bằng cách nhấn vào nút ![](<../.gitbook/assets/9 (3).png>), thay đổi thông tin và ấn **Lưu.** Xóa nhóm bằng cách nhấn nút <img src="../.gitbook/assets/10 (4).png" alt="" data-size="line"> và <img src="../.gitbook/assets/image (4).png" alt="" data-size="line">
+Người dùng có thể sửa thông tin của nhóm bằng cách nhấn vào nút ![](<../.gitbook/assets/9 (3).png>), thay đổi thông tin và ấn **Lưu.** Xóa nhóm bằng cách nhấn nút <img src="../.gitbook/assets/10 (4).png" alt="" data-size="line"> và <img src="../.gitbook/assets/image (3).png" alt="" data-size="line">
 
 **3.2.2 Phân quyền cho Nhóm người dùng**
 
 Việc phân quyền cho nhóm người dùng giúp phân loại các chức năng vào từng nhóm, người dùng trong nhóm dễ dàng thao tác các công việc trong phạm vi của mình ngay trên phần mềm.
 
-* &#x20;Bước 1: Tại trang Quản lý nhóm, lựa chọn 1 nhóm, tiếp tục chọn nút xem chi tiết <img src="../.gitbook/assets/image (3).png" alt="" data-size="line">
+* &#x20;Bước 1: Tại trang Quản lý nhóm, lựa chọn 1 nhóm, tiếp tục chọn nút xem chi tiết <img src="../.gitbook/assets/image (19).png" alt="" data-size="line">
 * Bước 2: Kéo xuống danh sách người dùng, lựa chọn tab Quyền
 * Bước 3: Tích vào các ô chức năng nếu để thêm quyền truy cập cho nhóm như bảng phân quyền.
-* &#x20;Bước 4: Nhấn nút <img src="../.gitbook/assets/image (10).png" alt="" data-size="line"> để lưu lại.
+* &#x20;Bước 4: Nhấn nút <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> để lưu lại.
 
 _Lưu ý: Những người trong cùng một nhóm sẽ có quyền giống nhau._
 
-![](<../.gitbook/assets/14 (5).png>)
+![](<../.gitbook/assets/14 (6).png>)
 
 **3.2.3 Tạo mới người dùng**
 
@@ -81,7 +81,7 @@ Tại dòng Chọn nhóm, lựa chọn các nhóm muốn gán cho người dùng
 ![](<../.gitbook/assets/17 (4).png>)
 
 * Cách 2: Thêm hàng loạt
-  * Bước 1: Tại chức năng **Quản lý nhóm**, nhấn ![](<../.gitbook/assets/image (14).png>) tại nhóm muốn thêm người dùng
+  * Bước 1: Tại chức năng **Quản lý nhóm**, nhấn ![](<../.gitbook/assets/image (18).png>) tại nhóm muốn thêm người dùng
   * Bước 2: Dưới thông tin chi tiết nhóm, nhấn&#x20;
   * Bước 3: Tích chọn để thêm người dùng vào nhóm
   * Bước 4: Nhấn **lưu** để hoàn thiện.

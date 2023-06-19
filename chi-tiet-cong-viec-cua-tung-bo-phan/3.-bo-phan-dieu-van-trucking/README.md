@@ -23,7 +23,7 @@ Bước 2: Nhập thông tin vào bảng thêm mới
 * Trong TH hàng cont, người dùng có thể nhập thêm/ lựa chọn số cont đã có của lô.
 * Ngoài ra, nếu chưa có lô hàng, người dùng vẫn có thể chọn Khách hàng và lên kế hoạch vận chuyển như bình thường. Lô hàng tự tạo sau đó được lưu sang Ql lô rút gọn. Nút tắt ![](../../.gitbook/assets/1.png) được dùng để tải file danh sách cont lên phần mềm.
 
-Bước 3: Phầm mềm cũng hỗ trợ tạo điều xe từ kế hoạch vận chuyển với nút tắt ![](<../../.gitbook/assets/2 (5).png>). Điều kiện sử dụng nút tắt:
+Bước 3: Phầm mềm cũng hỗ trợ tạo điều xe từ kế hoạch vận chuyển với nút tắt ![](<../../.gitbook/assets/2 (6).png>). Điều kiện sử dụng nút tắt:
 
 * Hàng nhập: Có số cont khi lên kế hoạch vận chuyển. Mỗi cont tương ứng với 01 chuyến được tạo trong màn hình Điều xe.
 * Hàng xuất: Nhập số lượng xe điều vận, không cần nhập số cont. Mỗi xe tương ứng với 01 chuyến được tạo trong màn hình Điều xe.

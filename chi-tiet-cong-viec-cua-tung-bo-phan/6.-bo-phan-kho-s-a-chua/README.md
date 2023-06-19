@@ -36,7 +36,7 @@ _Màn hình Quản lý nhập phụ tùng_
 
 Bước 1: Tại mục Sửa chữa, chọn Nhập kho
 
-Bước 2: Tạo thông tin phiếu nhập kho, nhấn ![](<../../.gitbook/assets/4 (6).png>), và nhập thông tin vào bảng 🡪 Lưu
+Bước 2: Tạo thông tin phiếu nhập kho, nhấn ![](<../../.gitbook/assets/4 (8).png>), và nhập thông tin vào bảng 🡪 Lưu
 
 * Kho nhập: là kho nhận vật tư vào để quản lý
 * Kho xuất: là nơi xuất vật tư đi.
@@ -57,7 +57,7 @@ _Thao tác thêm mới chi tiết phiếu nhập phụ tùng_
 
 Trường hợp vật tư có quản lý chi tiết số serial (tích chọn có chi tiết khi thêm mới Thiết bị, phụ tùng), người dùng nhập thêm chi tiết vật tư vào phiếu nhập:
 
-Bước 1: Tại màn hình chi tiết phiếu nhập phụ tùng, nhấn nút ![](<../../.gitbook/assets/7 (4).png>) ở vật tư quản lý chi tiết
+Bước 1: Tại màn hình chi tiết phiếu nhập phụ tùng, nhấn nút ![](<../../.gitbook/assets/7 (3).png>) ở vật tư quản lý chi tiết
 
 Bước 2: Nhấn nút Thêm mới 🡪 Nhập thông tin vào bảng 🡪 Lưu
 
@@ -113,7 +113,7 @@ Bước 2: Nhấn vào số hóa đơn xuất để kiểm tra chi tiết vật 
 
 Tại màn hình Chuyển kho, nhập trực tiếp Số hóa đơn nhập tại dòng cần đồng bộ, nhập thêm các thông tin khác (phương thức thanh toán, ngày nhập, số đề xuất)
 
-Bước 3: Tích chọn tại đầu dòng 🡪 Nhấn nút ![](<../../.gitbook/assets/14 (4).png>), thông tin các vật tư sẽ được đưa sang quản lý bên tab Phiếu nhập và Chi tiết của kho chuyển, không còn trong cảnh báo.
+Bước 3: Tích chọn tại đầu dòng 🡪 Nhấn nút ![](<../../.gitbook/assets/14 (5).png>), thông tin các vật tư sẽ được đưa sang quản lý bên tab Phiếu nhập và Chi tiết của kho chuyển, không còn trong cảnh báo.
 
 ![](<../../.gitbook/assets/15 (6).png>)
 
@@ -332,5 +332,5 @@ Bước 3: Chọn **Thêm mới** để tạo thông tin làm quyết toán sử
 * Thông tin giá tiền và thời gian bảo hành lấy theo thông tin khi nhập phụ tùng.
 * Chỉ số km: Là chỉ số đồng hồ của xe trước khi thay mới một phụ tùng.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption><p><em>Màn hình thêm mới chi tiết hóa đơn sửa chữa</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p><em>Màn hình thêm mới chi tiết hóa đơn sửa chữa</em></p></figcaption></figure>
 

@@ -38,13 +38,13 @@ _Lưu ý:_
 * _Người dùng không thể sửa hoặc xóa khoản tạm ứng nội bộ đã thêm._
 * _Khi trạng thái tạm ứng nội bộ cho một cá nhân Đóng, bộ phận kế toán không thể sửa thông tin tạm ứng đó._
 
-![](<../../.gitbook/assets/3 (6).png>)![](<../../.gitbook/assets/4 (3).png>)
+![](<../../.gitbook/assets/3 (7).png>)![](<../../.gitbook/assets/4 (3).png>)
 
 * _Trường hợp có phát sinh tạm ứng từ CUS, QTNB sẽ được mở lại để làm tạm ứng nội bộ phát sinh (nếu có). Kế toán thêm mới các khoản tạm ứng cho nhân viên theo các bước phía trên._
 
 Bước 5: Người dùng tiếp tục tạo tạo ứng nội bộ cho các cá nhân (nếu có) và thực hiện làm quyết toán cho đến khi xong hết khoản.
 
-![](<../../.gitbook/assets/5 (6).png>)
+![](<../../.gitbook/assets/5 (7).png>)
 
 ![](<../../.gitbook/assets/6 (9).png>)
 
@@ -428,5 +428,5 @@ Bước 2: Nhấn nút để bỏ cảnh báo
 
 Phần mềm cung cấp biểu đồ thu chi theo ngày/ tháng/ năm tùy vào mục đích mà người dùng mong muốn sử dụng.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p><em>Màn hình biểu đồ thống kê thu chi</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p><em>Màn hình biểu đồ thống kê thu chi</em></p></figcaption></figure>
 

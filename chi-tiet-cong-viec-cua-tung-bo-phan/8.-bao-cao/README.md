@@ -81,9 +81,9 @@ _Màn hình báo cáo DTCP theo xe_
     *
       1. **Báo cáo bộ phận thống kê**
 
-![](<../../.gitbook/assets/4 (8).png>)
+![](<../../.gitbook/assets/4 (6).png>)
 
-![](<../../.gitbook/assets/5 (5).png>)
+![](<../../.gitbook/assets/5 (6).png>)
 
 ![](<../../.gitbook/assets/6 (1).png>)_Màn hình Báo cáo bộ phận thống kê_
 
@@ -277,7 +277,7 @@ Mẫu hiển thị: Giống với Báo cáo cước xe ngoài.
 
 Báo cáo tổng hợp theo dõi bảo hiểm tổng hợp thông tin lấy dữ liệu từ Danh sách xe và mục Quản lý phí thường niên – Kế toán
 
-![](<../../.gitbook/assets/14 (3).png>)
+![](<../../.gitbook/assets/14 (4).png>)
 
 _Màn hình Báo cáo tổng hợp theo dõi bảo hiểm_
 

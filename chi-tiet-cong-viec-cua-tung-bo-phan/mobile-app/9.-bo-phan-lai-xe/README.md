@@ -20,7 +20,7 @@ Bước 3: Chọn tab Quyền 🡪 Tích chọn phân quyền cho tài khoản M
 
 Bước 4: Vào mục Quản lý người dùng 🡪 Thêm mới tài khoản🡪 Gán nhân viên Lái xe vừa tạo, chọn nhóm LÁI XE 🡪 Lưu
 
-![](<../../../.gitbook/assets/3 (7).png>)
+![](<../../../.gitbook/assets/3 (8).png>)
 
 ### **9.2 Đăng nhập** <a href="#_2d51dmb" id="_2d51dmb"></a>
 
@@ -34,7 +34,7 @@ Bước 2: Nhập các thông tin để đăng nhập:
 
 Bước 3: Lựa chọn xe cần quản lý thông tin
 
-![](../../../.gitbook/assets/4.jpeg) ![](<../../../.gitbook/assets/5 (4).png>)
+![](../../../.gitbook/assets/4.jpeg) ![](<../../../.gitbook/assets/5 (5).png>)
 
 _Màn hình đăng nhập trên điện thoại Các chức năng chính trên app mobile_
 
@@ -50,7 +50,7 @@ _Màn hình danh sách chuyến hàng_
 
 Bước 3: Nhấp chọn chuyến hàng trong ngày muốn xem hoặc cập nhật thông tin.
 
-![](<../../../.gitbook/assets/7 (3).png>)
+![](<../../../.gitbook/assets/7 (4).png>)
 
 _Màn hình quản lý chi tiết một chuyến hàng_
 
@@ -100,7 +100,7 @@ Bước 1: Nhấn nút Chi trả hộ🡪 Nhấn ![](<../../../.gitbook/assets/1
 
 Bước 2: Chọn tên chi phí, nhập giá tiền 🡪 nhấn Lưu
 
-![](<../../../.gitbook/assets/14 (2).png>) ![](<../../../.gitbook/assets/15 (7).png>)
+![](<../../../.gitbook/assets/14 (3).png>) ![](<../../../.gitbook/assets/15 (7).png>)
 
 _Màn hình thông tin và nhập thu chi phát sinh_
 
@@ -187,5 +187,5 @@ Bước 2: Tại màn hình trang chủ, nhận chọn vào mục thông báo đ
 
 &#x20; &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p><em>Màn hình hiển thị thông báo</em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p><em>Màn hình hiển thị thông báo</em></p></figcaption></figure>
 

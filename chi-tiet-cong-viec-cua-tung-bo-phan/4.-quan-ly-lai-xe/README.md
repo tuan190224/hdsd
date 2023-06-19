@@ -24,11 +24,11 @@ Sau khi lái xe khai báo các chi phí lên phần mềm từ điện thoại, 
 
 **4.1.2.1 Thêm mới chi phí thanh toán**
 
-Bước 1: Tại cột chức năng của bảng Quản lý chi phí, nhấn nút ![](<../../.gitbook/assets/3 (8).png>)
+Bước 1: Tại cột chức năng của bảng Quản lý chi phí, nhấn nút ![](<../../.gitbook/assets/3 (5).png>)
 
 Bước 2: Nhập thông tin các chi phí vào bảng 🡪 Lưu
 
-![](<../../.gitbook/assets/4 (7).png>)
+![](<../../.gitbook/assets/4 (9).png>)
 
 _Màn hình thêm mới chi phí thanh toán_
 
@@ -118,7 +118,7 @@ _Màn hình Quản lý phơi phiếu_
 | Đơn giá                              | Đơn giá hao hụt khi khai báo lô hàng                                                                                                                                                                                                                                                                                                                                                           |
 | Lái xe chịu                          | = Hao hụt – \[((Lượng lx nhận- Lượng lx giao) – (Lượng lx nhận \* Hao hụt cho phép)) + Giảm trừ]                                                                                                                                                                                                                                                                                               |
 | Thành tiền                           | = Đơn giá \* Lái xe chịu                                                                                                                                                                                                                                                                                                                                                                       |
-| Ngày trả phơi phiếu                  | Nhập tay trong bảng cập nhật (nhấn nút ![](<../../.gitbook/assets/14 (6).png>))                                                                                                                                                                                                                                                                                                                |
+| Ngày trả phơi phiếu                  | Nhập tay trong bảng cập nhật (nhấn nút ![](<../../.gitbook/assets/14 (2).png>))                                                                                                                                                                                                                                                                                                                |
 | Đã chuyển phơi phiếu cho KH          | Nhập tay trong bảng cập nhật (nhấn nút ![](<../../.gitbook/assets/15 (8).png>))                                                                                                                                                                                                                                                                                                                |
 | Lái xe đã nhận tiền đường, Ngày nhận | Theo thông tin gửi từ mobile app lên hệ thống                                                                                                                                                                                                                                                                                                                                                  |
 | Dầu thực tế                          | Lượng dầu định mức trong Ql chi phí vc.                                                                                                                                                                                                                                                                                                                                                        |

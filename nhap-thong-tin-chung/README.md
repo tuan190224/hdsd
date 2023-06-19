@@ -1,7 +1,5 @@
 # NHẬP THÔNG TIN CHUNG
 
-
-
 Thông tin chung là mục dữ liệu nhập 1 lần và sử dụng chung cho toàn bộ các nhóm trong phần mềm bao gồm các trường thông tin: Nhân viên, Tài xế, khách hàng, điểm đi, điểm đến, cảng bãi, kho vận, thông tin xe, các định mức tuyến đường, xăng dầu, …
 
 Việc khai báo đầy đủ các thông tin chung theo dữ liệu hiện có của các công ty giúp việc sử dụng phần mềm được thuận tiện, tiết kiệm thời gian nhập liệu, đầy đủ và chính xác thông tin.
@@ -10,15 +8,13 @@ Việc khai báo đầy đủ các thông tin chung theo dữ liệu hiện có 
 
 Chủ doanh nghiệp cần nhập toàn bộ số lượng và thông tin nhân viên hiện có trong doanh nghiệp của mình lên hệ thống để thuận tiện trong việc phân quyền và giao việc.
 
-![](../.gitbook/assets/0.jpeg)
-
-_Màn hình danh sách nhân viên trong doanh nghiệp_
+![Màn hình danh sách nhân viên trong doanh nghiệp](../.gitbook/assets/0.jpeg)
 
 **Các bước thêm mới nhân viên:**
 
 Bước 1: Vào Thông tin chung, chọn danh mục Nhân viên.
 
-Bước 2: Nhấn nút ![](<../.gitbook/assets/1 (9).png>) và Nhập thông tin Nhân viên vào bảng thêm mới. Nhấn ![](../.gitbook/assets/2.png) để lưu thông tin nhân viên mới tạo.
+Bước 2: Nhấn nút <img src="../.gitbook/assets/1 (9).png" alt="" data-size="original"> và Nhập thông tin Nhân viên vào bảng thêm mới. Nhấn ![](../.gitbook/assets/2.png) để lưu thông tin nhân viên mới tạo.
 
 ![](../.gitbook/assets/3.jpeg)
 
@@ -37,9 +33,7 @@ Quản lý thông tin đối tác của doanh nghiệp, bao gồm 5 loại đố
 * NCC phí thường niên: Quản lý nhà cung cấp các phí khấu hao, dịch vụ thường niên, …
 * NCC vật tư: Quản lý thông tin nhà cung cấp các phụ tùng cho sửa chữa, các kho hàng, vật tư văn phòng, …
 
-![](<../.gitbook/assets/4 (1).png>)
-
-_Màn hình danh sách đối tác -Khách hàng_
+![Màn hình danh sách đối tác -Khách hàng](<../.gitbook/assets/4 (1).png>)
 
 **Các bước thêm đối tác vào danh sách:**
 
@@ -51,17 +45,13 @@ Bước 3: Nhập các thông tin đối tác vào các trường dữ liệu. S
 
 _Lưu ý : Người dùng có thể chọn nhiều hơn 01 loại đối tác cho cùng một doanh nghiệp. Khi chọn loại đối tác là NCC Nhiên liệu, bảng thêm mới xuất hiện thêm ô chọn là Nhà cung cấp nhiên liệu của công ty. Trường hợp bỏ tích chọn, phần mềm tự động hiểu thông tin thêm mới là một cây dầu của công ty để tính lượng dầu trong kho._
 
-![](<../.gitbook/assets/5 (1).png>)
-
-_Màn hình Thêm mới đối tác_
+![Màn hình Thêm mới đối tác](<../.gitbook/assets/5 (1).png>)
 
 #### **3. Quản lý nhóm Khách hàng** <a href="#_3znysh7" id="_3znysh7"></a>
 
 Chức năng hoạt động trên cơ chế phân quyền nhóm người dùng vào quản lý từng nhóm khách hàng riêng biệt. Thông qua chức năng này, cá nhân/ bộ phận có thể dễ dàng và độc lập quản lý tệp khách hàng mà mình được phân công. Đồng thời, nhà quản lý sẽ đánh giá được hiệu suất công việc của từng cá nhân/ bộ phận theo ngày, theo tháng, …; đánh giá được nhóm khách hàng tiềm năng cho doanh nghiệp.
 
-![](<../.gitbook/assets/6 (3).png>)
-
-_Màn hình quản lý Khách hàng theo nhóm_
+<figure><img src="../.gitbook/assets/6 (3).png" alt=""><figcaption><p><em><strong>Màn hình quản lý Khách hàng theo nhóm</strong></em></p></figcaption></figure>
 
 **Các bước quản lý:**
 
@@ -73,13 +63,13 @@ Bước 3: Trong bảng Đối tác, với phân loại Khách hàng, khi thêm 
 
 Như vậy, những nhóm người dùng sẽ chỉ tập trung vào từng nhóm Khách hàng được phân công khi thực hiện các công việc thuộc mục Điều hành (bao gồm quản lý lô hàng, điều xe, quản lý cước, thông báo)
 
-![](<../.gitbook/assets/7 (7).png>)
+<figure><img src="../.gitbook/assets/7 (7).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới Nhóm KH (</strong><strong><code>Bước</code></strong><strong> </strong><strong>1-2)</strong></em></p></figcaption></figure>
 
-_Màn hình thêm mới Nhóm KH (Bước 1-2)_
 
-![](<../.gitbook/assets/8 (7).png>)
 
-_Màn hình phân nhóm khách hàng (Bước 3)_
+<figure><img src="../.gitbook/assets/8 (7).png" alt=""><figcaption><p><em><strong>Màn hình phân nhóm khách hàng (Bước 3)</strong></em></p></figcaption></figure>
+
+
 
 #### **4. Quản lý thông tin Rơ mooc** <a href="#_4f1mdlm" id="_4f1mdlm"></a>
 
@@ -87,9 +77,9 @@ Thông tin rơ mooc được quản lý và sử dụng trong các công việc 
 
 Ngoài ra, thông số trọng lượng được sử dụng trong để tính toán tải trọng an toàn xe cũng như tối ưu trong lượng chở các xe khi sắp xếp hàng.
 
-![](<../.gitbook/assets/9 (1).png>)
+![Màn hình Quản lý rơ mooc](<../.gitbook/assets/9 (1).png>)
 
-_Màn hình Quản lý rơ mooc_
+
 
 **Các bước thêm Rơ-mooc vào phần mềm:**
 
@@ -107,9 +97,9 @@ Quản lý thông tin xe giúp doanh nghiệp quản lý chi tiết các dữ li
 
 Giống với quản lý mooc, danh sách xe trên phần mềm cũng quản lý thêm cả các thông số liên quan tới tải trọng xe, làm cơ sở dữ liệu tính toán tải trọng an toàn, sắp xếp hàng hóa lên xe của bộ phận điều xe.
 
-![](<../.gitbook/assets/10 (3).png>)
+<figure><img src="../.gitbook/assets/10 (3).png" alt=""><figcaption><p><em><strong>Màn hình chính của mục quản lý xe</strong></em></p></figcaption></figure>
 
-_Màn hình chính của mục quản lý xe_
+
 
 **Các bước thêm xe vào phần mềm:**
 
@@ -125,9 +115,7 @@ _Lưu ý: Mỗi một xe của chủ doanh nghiệp được thêm mới tương
 
 Quản lý thông tin cảng, depot, kho CFS và các chi cục tương ứng; phục vụ cho việc lên đơn hàng (Quản lý lô hàng) và lên chi phí đơn hàng tự động (Định mức hải quản – tạm ứng lô hàng).
 
-![](<../.gitbook/assets/11 (7).png>)
-
-_Màn hình danh sách các cảng và depot_
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><em><strong>Màn hình danh sách các cảng và depot</strong></em></p></figcaption></figure>
 
 **Các bước thêm mới thông tin:**
 
@@ -147,9 +135,9 @@ Bước 2: Nhập các trường dữ liệu. Sau đó nhấn **Lưu** để ho�
 
 Thông tin hãng tàu được quản lý để phục vụ cho việc lên thông tin đơn hàng (Quản lý lô hàng), và lên kế hoạch vận tải biển (đối với các đơn vị có nghiệp vụ vận tải qua biển).
 
-![](../.gitbook/assets/14.jpeg)
+<figure><img src="../.gitbook/assets/14.jpeg" alt=""><figcaption><p><em><strong>Màn hình Danh sách hãng tàu</strong></em></p></figcaption></figure>
 
-_Màn hình Danh sách hãng tàu_
+
 
 Bước 1: Truy cập phần mềm quản lý vận tải
 
@@ -165,9 +153,9 @@ Hỗ trợ doanh nghiệp quản lý các loại hàng hóa nhập, xuất, vậ
 
 Thông tin trong bảng được phục vụ cho việc: lên thông tin đơn hàng (Quản lý lô hàng) và kế hoạch vận chuyển, lên định mức tạm ứng làm hàng (tạm ứng dịch vụ hải quan, tạm ứng chi trả hộ), …
 
-![](../.gitbook/assets/15.jpeg)
+<figure><img src="../.gitbook/assets/15.jpeg" alt=""><figcaption><p><em><strong>Màn hình Danh sách hàng hóa</strong></em></p></figcaption></figure>
 
-_Màn hình Danh sách hàng hóa_
+
 
 **Các bước thêm mới thông tin hàng hóa:**
 

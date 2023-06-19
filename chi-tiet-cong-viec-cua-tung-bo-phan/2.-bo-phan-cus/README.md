@@ -61,7 +61,7 @@ Bước 1: Sau khi điền các thông tin về lô hàng🡪 Nhấn vào dòng 
 
 Bước 2: Dưới phần thông tin chi tiết về lô hàng, người dùng thực hiện nhập danh sách cont hàng theo:
 
-* Nhập cùng lúc nhiều Cont hàng theo danh sách từ file excel sẵn có bằng cách nhấn **Thêm file excel** ![](<../../.gitbook/assets/4 (9).png>)🡪 Chọn file excel sẵn có trên máy người dùng 🡪 Nhấn **Lưu** và xác nhận yêu cầu lưu.
+* Nhập cùng lúc nhiều Cont hàng theo danh sách từ file excel sẵn có bằng cách nhấn **Thêm file excel** ![](<../../.gitbook/assets/4 (7).png>)🡪 Chọn file excel sẵn có trên máy người dùng 🡪 Nhấn **Lưu** và xác nhận yêu cầu lưu.
 * Link file mẫu để tải số cont: [https://bitly.com.vn/p0qvk7](https://bitly.com.vn/p0qvk7)
 
 ![](../../.gitbook/assets/5.jpeg)
