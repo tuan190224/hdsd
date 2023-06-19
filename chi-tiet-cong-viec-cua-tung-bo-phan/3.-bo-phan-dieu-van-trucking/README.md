@@ -8,9 +8,7 @@ Là chức năng quản lý kế hoạch của bộ phận điều xe theo ngày
 
 #### **3.1.1 Tạo kế hoạch vận chuyển** <a href="#_39kk8xu" id="_39kk8xu"></a>
 
-![](<../../.gitbook/assets/0 (7).png>)
-
-_Màn hình Kế hoạch vận chuyển_
+![Màn hình Kế hoạch vận chuyển](<../../.gitbook/assets/0 (7).png>)
 
 Bước 1: Trong mục **Điều hành**, chọn **Kế hoạch vận chuyển**🡪 Nhấn nút Thêm mới
 
@@ -21,24 +19,20 @@ Bước 2: Nhập thông tin vào bảng thêm mới
 * Thời gian cắt máng và thời gian đóng hàng: thời gian cắt máng sẽ phải nhập đủ ngày và giờ cụ thể, còn thời gian đóng hàng sẽ nhập giờ đóng hàng cụ thể, còn ngày đóng hàng sẽ lấy theo trường ngày vận chuyển
 * Số lượng xe điều vận, Tấn: Người dùng nhập theo thực tế kế hoạch
 * Trong TH hàng cont, người dùng có thể nhập thêm/ lựa chọn số cont đã có của lô.
-* Ngoài ra, nếu chưa có lô hàng, người dùng vẫn có thể chọn Khách hàng và lên kế hoạch vận chuyển như bình thường. Lô hàng tự tạo sau đó được lưu sang Ql lô rút gọn. Nút tắt ![](<../../.gitbook/assets/1 (1).png>) được dùng để tải file danh sách cont lên phần mềm.
+* Ngoài ra, nếu chưa có lô hàng, người dùng vẫn có thể chọn Khách hàng và lên kế hoạch vận chuyển như bình thường. Lô hàng tự tạo sau đó được lưu sang Ql lô rút gọn. Nút tắt ![](<../../.gitbook/assets/1 (4).png>) được dùng để tải file danh sách cont lên phần mềm.
 
 Bước 3: Phầm mềm cũng hỗ trợ tạo điều xe từ kế hoạch vận chuyển với nút tắt ![](<../../.gitbook/assets/2 (2).png>). Điều kiện sử dụng nút tắt:
 
 * Hàng nhập: Có số cont khi lên kế hoạch vận chuyển. Mỗi cont tương ứng với 01 chuyến được tạo trong màn hình Điều xe.
 * Hàng xuất: Nhập số lượng xe điều vận, không cần nhập số cont. Mỗi xe tương ứng với 01 chuyến được tạo trong màn hình Điều xe.
 
-![](<../../.gitbook/assets/3 (5).png>)
-
-_Màn hình thêm mới Kế hoạch vận chuyển_
+![Màn hình thêm mới Kế hoạch vận chuyển](<../../.gitbook/assets/3 (9).png>)
 
 #### **3.1.2 Theo dõi lịch điều xe** <a href="#_1opuj5n" id="_1opuj5n"></a>
 
 Theo dõi số lượng xe điều, lượng hàng vận chuyển trong 01 tháng theo từng lô hàng, cập nhật tiến độ điều xe hàng ngày.
 
-![](<../../.gitbook/assets/4 (9).png>)
-
-_Màn hình Kế hoạch điều xe_
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption><p><em><strong>Màn hình Kế hoạch điều xe</strong></em></p></figcaption></figure>
 
 Bảng thông tin hiển thị dưới dạng bảng liệt kê, lưu trữ thông tin điều xe. Tuy nhiên, người dùng vẫn có thể sửa trực tiếp số lượng điều xe dự toán trong ngày bằng cách:
 
@@ -46,7 +40,7 @@ Bước 1: Trong mục Kế hoạch điều xe, chọn tab Lịch điều xe
 
 Bước 2: Nhấn chuột vào sửa cột thời gian tương ứng với ngày dùng phần mềm 🡪 Nhập liệu🡪 Lưu
 
-![](<../../.gitbook/assets/5 (9).png>)
+![](../../.gitbook/assets/5.png)
 
 _Lưu ý:_
 
@@ -68,23 +62,30 @@ Bước 1: Tại mục **Điều hành 🡪** chọn **Điều xe**
 
 Bước 2: Nhấn nút Điều xe 🡪 Chọn 1 xe
 
-![](../../.gitbook/assets/6.png)
+![](<../../.gitbook/assets/6 (1).png>)
 
 Bước 3: Nhập thông tin vào bảng thêm mới điều 1 xe 🡪 Nhấn lưu.
 
 * Trong trường hợp có chuyến ghép, người dùng chọn _Mã chuyến ghép_ – là mã các chuyến có cùng Ngày xe đi.
 * Loại rơ mooc được gán liền theo số mooc, nếu muốn thay đổi cần vào TTC – Danh sách Rơ-mooc để đổi loại.
-* Trường hợp sử dụng xe ngoài chưa khai báo trong danh sách xe. Nhấn chọn thêm xe ![](<../../.gitbook/assets/7 (8).png>) tại bảng Thêm kế hoạch điều xe. Sau đó điền thông tin xe muốn điều.
+* Trường hợp sử dụng xe ngoài chưa khai báo trong danh sách xe. Nhấn chọn thêm xe ![](<../../.gitbook/assets/7 (1).png>) tại bảng Thêm kế hoạch điều xe. Sau đó điền thông tin xe muốn điều.
 
 (Chức năng này chỉ sử dụng cho xe thuê ngoài. Đối với xe của công ty, người dùng thêm mới xe tại **Danh sách xe** của mục TTC)
 
-* Nhấn ![](<../../.gitbook/assets/8 (8).png>) nếu muốn điều thêm một xe khác với cùng thông tin lô.
+* Nhấn ![](<../../.gitbook/assets/8 (1).png>) nếu muốn điều thêm một xe khác với cùng thông tin lô.
 
 _Lưu ý:_
 
-![](<../../.gitbook/assets/15 (3).png>) ![](<../../.gitbook/assets/16 (1).jpeg>)
+* _Màn hình Kế hoạch điều xe_
 
-_Màn hình thêm mới điều 1 xe Màn hình thêm xe thuê ngoài_
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+* _Mỗi trạng thái sẽ hiển thị màu khác nhau:_ <img src="../../.gitbook/assets/image (1).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (6).png" alt="" data-size="original">![](<../../.gitbook/assets/image (4).png>)![](<../../.gitbook/assets/image (5).png>)![](<../../.gitbook/assets/image (9).png>)
+* _Khi lái xe thay đổi trạng thái chuyến xe trên app mobile thì phần mền sẽ hiển thị thông báo ở góc màn hình là xe nào đã cập nhật để điều vận theo dõi, cùng với đó trạng thái chuyến đó sẽ được thay đổi_
+
+![Màn hình thêm mới điều 1 xe](<../../.gitbook/assets/15 (6).png>)
+
+![Màn hình thêm xe thuê ngoài](<../../.gitbook/assets/16 (2).jpeg>)
 
 #### **3.2.2 Điều nhiều xe** <a href="#_1302m92" id="_1302m92"></a>
 
@@ -92,9 +93,9 @@ Bước 1: Trong mục Điều xe, nhấn Thêm mới 🡪 chọn n xe
 
 Bước 2: Chọn Mã lô 🡪 Nhập các thông tin vào bảng.
 
-![](<../../.gitbook/assets/20 (2).png>) ![](<../../.gitbook/assets/21 (2).png>)
+![Màn hình điều n xe – lô hàng đủ ](<../../.gitbook/assets/20 (5).png>)
 
-_Màn hình điều n xe – lô hàng đủ Màn hình điều n xe – lô rút gọn_
+![Màn hình điều n xe – lô rút gọn](../../.gitbook/assets/21.png)
 
 #### **3.2.3 Điều xe không lô** <a href="#_3mzq4wv" id="_3mzq4wv"></a>
 
@@ -124,9 +125,7 @@ Bước 2: Nhấn nút Thêm mới🡪 Nhập thông tin kế hoạch, cước v
 
 Bước 3: Nhấn Lưu.
 
-![](../../.gitbook/assets/24.png)
-
-_Màn hình điều xe gộp cước_
+<figure><img src="../../.gitbook/assets/24.png" alt=""><figcaption><p><em><strong>Màn hình điều xe gộp cước</strong></em></p></figcaption></figure>
 
 #### **3.3.2 Nhập từ excel** <a href="#_319y80a" id="_319y80a"></a>
 
@@ -152,9 +151,7 @@ Bước 1: Nhập thông tin kế hoạch điều xe gộp cước
 
 Bước 2: Nhấn nút Lưu mẫu🡪 Tạo thông tin mẫu🡪 Nhấn Lưu
 
-![](../../.gitbook/assets/26.png)
-
-_Màn hình lưu mẫu điều gộp cước_
+![Màn hình lưu mẫu điều gộp cước](../../.gitbook/assets/26.png)
 
 Lưu ý: Danh sách mẫu được ghi nhớ trong dữ liệu của phần mềm. Khi thực hiện điều xe không lô, người dùng có thể chọn mẫu đã lưu để lấy thông tin cước tham khảo.
 
@@ -162,9 +159,7 @@ Lưu ý: Danh sách mẫu được ghi nhớ trong dữ liệu của phần mề
 
 Điều xe ghép là có chức năng tương tự với điều xe gộp cước, quản lý toàn bộ các chi phí trên cùng một màn hình. Điểm khác biệt là cách điều xe từ 1 điểm, đi giao cho nhiều khách hàng hoặc tới nhiều điểm khác nhau.
 
-![](../../.gitbook/assets/27.png)
-
-_Màn hình điều xe ghép_
+![Màn hình điều xe ghép](../../.gitbook/assets/27.png)
 
 #### **3.4.1 Thêm mới điều xe ghép** <a href="#_2fk6b3p" id="_2fk6b3p"></a>
 
@@ -172,9 +167,7 @@ Bước 1: Tại mục Điều hành, chọn Điều xe ghép
 
 Bước 2: Nhấn nút Điều xe 🡪 nhập thông tin vào bảng thêm mới 🡪 Lưu.
 
-![](../../.gitbook/assets/30.png)
-
-_Màn hình thêm mới điều xe ghép_
+![Màn hình thêm mới điều xe ghép](../../.gitbook/assets/30.png)
 
 \- Cách tính: Có 4 cách tính khác:
 
@@ -196,9 +189,9 @@ Bước 2: Nhấn nút ![](../../.gitbook/assets/31.png) 🡪 Lựa chọn thêm
 
 Bước 3: Nếu muốn gán kế hoạch, nhấn đúp chuột vào biểu tượng xe tương ứng trên bản đồ 🡪 Nhập nội dung điều xe 🡪 Lưu.
 
-_Màn hình bản đồ định vị các xe_
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p><em><strong>Màn hình bản đồ định vị các xe</strong></em></p></figcaption></figure>
 
-*
+* **3.5 Vận tải biển**
   1. **Vận tải biển**
 
 Chức năng giúp hỗ trợ người dùng quản lý nghiệp vụ bán cước biển và điều vận các chuyến hàng kết hợp có vận tải biển.
@@ -210,7 +203,9 @@ Các tiện ích được xây dựng bao gồm:
 * Cập nhật lại giá cước
 * Xuất file lưu trữ
 
-_Màn hình điều vận vận tải biển_
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p><em><strong>Màn hình điều vận vận tải biển</strong></em></p></figcaption></figure>
+
+
 
 * **Thao tác tạo mới chuyến điều vận:**
 
@@ -225,7 +220,7 @@ _**Bước 1**_: Nhấn nút  → Nhập thông tin vào bảng thêm mới
 
 _**Bước 2**_: Nhấn Lưu
 
-_Màn hình thêm mới/cập nhật lại chuyến điều vận vận tải biển_
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới/cập nhật lại chuyến điều vận vận tải biển</strong></em></p></figcaption></figure>
 
 * **Thao tác cập nhật lại cước biển:**
 
