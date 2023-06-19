@@ -4,7 +4,7 @@
 
 Bảng Quản lý phụ tùng có thể coi như các phân xưởng kho vật tư thiết bị của doanh nghiệp. Các vật tư có tên gọi được đồng bộ giữa các kho nhưng quản lý riêng về số lượng tồn của từng kho.
 
-![](<../../.gitbook/assets/0 (9).png>)
+![](<../../.gitbook/assets/0 (10).png>)
 
 _Màn hình Quản lý kho phụ tùng_
 
@@ -12,7 +12,7 @@ _Màn hình Quản lý kho phụ tùng_
 
 Bước 1: Trong mục Sửa chữa, chọn Thiết bị, phụ tùng
 
-Bước 2: Nhấn nút ![](<../../.gitbook/assets/1 (10).png>)🡪 Nhập thông tin vào bảng 🡪 Lưu
+Bước 2: Nhấn nút ![](<../../.gitbook/assets/1 (8).png>)🡪 Nhập thông tin vào bảng 🡪 Lưu
 
 ![](<../../.gitbook/assets/2 (2).png>)
 

@@ -46,7 +46,7 @@ Bước 1: Trong mục Kế hoạch điều xe, chọn tab Lịch điều xe
 
 Bước 2: Nhấn chuột vào sửa cột thời gian tương ứng với ngày dùng phần mềm 🡪 Nhập liệu🡪 Lưu
 
-![](<../../.gitbook/assets/5 (7).png>)
+![](<../../.gitbook/assets/5 (9).png>)
 
 _Lưu ý:_
 
@@ -92,7 +92,7 @@ Bước 1: Trong mục Điều xe, nhấn Thêm mới 🡪 chọn n xe
 
 Bước 2: Chọn Mã lô 🡪 Nhập các thông tin vào bảng.
 
-![](<../../.gitbook/assets/20 (9).png>) ![](<../../.gitbook/assets/21 (2).png>)
+![](<../../.gitbook/assets/20 (8).png>) ![](<../../.gitbook/assets/21 (2).png>)
 
 _Màn hình điều n xe – lô hàng đủ Màn hình điều n xe – lô rút gọn_
 

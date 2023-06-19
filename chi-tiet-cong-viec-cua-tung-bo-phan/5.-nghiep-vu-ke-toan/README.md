@@ -22,7 +22,7 @@ Bước 2: Tìm lô hàng cần làm tạm ứng🡪 Có thể nhấn vào cột
 
 Bước 3: Điền thông tin vào bảng🡪 nhấn Lưu để lưu lại tạm ứng vừa tạo.
 
-![](<../../.gitbook/assets/1 (7).png>)
+![](<../../.gitbook/assets/1 (10).png>)
 
 ![](<../../.gitbook/assets/2 (8).png>)
 
@@ -38,7 +38,7 @@ _Lưu ý:_
 * _Người dùng không thể sửa hoặc xóa khoản tạm ứng nội bộ đã thêm._
 * _Khi trạng thái tạm ứng nội bộ cho một cá nhân Đóng, bộ phận kế toán không thể sửa thông tin tạm ứng đó._
 
-![](<../../.gitbook/assets/3 (8).png>)![](<../../.gitbook/assets/4 (7).png>)
+![](<../../.gitbook/assets/3 (6).png>)![](<../../.gitbook/assets/4 (7).png>)
 
 * _Trường hợp có phát sinh tạm ứng từ CUS, QTNB sẽ được mở lại để làm tạm ứng nội bộ phát sinh (nếu có). Kế toán thêm mới các khoản tạm ứng cho nhân viên theo các bước phía trên._
 
@@ -74,11 +74,11 @@ Sau khi CUS/ OPS đã xử lý xong các khoản chi phí trên Tạm ứng, K�
 
 Bước 1: Vào Ql lô hàng đủ/ rút gọn 🡪 Nhấn vào số tiền tại cột Quyết toán
 
-![](<../../.gitbook/assets/9 (5).png>)
+![](<../../.gitbook/assets/9 (8).png>)
 
 Bước 2: Trong bảng QTNB, nhấn nút ![](<../../.gitbook/assets/10 (1).png>)🡪 Đối chiếu chứng từ CUS/ Ops gửi về, thực hiện chỉnh sửa trên bảng nếu có thay đổi (Số lượng, đơn giá, ghi chú, hóa đơn, …)🡪 nhấn Lưu chỉnh sửa.
 
-Nhấn nút ![](<../../.gitbook/assets/11 (6).png>) trong trường hợp người dùng muốn thay đổi lại nhóm của chi phí:
+Nhấn nút ![](<../../.gitbook/assets/11 (7).png>) trong trường hợp người dùng muốn thay đổi lại nhóm của chi phí:
 
 * Phí định mức hải quan: Chỉ có trong Tạm ứng và QTNB, không có trong QTKH
 * Phí chi trả hộ: lấy từ QTNB sang QTKH
@@ -199,7 +199,7 @@ Bước 1: Tại bảng Thanh toán, thực hiện điều chỉnh các thông t
 
 Bước 2: Tích vào cột Lựa chọn 🡪 Nhấn nút Lưu.
 
-![](<../../.gitbook/assets/20 (8).png>)
+![](<../../.gitbook/assets/20 (9).png>)
 
 Bước 3: Kiểm soát lại dòng tiền lưu động của CUS/ Ops tại bảng **Quản lý tạm ứng**🡪 Thực hiện hoàn ứng nếu cần bằng cách chọn Thêm mới 🡪 Nhập số tiền âm (khoản thu lại từ CUS/Ops)🡪 Lưu
 
@@ -428,5 +428,5 @@ Bước 2: Nhấn nút để bỏ cảnh báo
 
 Phần mềm cung cấp biểu đồ thu chi theo ngày/ tháng/ năm tùy vào mục đích mà người dùng mong muốn sử dụng.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p><em>Màn hình biểu đồ thống kê thu chi</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p><em>Màn hình biểu đồ thống kê thu chi</em></p></figcaption></figure>
 

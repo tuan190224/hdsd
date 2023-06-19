@@ -30,7 +30,7 @@ _Màn hình cài đặt loại công việc_
 
 \+ Các mức độ ưu tiên: phân chia thứ tự ưu tiên để hoàn thành công việc- Cực cao, cao, bình thường, thấp, cực thấp, …
 
-![](<../../.gitbook/assets/3 (6).png>)
+![](<../../.gitbook/assets/3 (9).png>)
 
 _Màn hình cài đặt các mức độ ưu tiên_
 

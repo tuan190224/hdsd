@@ -12,7 +12,7 @@ _Mà hình đăng nhập trên web_
 
 Dưới đây là quy trình vận hành và phân vai người dùng cơ bản của các doanh nghiệp vận tải. Tuy nhiên, tùy vào mô hình kinh doanh thực tế mà các doanh nghiệp có thể điều chỉnh, phân quyền riêng, sắp xếp cho phù hợp.
 
-![](<../.gitbook/assets/1 (9).png>)
+![](<../.gitbook/assets/1 (7).png>)
 
 ### **3. Vai trò và chức năng của hệ thống tài khoản để người dùng sử dụng** <a href="#_2bn6wsx" id="_2bn6wsx"></a>
 
@@ -30,7 +30,7 @@ Tài khoản để được chia thành các cấp bậc với vai trò và ch�
 
 #### **3.2 Tạo tài khoản để người dùng sử dụng** <a href="#_3as4poj" id="_3as4poj"></a>
 
-| Trước khi tạo tài khoản người dùng, chủ doanh nghiệp cần tạo các nhóm và phân quyền cho các nhóm theo các bộ phận hiện có trong doanh nghiệp theo quy trình: | <ol><li>Tạo NHÓM người dùng</li></ol><p>(Cus, điều xe, kế toán, sửa chữa,...)</p><p><img src="../.gitbook/assets/2 (6).png" alt="" data-size="original"><img src="../.gitbook/assets/3 (5).png" alt="" data-size="original"></p><ol><li>Phân quyền cho nhóm</li><li>Tạo người dùng trong từng nhóm</li></ol> |
+| Trước khi tạo tài khoản người dùng, chủ doanh nghiệp cần tạo các nhóm và phân quyền cho các nhóm theo các bộ phận hiện có trong doanh nghiệp theo quy trình: | <ol><li>Tạo NHÓM người dùng</li></ol><p>(Cus, điều xe, kế toán, sửa chữa,...)</p><p><img src="../.gitbook/assets/2 (6).png" alt="" data-size="original"><img src="../.gitbook/assets/3 (8).png" alt="" data-size="original"></p><ol><li>Phân quyền cho nhóm</li><li>Tạo người dùng trong từng nhóm</li></ol> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 **3.2.1 Tạo Nhóm Người Dùng**

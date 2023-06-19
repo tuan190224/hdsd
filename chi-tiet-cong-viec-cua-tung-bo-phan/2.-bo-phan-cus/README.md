@@ -72,7 +72,7 @@ _Giao diện màn hình thêm danh sách Cont_
 
 _Danh sách cont hàng được đưa lên phần mềm_
 
-* Hoặc: Nhập từng Cont hàng trực tiếp vào phần mềm: Nhấn chọn ![](<../../.gitbook/assets/7 (8).png>)🡪 nhập thông tin từng cont hàng🡪 nhấn **Lưu.** Thông tin về cont hàng của lô được hiển thị trên phần mềm.
+* Hoặc: Nhập từng Cont hàng trực tiếp vào phần mềm: Nhấn chọn ![](<../../.gitbook/assets/7 (9).png>)🡪 nhập thông tin từng cont hàng🡪 nhấn **Lưu.** Thông tin về cont hàng của lô được hiển thị trên phần mềm.
 
 ![](../../.gitbook/assets/8.jpeg)
 
