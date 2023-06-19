@@ -22,7 +22,7 @@ Báo cáo Doanh thu chi phí theo xe là bảng tổng hợp thông tin lấy d�
 
 _Màn hình Chi tiết Bc Doanh thu chi phí theo xe_
 
-![](<../../.gitbook/assets/1 (5).png>)
+![](<../../.gitbook/assets/1 (7).png>)
 
 _Màn hình Tổng hợp Bc Doanh thu chi phí theo xe_
 
@@ -44,9 +44,9 @@ _Màn hình Tổng hợp Bc Doanh thu chi phí theo xe_
 
 **8.1.1.2 Mẫu 2 – Dùng cho điều xe ghép**
 
-![](<../../.gitbook/assets/2 (8).png>)
+![](<../../.gitbook/assets/2 (7).png>)
 
-![](<../../.gitbook/assets/3 (2).png>)
+![](../../.gitbook/assets/3.png)
 
 _Màn hình báo cáo DTCP theo xe_
 
@@ -81,9 +81,9 @@ _Màn hình báo cáo DTCP theo xe_
     *
       1. **Báo cáo bộ phận thống kê**
 
-![](<../../.gitbook/assets/4 (7).png>)
+![](<../../.gitbook/assets/4 (8).png>)
 
-![](<../../.gitbook/assets/5 (8).png>)
+![](<../../.gitbook/assets/5 (5).png>)
 
 ![](<../../.gitbook/assets/6 (1).png>)_Màn hình Báo cáo bộ phận thống kê_
 
@@ -127,7 +127,7 @@ Tổng hợp các chi phí làm hàng theo lô, bao gồm: chi phí hải quan, 
 
 Báo cáo lô hàng được tự động cập nhật khi người dùng có các thay đổi số liệu chi phí chuyến hàng ở các tác vụ khác: Cập nhật chi phí chi, trả hộ; Cập nhật thông tin lưu ca; Cập nhật thông tin cược vỏ, Cập nhật thu chi lái xe.
 
-![](<../../.gitbook/assets/7 (3).png>)
+![](<../../.gitbook/assets/7 (6).png>)
 
 _Màn hình Báo cáo lô hàng_
 
@@ -141,7 +141,7 @@ _Màn hình Báo cáo lô hàng_
 
 **8.1.3.1 Quyết toán chi hộ**
 
-![](../../.gitbook/assets/8.png)
+![](<../../.gitbook/assets/8 (2).png>)
 
 | Điều kiện hiển thị        | Tìm kiếm theo ngày tạo lô/ ngày thanh toán, có tạm ứng                      |
 | ------------------------- | --------------------------------------------------------------------------- |
@@ -161,7 +161,7 @@ _Màn hình Báo cáo lô hàng_
 
 **8.1.3.2 Bảng kê thanh toán cước**
 
-![](<../../.gitbook/assets/9 (2).png>)
+![](<../../.gitbook/assets/9 (4).png>)
 
 | Ngày                   | Ngày điều xe, tìm kiếm phụ thuộc vào ngày điều xe, dữ liệu chạy theo Ql cước vc                                                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -193,7 +193,7 @@ _Màn hình Báo cáo lô hàng_
 
 **8.1.3.4 Bảng đối chiếu cước vận chuyển**
 
-![](<../../.gitbook/assets/11 (5).png>)
+![](<../../.gitbook/assets/11 (4).png>)
 
 | Ngày                          | Ngày tạo/ sửa lô                                                        |
 | ----------------------------- | ----------------------------------------------------------------------- |
@@ -223,7 +223,7 @@ _Màn hình Báo cáo lô hàng_
 
 **8.1.3.5 Bảng kê chi tiết phí làm hàng**
 
-![](<../../.gitbook/assets/12 (6).png>)
+![](<../../.gitbook/assets/12 (4).png>)
 
 | Ngày thực hiện                       | Ngày tạo/ sửa lô                                                                                          |
 | ------------------------------------ | --------------------------------------------------------------------------------------------------------- |
@@ -277,7 +277,7 @@ Mẫu hiển thị: Giống với Báo cáo cước xe ngoài.
 
 Báo cáo tổng hợp theo dõi bảo hiểm tổng hợp thông tin lấy dữ liệu từ Danh sách xe và mục Quản lý phí thường niên – Kế toán
 
-![](<../../.gitbook/assets/14 (4).png>)
+![](<../../.gitbook/assets/14 (3).png>)
 
 _Màn hình Báo cáo tổng hợp theo dõi bảo hiểm_
 
@@ -291,7 +291,7 @@ _Màn hình Báo cáo tổng hợp theo dõi bảo hiểm_
   *
     1. **Bảng kê chi tiết vận tải**
 
-![](<../../.gitbook/assets/15 (2).png>)
+![](<../../.gitbook/assets/15 (4).png>)
 
 _Màn hình Bảng kê chi tiết vận tải_
 
@@ -323,7 +323,7 @@ _Màn hình Bảng kê chi tiết vận tải_
 
 Báo cáo theo Khách hàng: Tổng hợp các nội dung liên quan đến thu chi cho khách có phát sinh vận chuyển trong tháng. Cho phép lọc theo khách hàng và theo tháng.
 
-![](<../../.gitbook/assets/16 (6).png>)
+![](<../../.gitbook/assets/16 (3).png>)
 
 _Màn hình Bc cước phí theo khách hàng_
 
@@ -345,7 +345,7 @@ _Màn hình Bc cước phí theo khách hàng_
 
 **8.2.1.2 Báo cáo cước phí theo chủ xe**
 
-![](<../../.gitbook/assets/17 (5).png>)
+![](<../../.gitbook/assets/17 (6).png>)
 
 _Màn hình Bc cước phí theo chủ xe_
 
@@ -361,7 +361,7 @@ _Màn hình Bc cước phí theo chủ xe_
 
 Liệt kê chi phí vận chuyển trong tháng theo từng xe.
 
-![](<../../.gitbook/assets/18 (2).png>)
+![](<../../.gitbook/assets/18 (7).png>)
 
 _Màn hình Bảng kê cước vận chuyển_
 
@@ -382,7 +382,7 @@ Tổng hợp các thông tin liên quan đến chuyến hàng và xe điều cho
 
 **Báo cáo vận chuyển**
 
-![](<../../.gitbook/assets/19 (5).png>)
+![](<../../.gitbook/assets/19 (3).png>)
 
 | Số vận đơn        | Số vận đơn/ số booking khai báo từ lô hàng                                   |
 | ----------------- | ---------------------------------------------------------------------------- |
@@ -399,7 +399,7 @@ Tổng hợp các thông tin liên quan đến chuyến hàng và xe điều cho
 
 **8.2.2.2 Báo cáo Vendor**
 
-![](<../../.gitbook/assets/20 (1).png>)
+![](../../.gitbook/assets/20.png)
 
 | Ngày             | Ngày giao hàng                                                                         |
 | ---------------- | -------------------------------------------------------------------------------------- |

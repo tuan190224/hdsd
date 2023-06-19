@@ -24,9 +24,9 @@ _Màn hình quản lý lô hàng đủ_
 
 Bước 1: Trong thanh menu bên trái, tại mục **Điều hành**🡪 nhấn chọn **Quản lý lô hàng đủ/ rút gọn** tùy theo mục đích quản lý
 
-Bước 2: Nhấn nút ![](<../../.gitbook/assets/1 (4).png>) 🡪 Điền các thông tin vào bảng thêm mới. Nhập các thông tin lô hàng bằng cách nhấp chuột và chọn dữ liệu.
+Bước 2: Nhấn nút ![](<../../.gitbook/assets/1 (2).png>) 🡪 Điền các thông tin vào bảng thêm mới. Nhập các thông tin lô hàng bằng cách nhấp chuột và chọn dữ liệu.
 
-![](<../../.gitbook/assets/2 (3).png>) ![](<../../.gitbook/assets/3 (3).png>)
+![](<../../.gitbook/assets/2 (3).png>) ![](<../../.gitbook/assets/3 (1).png>)
 
 _Màn hình thêm mới thông tin lô hàng đủ_
 
@@ -61,7 +61,7 @@ Bước 1: Sau khi điền các thông tin về lô hàng🡪 Nhấn vào dòng 
 
 Bước 2: Dưới phần thông tin chi tiết về lô hàng, người dùng thực hiện nhập danh sách cont hàng theo:
 
-* Nhập cùng lúc nhiều Cont hàng theo danh sách từ file excel sẵn có bằng cách nhấn **Thêm file excel** ![](<../../.gitbook/assets/4 (8).png>)🡪 Chọn file excel sẵn có trên máy người dùng 🡪 Nhấn **Lưu** và xác nhận yêu cầu lưu.
+* Nhập cùng lúc nhiều Cont hàng theo danh sách từ file excel sẵn có bằng cách nhấn **Thêm file excel** ![](<../../.gitbook/assets/4 (9).png>)🡪 Chọn file excel sẵn có trên máy người dùng 🡪 Nhấn **Lưu** và xác nhận yêu cầu lưu.
 * Link file mẫu để tải số cont: [https://bitly.com.vn/p0qvk7](https://bitly.com.vn/p0qvk7)
 
 ![](../../.gitbook/assets/5.jpeg)
@@ -72,7 +72,7 @@ _Giao diện màn hình thêm danh sách Cont_
 
 _Danh sách cont hàng được đưa lên phần mềm_
 
-* Hoặc: Nhập từng Cont hàng trực tiếp vào phần mềm: Nhấn chọn ![](../../.gitbook/assets/7.png)🡪 nhập thông tin từng cont hàng🡪 nhấn **Lưu.** Thông tin về cont hàng của lô được hiển thị trên phần mềm.
+* Hoặc: Nhập từng Cont hàng trực tiếp vào phần mềm: Nhấn chọn ![](<../../.gitbook/assets/7 (2).png>)🡪 nhập thông tin từng cont hàng🡪 nhấn **Lưu.** Thông tin về cont hàng của lô được hiển thị trên phần mềm.
 
 ![](../../.gitbook/assets/8.jpeg)
 
@@ -80,7 +80,7 @@ _Giao diện màn hình thêm mới từng Cont hàng_
 
 * _**Cách 2:**_ Người dùng nhập danh sách cont sau khi có lô hàng. (Không có sẵn danh sách cont khi tạo lô).
 
-Bước 1: Sau khi có lô hàng tạo trên phần mềm, tại cột **Chức năng**, người dùng thêm mới danh sách cont hàng bằng cách nhấn nút ![](<../../.gitbook/assets/9 (5).png>)
+Bước 1: Sau khi có lô hàng tạo trên phần mềm, tại cột **Chức năng**, người dùng thêm mới danh sách cont hàng bằng cách nhấn nút ![](<../../.gitbook/assets/9 (6).png>)
 
 Bước 2: Thực hiện như trong cách 1.
 
@@ -94,7 +94,7 @@ Bước 1: Vào chức năng Điều xe 🡪 Thêm mới
 
 Bước 2: Nhập trực tiếp số cont vào kế hoạch 🡪 Lưu. Khi đó, số cont cũng được quản lý vào trong lô hàng tương ứng.
 
-![](<../../.gitbook/assets/11 (3).png>)
+![](<../../.gitbook/assets/11 (6).png>)
 
 _Màn hình thêm mới thông tin điều xe_
 
@@ -102,7 +102,7 @@ _Màn hình thêm mới thông tin điều xe_
 
 Sau khi nhập xong thông tin lô hàng, để chuyển lô sang cho bộ phận điều xe, Cus thực hiện chuyển trạng thái của lô hàng- Dành riêng cho lô hàng đủ:
 
-Bước 1: Tại bảng Quản lý lô hàng 🡪 Chọn lô hàng cần điều vận 🡪 kích vào biểu tượng ![](<../../.gitbook/assets/12 (5).png>)
+Bước 1: Tại bảng Quản lý lô hàng 🡪 Chọn lô hàng cần điều vận 🡪 kích vào biểu tượng ![](<../../.gitbook/assets/12 (6).png>)
 
 Bước 2: Trên bảng chỉnh sửa thông tin quản lý lô hàng 🡪 kéo chuột xuống ô Trạng thái lô hàng ở dưới cùng 🡪 nhấn vào thay đổi trạng thái lô hàng sang có thể vận chuyển 🡪 Nhấn Lưu để kết thúc.
 
@@ -170,7 +170,7 @@ Trong trường hợp đã làm quyết toán nội bộ cho hóa đơn tạm �
 
 Điều kiện thêm mới tạm ứng phát sinh: Kế toán 🡪 Ql QTNB ở trạng thái Mở.
 
-![](<../../.gitbook/assets/20 (3).png>)
+![](<../../.gitbook/assets/20 (2).png>)
 
 _Màn hình Kế toán - Ql Quyết toán nội bộ_
 
