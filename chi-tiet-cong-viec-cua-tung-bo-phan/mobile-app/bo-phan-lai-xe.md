@@ -10,17 +10,17 @@ Ngoài ra quản trị viên cũng có thể thêm mới trực tiếp tài kho�
 
 Bước 1: Vào bảng TTC 🡪 Nhân viên 🡪 Khai báo nhân viên với vị trí Lái xe
 
-![](<../../.gitbook/assets/0 (4).png>)
+![](<../../.gitbook/assets/0 (2).png>)
 
-Bước 2: Tại mục Quản lý hệ thống\_Quản lý nhóm 🡪 Tìm nhóm Lái xe (Thực hiện Thêm mới nếu chưa có) 🡪 Nhấn nút ![](<../../.gitbook/assets/1 (9).png>)
+Bước 2: Tại mục Quản lý hệ thống\_Quản lý nhóm 🡪 Tìm nhóm Lái xe (Thực hiện Thêm mới nếu chưa có) 🡪 Nhấn nút ![](<../../.gitbook/assets/1 (6).png>)
 
 Bước 3: Chọn tab Quyền 🡪 Tích chọn phân quyền cho tài khoản Mobile 🡪 Cập nhật
 
-![](<../../.gitbook/assets/2 (2).png>)
+![](<../../.gitbook/assets/2 (1).png>)
 
 Bước 4: Vào mục Quản lý người dùng 🡪 Thêm mới tài khoản🡪 Gán nhân viên Lái xe vừa tạo, chọn nhóm LÁI XE 🡪 Lưu
 
-![](<../../.gitbook/assets/3 (2).png>)
+![](<../../.gitbook/assets/3 (9).png>)
 
 ### **Đăng nhập** <a href="#_2d51dmb" id="_2d51dmb"></a>
 
@@ -34,7 +34,7 @@ Bước 2: Nhập các thông tin để đăng nhập:
 
 Bước 3: Lựa chọn xe cần quản lý thông tin
 
-![](../../.gitbook/assets/4.jpeg) ![](<../../.gitbook/assets/5 (1).png>)
+![](../../.gitbook/assets/4.jpeg) ![](<../../.gitbook/assets/5 (9).png>)
 
 _Màn hình đăng nhập trên điện thoại Các chức năng chính trên app mobile_
 
@@ -44,13 +44,13 @@ Bước 1: Nhấn chọn Kế hoạch VC 🡪 Chọn chuyến vận chuyển
 
 Bước 2: Chọn ngày muốn kiểm tra, chọn chuyến hàng trong ngày muốn xem hoặc cập nhật thông tin.
 
-![](<../../.gitbook/assets/6 (2).png>)
+![](<../../.gitbook/assets/6 (1).png>)
 
 _Màn hình danh sách chuyến hàng_
 
 Bước 3: Nhấp chọn chuyến hàng trong ngày muốn xem hoặc cập nhật thông tin.
 
-![](<../../.gitbook/assets/7 (1).png>)
+![](../../.gitbook/assets/7.png)
 
 _Màn hình quản lý chi tiết một chuyến hàng_
 
@@ -62,7 +62,7 @@ Người dùng có thể cập nhật thông tin hàng hóa như: Cân tổng l�
 
 Nếu có biên bản, nhấn thu biên bản.
 
-![](<../../.gitbook/assets/8 (1).png>)
+![](../../.gitbook/assets/8.png)
 
 Khi lái xe tích trạng thái Đã nhận hàng, Đã giao hàng trên app lái xe thì sẽ ghi nhận thời gian này sẽ link lại vào cột Thời gian nhận hàng, giao hàng trên phần mềm và phần mềm sẽ tự động tính thời gian đóng trả của 1 chuyến hàng trong Bảng kê chi tiết vận chuyển
 
@@ -72,7 +72,7 @@ Trên màn hình chi tiết vận chuyển chọn thông tin chuyến xe để x
 
 Ở thanh tab dưới màn hình, người dùng nhấn để chọn đến các màn hình Tuyến đường, Tiền đường và Cước phí.
 
-![](<../../.gitbook/assets/9 (2).png>)
+![](<../../.gitbook/assets/9 (1).png>)
 
 _Màn hình tiền đường_
 
@@ -82,13 +82,13 @@ _Màn hình tiền đường_
 
 Bước 1: Tại mục Điều hành, chọn Điều xe gộp cước
 
-Bước 2: Tìm lô muốn đổi quyền, nhấn nút ![](<../../.gitbook/assets/10 (1).png>) 🡪 Chuyển trạng thái Trả cước sang:
+Bước 2: Tìm lô muốn đổi quyền, nhấn nút ![](../../.gitbook/assets/10.png) 🡪 Chuyển trạng thái Trả cước sang:
 
 * Lái xe được nhập: Lái xe được phép nhập Tiền Đường, Số ngày lưu ca, Giá lưu ca và Cước phải thu.
 * Lái xe nhận: Lái xe được ủy quyền thu hộ, trên màn hình Lưu ca lái xe có thể nhập Ngày thu cước, nhấn chọn Đã thu cước và nhấn nút Xác nhận để xác nhận thu cước. Sau khi nhấn Xác nhận, trạng thái chuyến hàng được chuyển về Lái xe đã nhận và lái xe không thể thay đổi Ngày thu cước và chọn Đã thu cước được nữa.
 * Các trạng thái khác: chỉ cho phép lái xe theo dõi số liệu đã định mức trên web, không cho phép sửa thông tin.
 
-![](<../../.gitbook/assets/11 (6).png>)
+![](<../../.gitbook/assets/11 (5).png>)
 
 Cách 2: Lựa chọn từ Hệ điều hành/QL cước VC, chọn chuyến xe muốn sửa và thay đổi trạng thái cột Trả cước:
 
@@ -100,13 +100,13 @@ Bước 1: Nhấn nút Chi trả hộ🡪 Nhấn ![](<../../.gitbook/assets/13 (
 
 Bước 2: Chọn tên chi phí, nhập giá tiền 🡪 nhấn Lưu
 
-![](../../.gitbook/assets/14.png) ![](<../../.gitbook/assets/15 (4).png>)
+![](../../.gitbook/assets/14.png) ![](<../../.gitbook/assets/15 (3).png>)
 
 _Màn hình thông tin và nhập thu chi phát sinh_
 
 Thông tin lái xe nhập sau đó sẽ được trả về web, trong mục Lái xe 🡪 Quản lý thu chi lái xe và các báo cáo liên quan.
 
-![](<../../.gitbook/assets/16 (3).png>)
+![](<../../.gitbook/assets/16 (2).png>)
 
 _Màn hình quản lý thu chi lái xe trên web_
 
@@ -116,7 +116,7 @@ Bước 1: Nhấn nút Ảnh chứng từ 🡪 Nhấn ![](<../../.gitbook/assets
 
 Bước 2: Chọn ảnh từ thư viện hoặc chụp trực tiếp 🡪 Nhấn Tải lên để đưa ảnh vào lưu trữ
 
-![Không có mô tả.](<../../.gitbook/assets/18 (4).png>)![](<../../.gitbook/assets/19 (1).png>)
+![Không có mô tả.](<../../.gitbook/assets/18 (4).png>)![](../../.gitbook/assets/19.png)
 
 _Màn hình tải ảnh chứng từ trên mobile app_
 
@@ -127,7 +127,7 @@ _Màn hình tải ảnh chứng từ trên mobile app_
 
 ### **Sửa chữa** <a href="#_15phjt5" id="_15phjt5"></a>
 
-![](<../../.gitbook/assets/20 (2).png>)
+![](<../../.gitbook/assets/20 (1).png>)
 
 _Thao tác khai báo đề xuất sửa chữa_
 
@@ -187,5 +187,5 @@ Bước 2: Tại màn hình trang chủ, nhận chọn vào mục thông báo đ
 
 &#x20; &#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p><em>Màn hình hiển thị thông báo</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p><em>Màn hình hiển thị thông báo</em></p></figcaption></figure>
 

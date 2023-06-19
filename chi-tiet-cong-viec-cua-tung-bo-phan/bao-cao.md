@@ -20,11 +20,11 @@ Báo cáo Doanh thu chi phí theo xe là bảng tổng hợp thông tin lấy d�
 
 **Mẫu 1- mẫu chung**
 
-![](<../.gitbook/assets/0 (3).png>)
+![](<../.gitbook/assets/0 (1).png>)
 
 _Màn hình Chi tiết Bc Doanh thu chi phí theo xe_
 
-![](<../.gitbook/assets/1 (3).png>)
+![](../.gitbook/assets/1.png)
 
 _Màn hình Tổng hợp Bc Doanh thu chi phí theo xe_
 
@@ -46,9 +46,9 @@ _Màn hình Tổng hợp Bc Doanh thu chi phí theo xe_
 
 **Mẫu 2 – Dùng cho điều xe ghép**
 
-![](<../.gitbook/assets/2 (1).png>)
+![](../.gitbook/assets/2.png)
 
-![](<../.gitbook/assets/3 (5).png>)
+![](<../.gitbook/assets/3 (2).png>)
 
 _Màn hình báo cáo DTCP theo xe_
 
@@ -85,9 +85,9 @@ _Màn hình báo cáo DTCP theo xe_
 
 ![](<../.gitbook/assets/4 (1).png>)
 
-![](<../.gitbook/assets/5 (4).png>)
+![](<../.gitbook/assets/5 (2).png>)
 
-![](<../.gitbook/assets/6 (5).png>)_Màn hình Báo cáo bộ phận thống kê_
+![](<../.gitbook/assets/6 (4).png>)_Màn hình Báo cáo bộ phận thống kê_
 
 | Mã KH                         | Lấy từ cột Mã đối tác trong Quản lý đối tác - TTC             |
 | ----------------------------- | ------------------------------------------------------------- |
@@ -129,7 +129,7 @@ Tổng hợp các chi phí làm hàng theo lô, bao gồm: chi phí hải quan, 
 
 Báo cáo lô hàng được tự động cập nhật khi người dùng có các thay đổi số liệu chi phí chuyến hàng ở các tác vụ khác: Cập nhật chi phí chi, trả hộ; Cập nhật thông tin lưu ca; Cập nhật thông tin cược vỏ, Cập nhật thu chi lái xe.
 
-![](<../.gitbook/assets/7 (3).png>)
+![](<../.gitbook/assets/7 (2).png>)
 
 _Màn hình Báo cáo lô hàng_
 
@@ -143,7 +143,7 @@ _Màn hình Báo cáo lô hàng_
 
 **Quyết toán chi hộ**
 
-![](<../.gitbook/assets/8 (7).png>)
+![](<../.gitbook/assets/8 (6).png>)
 
 | Điều kiện hiển thị        | Tìm kiếm theo ngày tạo lô/ ngày thanh toán, có tạm ứng                      |
 | ------------------------- | --------------------------------------------------------------------------- |
@@ -163,7 +163,7 @@ _Màn hình Báo cáo lô hàng_
 
 **Bảng kê thanh toán cước**
 
-![](<../.gitbook/assets/9 (8).png>)
+![](<../.gitbook/assets/9 (7).png>)
 
 | Ngày                   | Ngày điều xe, tìm kiếm phụ thuộc vào ngày điều xe, dữ liệu chạy theo Ql cước vc                                                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -179,7 +179,7 @@ _Màn hình Báo cáo lô hàng_
 
 **Bảng kê cước vận chuyển**
 
-![](<../.gitbook/assets/10 (3).png>)
+![](<../.gitbook/assets/10 (2).png>)
 
 | Ngày          | Ngày tạo lô                                                             |
 | ------------- | ----------------------------------------------------------------------- |
@@ -195,7 +195,7 @@ _Màn hình Báo cáo lô hàng_
 
 **Bảng đối chiếu cước vận chuyển**
 
-![](<../.gitbook/assets/11 (1).png>)
+![](../.gitbook/assets/11.png)
 
 | Ngày                          | Ngày tạo/ sửa lô                                                        |
 | ----------------------------- | ----------------------------------------------------------------------- |
@@ -293,7 +293,7 @@ _Màn hình Báo cáo tổng hợp theo dõi bảo hiểm_
   *
     1. **Bảng kê chi tiết vận tải**
 
-![](<../.gitbook/assets/15 (1).png>)
+![](../.gitbook/assets/15.png)
 
 _Màn hình Bảng kê chi tiết vận tải_
 
@@ -325,7 +325,7 @@ _Màn hình Bảng kê chi tiết vận tải_
 
 Báo cáo theo Khách hàng: Tổng hợp các nội dung liên quan đến thu chi cho khách có phát sinh vận chuyển trong tháng. Cho phép lọc theo khách hàng và theo tháng.
 
-![](../.gitbook/assets/16.png)
+![](<../.gitbook/assets/16 (6).png>)
 
 _Màn hình Bc cước phí theo khách hàng_
 
@@ -384,7 +384,7 @@ Tổng hợp các thông tin liên quan đến chuyến hàng và xe điều cho
 
 **Báo cáo vận chuyển**
 
-![](../.gitbook/assets/19.png)
+![](<../.gitbook/assets/19 (5).png>)
 
 | Số vận đơn        | Số vận đơn/ số booking khai báo từ lô hàng                                   |
 | ----------------- | ---------------------------------------------------------------------------- |
@@ -401,7 +401,7 @@ Tổng hợp các thông tin liên quan đến chuyến hàng và xe điều cho
 
 **Báo cáo Vendor**
 
-![](<../.gitbook/assets/20 (5).png>)
+![](<../.gitbook/assets/20 (4).png>)
 
 | Ngày             | Ngày giao hàng                                                                         |
 | ---------------- | -------------------------------------------------------------------------------------- |
