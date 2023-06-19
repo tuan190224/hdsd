@@ -12,9 +12,9 @@ _Màn hình Quản lý thu chi lái xe_
 
 Bước 1: Trong mục Lái xe 🡪 Chọn Quản lý thu chi lái xe
 
-Bước 2: Tại cột chức năng của bảng Quản lý tạm ứng, nhấn nút ![](<../../.gitbook/assets/1 (1).png>)🡪 Nhập thông tin tạm ứng 🡪 Lưu.
+Bước 2: Tại cột chức năng của bảng Quản lý tạm ứng, nhấn nút ![](<../../.gitbook/assets/1 (3).png>)🡪 Nhập thông tin tạm ứng 🡪 Lưu.
 
-![](<../../.gitbook/assets/2 (10).png>)
+![](<../../.gitbook/assets/2 (6).png>)
 
 _Màn hình thêm mới tạm ứng lái xe_
 
@@ -24,11 +24,11 @@ Sau khi lái xe khai báo các chi phí lên phần mềm từ điện thoại, 
 
 **4.1.2.1 Thêm mới chi phí thanh toán**
 
-Bước 1: Tại cột chức năng của bảng Quản lý chi phí, nhấn nút ![](<../../.gitbook/assets/3 (5).png>)
+Bước 1: Tại cột chức năng của bảng Quản lý chi phí, nhấn nút ![](<../../.gitbook/assets/3 (6).png>)
 
 Bước 2: Nhập thông tin các chi phí vào bảng 🡪 Lưu
 
-![](<../../.gitbook/assets/4 (9).png>)
+![](<../../.gitbook/assets/4 (6).png>)
 
 _Màn hình thêm mới chi phí thanh toán_
 
@@ -38,7 +38,7 @@ Người dùng thực hiện việc kiểm soát các chi phí theo chứng từ
 
 Ngoài ra, người dùng cập nhật thêm trạng thái và ngày thanh toán khi hoàn thành quyết toán chi phí với lái xe.
 
-![](<../../.gitbook/assets/5 (2).png>)
+![](<../../.gitbook/assets/5 (3).png>)
 
 ### **4.2 Quản lý lương lái xe** <a href="#_rjefff" id="_rjefff"></a>
 
@@ -49,7 +49,7 @@ Quản lý chi phí lương lái xe hàng tháng. Có 2 cách tính lương trê
 * Tính theo từng chuyến
 * Tính theo tháng
 
-![](<../../.gitbook/assets/6 (5).png>)
+![](<../../.gitbook/assets/6 (8).png>)
 
 _Màn hình quản lý lương_
 
@@ -70,7 +70,7 @@ _Màn hình quản lý lương_
 | Trạng thái nhận lương | Phụ thuộc vào việc lái xe tích Đã nhận lương trên app mobile                                                                                                                                                 |
 | Ngày XN nhận lương    | Ngày lái xe tích chọn trên app mobile                                                                                                                                                                        |
 
-![](<../../.gitbook/assets/7 (8).png>)
+![](<../../.gitbook/assets/7 (4).png>)
 
 _H1. Bảng lương tiền hàng lái xe_
 
@@ -102,7 +102,7 @@ Quản lý thông tin chuyến xe, cho phép in lệnh điều xe ở 2 mẫu: k
 
 Người dùng có thể in đồng thời nhiều lệnh điều xe bằng thao tác: Tích chọn các chuyến muốn in ở đầu dòng 🡪 Chọn **In lệnh điều xe**
 
-![](../../.gitbook/assets/12.png) ![](<../../.gitbook/assets/13 (3).png>)
+![](../../.gitbook/assets/12.png) ![](<../../.gitbook/assets/13 (5).png>)
 
 _Màn hình Quản lý phơi phiếu_
 
@@ -118,8 +118,8 @@ _Màn hình Quản lý phơi phiếu_
 | Đơn giá                              | Đơn giá hao hụt khi khai báo lô hàng                                                                                                                                                                                                                                                                                                                                                           |
 | Lái xe chịu                          | = Hao hụt – \[((Lượng lx nhận- Lượng lx giao) – (Lượng lx nhận \* Hao hụt cho phép)) + Giảm trừ]                                                                                                                                                                                                                                                                                               |
 | Thành tiền                           | = Đơn giá \* Lái xe chịu                                                                                                                                                                                                                                                                                                                                                                       |
-| Ngày trả phơi phiếu                  | Nhập tay trong bảng cập nhật (nhấn nút ![](<../../.gitbook/assets/14 (2).png>))                                                                                                                                                                                                                                                                                                                |
-| Đã chuyển phơi phiếu cho KH          | Nhập tay trong bảng cập nhật (nhấn nút ![](<../../.gitbook/assets/15 (8).png>))                                                                                                                                                                                                                                                                                                                |
+| Ngày trả phơi phiếu                  | Nhập tay trong bảng cập nhật (nhấn nút ![](<../../.gitbook/assets/14 (7).png>))                                                                                                                                                                                                                                                                                                                |
+| Đã chuyển phơi phiếu cho KH          | Nhập tay trong bảng cập nhật (nhấn nút ![](<../../.gitbook/assets/15 (1).png>))                                                                                                                                                                                                                                                                                                                |
 | Lái xe đã nhận tiền đường, Ngày nhận | Theo thông tin gửi từ mobile app lên hệ thống                                                                                                                                                                                                                                                                                                                                                  |
 | Dầu thực tế                          | Lượng dầu định mức trong Ql chi phí vc.                                                                                                                                                                                                                                                                                                                                                        |
 | Dầu VAT                              | = (Tổng km chiều đi và về \* Định mức dầu bổ sung) + Dầu phát sinh                                                                                                                                                                                                                                                                                                                             |
@@ -127,7 +127,7 @@ _Màn hình Quản lý phơi phiếu_
 | Tiền đường VAT                       | = Tiền vé + Định mức phí                                                                                                                                                                                                                                                                                                                                                                       |
 | Trạng thái đề xuất                   | Trạng thái theo đề xuất công việc (mục Danh sách công việc- đề xuất thanh toán tương ứng)                                                                                                                                                                                                                                                                                                      |
 | Ghi chú                              | Theo ghi chú Điều xe                                                                                                                                                                                                                                                                                                                                                                           |
-| Chức năng                            | <p>- In phơi phiếu: Nhấn nút <img src="../../.gitbook/assets/16 (1).png" alt=""> 🡪 cho phép in có VAT/ không VAT. Chỉ dùng cho các chuyến lái xe đã tích nhận tiền đường</p><p>- Đề xuất: Nhấn nút <img src="../../.gitbook/assets/17 (8).png" alt=""> 🡪 Đề xuất tự động chuyển sang danh sách công việc.</p><p>- Gửi mail: nhấn nút <img src="../../.gitbook/assets/18 (6).png" alt=""></p> |
+| Chức năng                            | <p>- In phơi phiếu: Nhấn nút <img src="../../.gitbook/assets/16 (1).png" alt=""> 🡪 cho phép in có VAT/ không VAT. Chỉ dùng cho các chuyến lái xe đã tích nhận tiền đường</p><p>- Đề xuất: Nhấn nút <img src="../../.gitbook/assets/17 (4).png" alt=""> 🡪 Đề xuất tự động chuyển sang danh sách công việc.</p><p>- Gửi mail: nhấn nút <img src="../../.gitbook/assets/18 (6).png" alt=""></p> |
 
 * **Cách gửi ảnh qua mail**
 

@@ -4,7 +4,7 @@
 
 Bước 1: Tại mục **Nhiên liệu**, lựa chọn chức năng **Quản lý nhập nhiên liệu**.
 
-Bước 2: Nhấn nút ![](<../../.gitbook/assets/0 (4).png>)🡪 Điền các thông tin vào bảng.
+Bước 2: Nhấn nút ![](<../../.gitbook/assets/0 (7).png>)🡪 Điền các thông tin vào bảng.
 
 Bước 3: Nhấn Lưu để lưu lại thông tin thêm mới nhiên liệu
 
@@ -75,6 +75,6 @@ Bước 2: Chọn file excel từ máy tính 🡪 nhấn Mở để đưa file l
 
 _Lưu ý: trong trường hợp người dùng khai báo cấp dầu từ cây dầu của công ty, số liệu sẽ được sử dụng vào báo cáo tồn dầu._
 
-![](<../../.gitbook/assets/8 (1).png>)
+![](<../../.gitbook/assets/8 (4).png>)
 
 _Mẫu nhập liệu file excel_

@@ -4,7 +4,7 @@
 
 Bảng Quản lý phụ tùng có thể coi như các phân xưởng kho vật tư thiết bị của doanh nghiệp. Các vật tư có tên gọi được đồng bộ giữa các kho nhưng quản lý riêng về số lượng tồn của từng kho.
 
-![](<../../.gitbook/assets/0 (5).png>)
+![](<../../.gitbook/assets/0 (10).png>)
 
 _Màn hình Quản lý kho phụ tùng_
 
@@ -12,9 +12,9 @@ _Màn hình Quản lý kho phụ tùng_
 
 Bước 1: Trong mục Sửa chữa, chọn Thiết bị, phụ tùng
 
-Bước 2: Nhấn nút ![](<../../.gitbook/assets/1 (6).png>)🡪 Nhập thông tin vào bảng 🡪 Lưu
+Bước 2: Nhấn nút ![](<../../.gitbook/assets/1 (10).png>)🡪 Nhập thông tin vào bảng 🡪 Lưu
 
-![](<../../.gitbook/assets/2 (9).png>)
+![](<../../.gitbook/assets/2 (5).png>)
 
 * Sau khi lưu, thông tin thiết bị sẽ được cập nhật cho tất cả các kho mà doanh nghiệp quản lý
 * Nhập tồn cho phép: mặc định theo thông tin tạo mới ban đầu, có thể chỉnh sửa riêng cho từng kho. Thông tin định mức được dùng để đưa ra cảnh báo khi số lượng tồn trong các kho dưới mức cho phép.
@@ -28,7 +28,7 @@ Nhập kho: bao gồm thông tin phiếu nhập và chi tiết vật tư nhập 
 
 Chuyển kho: bao gồm các vật tư đã có phiếu xuất từ kho khác nhưng làm nhập kho quản lý.
 
-![](<../../.gitbook/assets/3 (2).png>)
+![](<../../.gitbook/assets/3 (3).png>)
 
 _Màn hình Quản lý nhập phụ tùng_
 
@@ -36,12 +36,12 @@ _Màn hình Quản lý nhập phụ tùng_
 
 Bước 1: Tại mục Sửa chữa, chọn Nhập kho
 
-Bước 2: Tạo thông tin phiếu nhập kho, nhấn ![](<../../.gitbook/assets/4 (8).png>), và nhập thông tin vào bảng 🡪 Lưu
+Bước 2: Tạo thông tin phiếu nhập kho, nhấn ![](<../../.gitbook/assets/4 (9).png>), và nhập thông tin vào bảng 🡪 Lưu
 
 * Kho nhập: là kho nhận vật tư vào để quản lý
 * Kho xuất: là nơi xuất vật tư đi.
 
-![](<../../.gitbook/assets/5 (9).png>)
+![](<../../.gitbook/assets/5 (2).png>)
 
 _Màn hình Thêm mới nhập phụ tùng_
 
@@ -49,7 +49,7 @@ _Lưu ý: Thông tin có chi tiết vật tư được phần mềm tự động
 
 Bước 3: Tạo chi tiết phiếu nhập kho, nhấn vào số tiền tại cột Số hóa đơn 🡪 Thêm mới thông tin các phụ tùng nhập vào phiếu 🡪 Lưu
 
-![](<../../.gitbook/assets/6 (4).png>)
+![](<../../.gitbook/assets/6 (7).png>)
 
 _Thao tác thêm mới chi tiết phiếu nhập phụ tùng_
 
@@ -57,11 +57,11 @@ _Thao tác thêm mới chi tiết phiếu nhập phụ tùng_
 
 Trường hợp vật tư có quản lý chi tiết số serial (tích chọn có chi tiết khi thêm mới Thiết bị, phụ tùng), người dùng nhập thêm chi tiết vật tư vào phiếu nhập:
 
-Bước 1: Tại màn hình chi tiết phiếu nhập phụ tùng, nhấn nút ![](<../../.gitbook/assets/7 (3).png>) ở vật tư quản lý chi tiết
+Bước 1: Tại màn hình chi tiết phiếu nhập phụ tùng, nhấn nút ![](<../../.gitbook/assets/7 (9).png>) ở vật tư quản lý chi tiết
 
 Bước 2: Nhấn nút Thêm mới 🡪 Nhập thông tin vào bảng 🡪 Lưu
 
-![](<../../.gitbook/assets/8 (4).png>)
+![](<../../.gitbook/assets/8 (8).png>)
 
 _Lưu ý:_
 
@@ -72,7 +72,7 @@ _Lưu ý:_
 
 Quản lý các thông tin liên quan đến xuất phụ tùng: xuất sửa chữa, xuất bán, xuất chuyển kho. Giúp bộ phận Sửa chữa quản lý, theo dõi lịch sử xuất phụ tùng đã nhập vào kho, đối chiếu báo cáo xuất-nhập-tồn kho sửa chữa.
 
-![](<../../.gitbook/assets/9 (8).png>)
+![](<../../.gitbook/assets/9 (2).png>)
 
 _Màn hình quản lý xuất kho_
 
@@ -85,13 +85,13 @@ Bước 2: Sau đó nhấn ![](<../../.gitbook/assets/10 (1).png>), và nhập t
 * Kho xuất: là nơi xuất vật tư đi.
 * Kho nhập: là kho nhận vật tư vào để quản lý
 
-![](<../../.gitbook/assets/11 (5).png>)
+![](<../../.gitbook/assets/11 (1).png>)
 
 _Màn hình thêm mới phiếu xuất kho vật tư_
 
 Bước 3: Thêm mới chi tiết phiếu xuất, nhấn vào con số tại cột Số hóa đơn 🡪 nhập chi tiết phiếu xuất 🡪 Lưu
 
-![](<../../.gitbook/assets/12 (3).png>)
+![](<../../.gitbook/assets/12 (6).png>)
 
 _Thao tác thêm chi tiết phiếu xuất_
 
@@ -115,7 +115,7 @@ Tại màn hình Chuyển kho, nhập trực tiếp Số hóa đơn nhập tại
 
 Bước 3: Tích chọn tại đầu dòng 🡪 Nhấn nút ![](<../../.gitbook/assets/14 (5).png>), thông tin các vật tư sẽ được đưa sang quản lý bên tab Phiếu nhập và Chi tiết của kho chuyển, không còn trong cảnh báo.
 
-![](<../../.gitbook/assets/15 (6).png>)
+![](<../../.gitbook/assets/15 (5).png>)
 
 _Thao tác đồng bộ dữ liệu chuyển kho_
 
@@ -125,7 +125,7 @@ _Thao tác đồng bộ dữ liệu chuyển kho_
 
 Phân quyền truy cập và thao tác các chức năng của Quản lý thu mua và báo giá trong mục **Hành chính** 🡪 **Cài đặt công việc**.
 
-![](<../../.gitbook/assets/16 (2).png>)
+![](<../../.gitbook/assets/16 (4).png>)
 
 _Màn hình quản lý nhóm công việc_
 
@@ -166,7 +166,7 @@ Bước 2: Nhấn **Thêm mới** 🡪 nhập đề nghị mua hàng.
 
 _Màn hình nhập và quản lý đề nghị mua hàng_
 
-Bước 3: Phê duyệt đề nghị mua hàng. Người thuộc nhóm Giám đốc/ Phê duyệt báo giá vào màn hình Đề xuất và báo giá🡪 nhấn ![](<../../.gitbook/assets/20 (3).png>)
+Bước 3: Phê duyệt đề nghị mua hàng. Người thuộc nhóm Giám đốc/ Phê duyệt báo giá vào màn hình Đề xuất và báo giá🡪 nhấn ![](<../../.gitbook/assets/20 (4).png>)
 
 Bước 4: Kiểm tra đề nghị và chuyển trạng thái sang Duyệt mua hàng/ Từ chối mua. Trường hợp Duyệt mua hàng 🡪 chuyển sang quá trình báo giá. Trường hợp từ chối mua, không có các chức năng tiếp theo.
 
@@ -332,5 +332,5 @@ Bước 3: Chọn **Thêm mới** để tạo thông tin làm quyết toán sử
 * Thông tin giá tiền và thời gian bảo hành lấy theo thông tin khi nhập phụ tùng.
 * Chỉ số km: Là chỉ số đồng hồ của xe trước khi thay mới một phụ tùng.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p><em>Màn hình thêm mới chi tiết hóa đơn sửa chữa</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p><em>Màn hình thêm mới chi tiết hóa đơn sửa chữa</em></p></figcaption></figure>
 
