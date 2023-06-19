@@ -1,8 +1,12 @@
 # Table of contents
 
 * [MỤC LỤC](README.md)
-* [CÁC BƯỚC BẮT ĐẦU SỬ DỤNG PHẦN MỀM](cac-buoc-bat-dau-s-dung-phan-mem.md)
-* [NHẬP THÔNG TIN CHUNG](nhap-thong-tin-chung.md)
+* [CÁC BƯỚC BẮT ĐẦU SỬ DỤNG PHẦN MỀM](cac-buoc-bat-dau-s-dung-phan-mem/README.md)
+  * [Khái quát quy trình vận hành và vai trò người dùng phần mềm](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/cac-buoc-bat-dau-s-dung-phan-mem#\_3whwml4)
+* [NHẬP THÔNG TIN CHUNG](nhap-thong-tin-chung/README.md)
+  * [1. Quản lý thông tin nhân viên](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/nhap-thong-tin-chung#\_2grqrue)
+  * [2.  Quản lý thông tin đối tác](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/nhap-thong-tin-chung#\_1fob9te)
+  * [3. Quản lý nhóm Khách hàng](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/nhap-thong-tin-chung#\_3znysh7)
 * [CHI TIẾT CÔNG VIỆC CỦA TỪNG BỘ PHẬN](chi-tiet-cong-viec-cua-tung-bo-phan/README.md)
   * [HÀNH CHÍNH](chi-tiet-cong-viec-cua-tung-bo-phan/hanh-chinh.md)
   * [BỘ PHẬN CUS](chi-tiet-cong-viec-cua-tung-bo-phan/bo-phan-cus.md)

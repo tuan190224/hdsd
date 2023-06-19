@@ -4,7 +4,7 @@
 
 Bước 1: Tại mục **Nhiên liệu**, lựa chọn chức năng **Quản lý nhập nhiên liệu**.
 
-Bước 2: Nhấn nút ![](<../.gitbook/assets/0 (8).png>)🡪 Điền các thông tin vào bảng.
+Bước 2: Nhấn nút ![](<../.gitbook/assets/0 (10).png>)🡪 Điền các thông tin vào bảng.
 
 Bước 3: Nhấn Lưu để lưu lại thông tin thêm mới nhiên liệu
 
@@ -27,7 +27,7 @@ Bước 1: Tại mục Nhiên liệu, lựa chọn chức năng Quản lý đị
 
 Bước 2: Nhập định mức dầu tại cột Định mức dầu. Phần mềm tự động tính ra tổng định mức dầu trên cả chuyến hàng.
 
-![](<../.gitbook/assets/3 (1).jpeg>)
+![](../.gitbook/assets/3.jpeg)
 
 _Lưu ý: Định mức thay đổi trong màn hình này được đồng thời cập nhật vào Quản lý cước vận chuyển để tính toán chi phí cho xe và đưa dữ liệu vào các báo cáo._
 
@@ -49,9 +49,9 @@ Bước 1: Tại mục Nhiên liệu, chọn QL dầu cấp cho xe
 
 Bước 2: Nhấn nút ![](<../.gitbook/assets/4 (8).png>) 🡪 nhập thông tin vào bảng 🡪 Lưu.
 
-![](<../.gitbook/assets/5 (3).png>)
+![](<../.gitbook/assets/5 (6).png>)
 
-![](<../.gitbook/assets/6 (5).png>)
+![](<../.gitbook/assets/6 (6).png>)
 
 _Màn hình nhập dữ liệu_
 
@@ -75,6 +75,6 @@ Bước 2: Chọn file excel từ máy tính 🡪 nhấn Mở để đưa file l
 
 _Lưu ý: trong trường hợp người dùng khai báo cấp dầu từ cây dầu của công ty, số liệu sẽ được sử dụng vào báo cáo tồn dầu._
 
-![](<../.gitbook/assets/8 (7).png>)
+![](<../.gitbook/assets/8 (6).png>)
 
 _Mẫu nhập liệu file excel_
