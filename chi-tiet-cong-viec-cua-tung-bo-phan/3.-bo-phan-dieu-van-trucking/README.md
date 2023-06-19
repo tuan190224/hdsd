@@ -8,7 +8,7 @@ Là chức năng quản lý kế hoạch của bộ phận điều xe theo ngày
 
 #### **3.1.1 Tạo kế hoạch vận chuyển** <a href="#_39kk8xu" id="_39kk8xu"></a>
 
-![](<../../.gitbook/assets/0 (1).png>)
+![](<../../.gitbook/assets/0 (7).png>)
 
 _Màn hình Kế hoạch vận chuyển_
 
@@ -21,14 +21,14 @@ Bước 2: Nhập thông tin vào bảng thêm mới
 * Thời gian cắt máng và thời gian đóng hàng: thời gian cắt máng sẽ phải nhập đủ ngày và giờ cụ thể, còn thời gian đóng hàng sẽ nhập giờ đóng hàng cụ thể, còn ngày đóng hàng sẽ lấy theo trường ngày vận chuyển
 * Số lượng xe điều vận, Tấn: Người dùng nhập theo thực tế kế hoạch
 * Trong TH hàng cont, người dùng có thể nhập thêm/ lựa chọn số cont đã có của lô.
-* Ngoài ra, nếu chưa có lô hàng, người dùng vẫn có thể chọn Khách hàng và lên kế hoạch vận chuyển như bình thường. Lô hàng tự tạo sau đó được lưu sang Ql lô rút gọn. Nút tắt ![](<../../.gitbook/assets/1 (2).png>) được dùng để tải file danh sách cont lên phần mềm.
+* Ngoài ra, nếu chưa có lô hàng, người dùng vẫn có thể chọn Khách hàng và lên kế hoạch vận chuyển như bình thường. Lô hàng tự tạo sau đó được lưu sang Ql lô rút gọn. Nút tắt ![](<../../.gitbook/assets/1 (1).png>) được dùng để tải file danh sách cont lên phần mềm.
 
-Bước 3: Phầm mềm cũng hỗ trợ tạo điều xe từ kế hoạch vận chuyển với nút tắt ![](<../../.gitbook/assets/2 (9).png>). Điều kiện sử dụng nút tắt:
+Bước 3: Phầm mềm cũng hỗ trợ tạo điều xe từ kế hoạch vận chuyển với nút tắt ![](<../../.gitbook/assets/2 (2).png>). Điều kiện sử dụng nút tắt:
 
 * Hàng nhập: Có số cont khi lên kế hoạch vận chuyển. Mỗi cont tương ứng với 01 chuyến được tạo trong màn hình Điều xe.
 * Hàng xuất: Nhập số lượng xe điều vận, không cần nhập số cont. Mỗi xe tương ứng với 01 chuyến được tạo trong màn hình Điều xe.
 
-![](<../../.gitbook/assets/3 (2).png>)
+![](<../../.gitbook/assets/3 (5).png>)
 
 _Màn hình thêm mới Kế hoạch vận chuyển_
 
@@ -36,7 +36,7 @@ _Màn hình thêm mới Kế hoạch vận chuyển_
 
 Theo dõi số lượng xe điều, lượng hàng vận chuyển trong 01 tháng theo từng lô hàng, cập nhật tiến độ điều xe hàng ngày.
 
-![](<../../.gitbook/assets/4 (5).png>)
+![](<../../.gitbook/assets/4 (9).png>)
 
 _Màn hình Kế hoạch điều xe_
 
@@ -46,7 +46,7 @@ Bước 1: Trong mục Kế hoạch điều xe, chọn tab Lịch điều xe
 
 Bước 2: Nhấn chuột vào sửa cột thời gian tương ứng với ngày dùng phần mềm 🡪 Nhập liệu🡪 Lưu
 
-![](<../../.gitbook/assets/5 (4).png>)
+![](<../../.gitbook/assets/5 (9).png>)
 
 _Lưu ý:_
 
@@ -68,21 +68,21 @@ Bước 1: Tại mục **Điều hành 🡪** chọn **Điều xe**
 
 Bước 2: Nhấn nút Điều xe 🡪 Chọn 1 xe
 
-![](<../../.gitbook/assets/6 (4).png>)
+![](../../.gitbook/assets/6.png)
 
 Bước 3: Nhập thông tin vào bảng thêm mới điều 1 xe 🡪 Nhấn lưu.
 
 * Trong trường hợp có chuyến ghép, người dùng chọn _Mã chuyến ghép_ – là mã các chuyến có cùng Ngày xe đi.
 * Loại rơ mooc được gán liền theo số mooc, nếu muốn thay đổi cần vào TTC – Danh sách Rơ-mooc để đổi loại.
-* Trường hợp sử dụng xe ngoài chưa khai báo trong danh sách xe. Nhấn chọn thêm xe ![](<../../.gitbook/assets/7 (6).png>) tại bảng Thêm kế hoạch điều xe. Sau đó điền thông tin xe muốn điều.
+* Trường hợp sử dụng xe ngoài chưa khai báo trong danh sách xe. Nhấn chọn thêm xe ![](<../../.gitbook/assets/7 (8).png>) tại bảng Thêm kế hoạch điều xe. Sau đó điền thông tin xe muốn điều.
 
 (Chức năng này chỉ sử dụng cho xe thuê ngoài. Đối với xe của công ty, người dùng thêm mới xe tại **Danh sách xe** của mục TTC)
 
-* Nhấn ![](<../../.gitbook/assets/8 (7).png>) nếu muốn điều thêm một xe khác với cùng thông tin lô.
+* Nhấn ![](<../../.gitbook/assets/8 (8).png>) nếu muốn điều thêm một xe khác với cùng thông tin lô.
 
 _Lưu ý:_
 
-![](<../../.gitbook/assets/15 (8).png>) ![](<../../.gitbook/assets/16 (2).jpeg>)
+![](<../../.gitbook/assets/15 (3).png>) ![](<../../.gitbook/assets/16 (1).jpeg>)
 
 _Màn hình thêm mới điều 1 xe Màn hình thêm xe thuê ngoài_
 
@@ -92,7 +92,7 @@ Bước 1: Trong mục Điều xe, nhấn Thêm mới 🡪 chọn n xe
 
 Bước 2: Chọn Mã lô 🡪 Nhập các thông tin vào bảng.
 
-![](<../../.gitbook/assets/20 (9).png>) ![](<../../.gitbook/assets/21 (1).png>)
+![](<../../.gitbook/assets/20 (2).png>) ![](<../../.gitbook/assets/21 (2).png>)
 
 _Màn hình điều n xe – lô hàng đủ Màn hình điều n xe – lô rút gọn_
 
@@ -102,7 +102,7 @@ Bước 1: Trong mục Điều xe, nhấn Thêm mới 🡪 chọn Không cần l
 
 Bước 2: Chọn Khách hàng 🡪 Nhập các thông tin vào bảng.
 
-![](../../.gitbook/assets/22.png)
+![](<../../.gitbook/assets/22 (1).png>)
 
 _Màn hình thêm mới điều không lô_
 
