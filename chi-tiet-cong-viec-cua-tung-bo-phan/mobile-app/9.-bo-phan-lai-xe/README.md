@@ -12,7 +12,7 @@ Bước 1: Vào bảng TTC 🡪 Nhân viên 🡪 Khai báo nhân viên với v�
 
 ![](<../../../.gitbook/assets/0 (2).png>)
 
-Bước 2: Tại mục Quản lý hệ thống\_Quản lý nhóm 🡪 Tìm nhóm Lái xe (Thực hiện Thêm mới nếu chưa có) 🡪 Nhấn nút ![](<../../../.gitbook/assets/1 (9).png>)
+Bước 2: Tại mục Quản lý hệ thống\_Quản lý nhóm 🡪 Tìm nhóm Lái xe (Thực hiện Thêm mới nếu chưa có) 🡪 Nhấn nút ![](<../../../.gitbook/assets/1 (6).png>)
 
 Bước 3: Chọn tab Quyền 🡪 Tích chọn phân quyền cho tài khoản Mobile 🡪 Cập nhật
 
@@ -20,7 +20,7 @@ Bước 3: Chọn tab Quyền 🡪 Tích chọn phân quyền cho tài khoản M
 
 Bước 4: Vào mục Quản lý người dùng 🡪 Thêm mới tài khoản🡪 Gán nhân viên Lái xe vừa tạo, chọn nhóm LÁI XE 🡪 Lưu
 
-![](<../../../.gitbook/assets/3 (7).png>)
+![](<../../../.gitbook/assets/3 (9).png>)
 
 ### **9.2 Đăng nhập** <a href="#_2d51dmb" id="_2d51dmb"></a>
 
@@ -34,7 +34,7 @@ Bước 2: Nhập các thông tin để đăng nhập:
 
 Bước 3: Lựa chọn xe cần quản lý thông tin
 
-![](../../../.gitbook/assets/4.jpeg) ![](<../../../.gitbook/assets/5 (8).png>)
+![](../../../.gitbook/assets/4.jpeg) ![](<../../../.gitbook/assets/5 (9).png>)
 
 _Màn hình đăng nhập trên điện thoại Các chức năng chính trên app mobile_
 
@@ -88,7 +88,7 @@ Bước 2: Tìm lô muốn đổi quyền, nhấn nút ![](../../../.gitbook/ass
 * Lái xe nhận: Lái xe được ủy quyền thu hộ, trên màn hình Lưu ca lái xe có thể nhập Ngày thu cước, nhấn chọn Đã thu cước và nhấn nút Xác nhận để xác nhận thu cước. Sau khi nhấn Xác nhận, trạng thái chuyến hàng được chuyển về Lái xe đã nhận và lái xe không thể thay đổi Ngày thu cước và chọn Đã thu cước được nữa.
 * Các trạng thái khác: chỉ cho phép lái xe theo dõi số liệu đã định mức trên web, không cho phép sửa thông tin.
 
-![](<../../../.gitbook/assets/11 (6).png>)
+![](<../../../.gitbook/assets/11 (5).png>)
 
 Cách 2: Lựa chọn từ Hệ điều hành/QL cước VC, chọn chuyến xe muốn sửa và thay đổi trạng thái cột Trả cước:
 
@@ -96,7 +96,7 @@ Cách 2: Lựa chọn từ Hệ điều hành/QL cước VC, chọn chuyến xe 
 
 #### **9.3.3 Chi trả hộ** <a href="#_4bewzdj" id="_4bewzdj"></a>
 
-Bước 1: Nhấn nút Chi trả hộ🡪 Nhấn ![](<../../../.gitbook/assets/13 (6).png>) để thêm các loại phí thu chi phát sinh
+Bước 1: Nhấn nút Chi trả hộ🡪 Nhấn ![](<../../../.gitbook/assets/13 (5).png>) để thêm các loại phí thu chi phát sinh
 
 Bước 2: Chọn tên chi phí, nhập giá tiền 🡪 nhấn Lưu
 
@@ -187,5 +187,5 @@ Bước 2: Tại màn hình trang chủ, nhận chọn vào mục thông báo đ
 
 &#x20; &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p><em>Màn hình hiển thị thông báo</em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p><em>Màn hình hiển thị thông báo</em></p></figcaption></figure>
 

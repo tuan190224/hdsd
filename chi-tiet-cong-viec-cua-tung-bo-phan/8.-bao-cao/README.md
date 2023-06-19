@@ -141,7 +141,7 @@ _Màn hình Báo cáo lô hàng_
 
 **8.1.3.1 Quyết toán chi hộ**
 
-![](<../../.gitbook/assets/8 (8).png>)
+![](<../../.gitbook/assets/8 (6).png>)
 
 | Điều kiện hiển thị        | Tìm kiếm theo ngày tạo lô/ ngày thanh toán, có tạm ứng                      |
 | ------------------------- | --------------------------------------------------------------------------- |

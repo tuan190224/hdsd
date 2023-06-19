@@ -102,7 +102,7 @@ Quản lý thông tin chuyến xe, cho phép in lệnh điều xe ở 2 mẫu: k
 
 Người dùng có thể in đồng thời nhiều lệnh điều xe bằng thao tác: Tích chọn các chuyến muốn in ở đầu dòng 🡪 Chọn **In lệnh điều xe**
 
-![](<../../.gitbook/assets/12 (3).png>) ![](<../../.gitbook/assets/13 (5).png>)
+![](<../../.gitbook/assets/12 (3).png>) ![](<../../.gitbook/assets/13 (6).png>)
 
 _Màn hình Quản lý phơi phiếu_
 
