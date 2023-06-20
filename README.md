@@ -1,8 +1,8 @@
 # MỤC LỤC
 
-![](<.gitbook/assets/0 (10).png>)
+![](<.gitbook/assets/0 (8).png>)
 
-![](.gitbook/assets/1.png) ![](<.gitbook/assets/2 (2).png>)
+![](<.gitbook/assets/1 (10).png>) ![](<.gitbook/assets/2 (2).png>)
 
 _**A.**_ _**CÁC BƯỚC BẮT ĐẦU SỬ DỤNG PHẦN MỀM**_&#x20;
 
@@ -360,7 +360,7 @@ _**9.**_ _**BỘ PHẬN LÁI XE**_&#x20;
 | <img src=".gitbook/assets/3 (3).png" alt="" data-size="original">                                                                                                                                                      | Xem chi tiết                                                                                                                                   |           |
 | <img src=".gitbook/assets/4.png" alt="" data-size="original">                                                                                                                                                          | Cập nhật thông tin                                                                                                                             |           |
 | <img src=".gitbook/assets/5 (4).png" alt="" data-size="original">                                                                                                                                                      | Xóa thông tin                                                                                                                                  |           |
-| <img src=".gitbook/assets/6 (5).png" alt="" data-size="original">                                                                                                                                                      | Xuất file excel                                                                                                                                |           |
+| <img src=".gitbook/assets/6 (4).png" alt="" data-size="original">                                                                                                                                                      | Xuất file excel                                                                                                                                |           |
 | <img src=".gitbook/assets/7 (4).png" alt="" data-size="original">                                                                                                                                                      | Xuất file PDF                                                                                                                                  |           |
-| <img src=".gitbook/assets/8 (6).png" alt="" data-size="original">                                                                                                                                                      | In                                                                                                                                             |           |
-| <p><img src=".gitbook/assets/9 (2).png" alt="" data-size="original"></p><p><img src=".gitbook/assets/10 (3).png" alt="" data-size="original"></p><p><img src=".gitbook/assets/11.png" alt="" data-size="original"></p> | <p>Cài đặt thông tin hiển thị trên màn hình</p><p>Bao gồm:</p><ul><li>Ẩn hiện cột:</li><li>Sắp xếp vị trí:</li><li>Thay đổi độ rộng:</li></ul> |           |
+| <img src=".gitbook/assets/8 (3).png" alt="" data-size="original">                                                                                                                                                      | In                                                                                                                                             |           |
+| <p><img src=".gitbook/assets/9 (1).png" alt="" data-size="original"></p><p><img src=".gitbook/assets/10 (1).png" alt="" data-size="original"></p><p><img src=".gitbook/assets/11.png" alt="" data-size="original"></p> | <p>Cài đặt thông tin hiển thị trên màn hình</p><p>Bao gồm:</p><ul><li>Ẩn hiện cột:</li><li>Sắp xếp vị trí:</li><li>Thay đổi độ rộng:</li></ul> |           |

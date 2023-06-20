@@ -4,7 +4,7 @@
 
 Bước 1: Tại mục **Nhiên liệu**, lựa chọn chức năng **Quản lý nhập nhiên liệu**.
 
-Bước 2: Nhấn nút <img src="../../.gitbook/assets/0 (7).png" alt="" data-size="line">🡪 Điền các thông tin vào bảng.
+Bước 2: Nhấn nút <img src="../../.gitbook/assets/0 (9).png" alt="" data-size="line">🡪 Điền các thông tin vào bảng.
 
 Bước 3: Nhấn Lưu để lưu lại thông tin thêm mới nhiên liệu
 
@@ -27,7 +27,7 @@ Bước 1: Tại mục Nhiên liệu, lựa chọn chức năng Quản lý đị
 
 Bước 2: Nhập định mức dầu tại cột Định mức dầu. Phần mềm tự động tính ra tổng định mức dầu trên cả chuyến hàng.
 
-![](../../.gitbook/assets/3.jpeg)
+![](<../../.gitbook/assets/3 (1).jpeg>)
 
 _Lưu ý: Định mức thay đổi trong màn hình này được đồng thời cập nhật vào Quản lý cước vận chuyển để tính toán chi phí cho xe và đưa dữ liệu vào các báo cáo._
 
@@ -51,7 +51,7 @@ Bước 2: Nhấn nút <img src="../../.gitbook/assets/4 (2).png" alt="" data-si
 
 ![](../../.gitbook/assets/5.png)
 
-<figure><img src="../../.gitbook/assets/6 (9).png" alt=""><figcaption><p><em><strong>Màn hình nhập dữ liệu</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (7).png" alt=""><figcaption><p><em><strong>Màn hình nhập dữ liệu</strong></em></p></figcaption></figure>
 
 * Biển số xe: Chọn từ danh sách xe đã nhập trong mục Thông tin chung
 * Nơi cung cấp: Chọn theo danh sách NCC Nhiên liệu đã nhập trong Thông tin chung, bảng Đối tác. Phần mềm lấy theo khai báo để xác định việc đổ dầu lấy từ cây dầu trong công ty hay đổ ngoài.
@@ -61,7 +61,7 @@ Bước 2: Nhấn nút <img src="../../.gitbook/assets/4 (2).png" alt="" data-si
 
 #### **7.3.2 Tải file excel dầu cấp nhiều xe** <a href="#_13qzunr" id="_13qzunr"></a>
 
-Bước 1: Tại màn hình Ql cấp dầu cho xe, nhấn nút <img src="../../.gitbook/assets/7 (1).png" alt="" data-size="line">
+Bước 1: Tại màn hình Ql cấp dầu cho xe, nhấn nút <img src="../../.gitbook/assets/7.png" alt="" data-size="line">
 
 * Mẫu file excel tải lên: [https://bitly.com.vn/0e9aeq](https://bitly.com.vn/0e9aeq)
 
@@ -73,4 +73,4 @@ Bước 2: Chọn file excel từ máy tính 🡪 nhấn Mở để đưa file l
 
 _Lưu ý: trong trường hợp người dùng khai báo cấp dầu từ cây dầu của công ty, số liệu sẽ được sử dụng vào báo cáo tồn dầu._
 
-![Mẫu nhập liệu file excel](../../.gitbook/assets/8.png)
+![Mẫu nhập liệu file excel](<../../.gitbook/assets/8 (8).png>)
