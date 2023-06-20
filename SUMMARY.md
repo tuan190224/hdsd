@@ -60,6 +60,7 @@
     * [6.3 Quản lý xuất kho](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/6.-bo-phan-kho-s-a-chua#\_4cmhg48)
     * [6.4 Quản lý chuyển kho](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/6.-bo-phan-kho-s-a-chua#\_16x20ju)
     * [6.5 Quản lý thu mua và báo giá](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/6.-bo-phan-kho-s-a-chua#\_3qwpj7n)
+    * [6.8 Điều xe sửa chữa](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/6.-bo-phan-kho-s-a-chua#6.8-dieu-xe-sua-chua)
   * [7. BỘ PHẬN QUẢN LÝ NHIÊN LIỆU](chi-tiet-cong-viec-cua-tung-bo-phan/7.-bo-phan-quan-ly-nhien-lieu/README.md)
     * [7.1 Quản lý nhập nhiên liệu](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/7.-bo-phan-quan-ly-nhien-lieu#\_qbtyoq)
     * [7.2 Quản lý định mức dầu chuyến xe](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/7.-bo-phan-quan-ly-nhien-lieu#\_3abhhcj)

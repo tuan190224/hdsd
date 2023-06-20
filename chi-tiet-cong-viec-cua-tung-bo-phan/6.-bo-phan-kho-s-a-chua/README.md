@@ -4,17 +4,15 @@
 
 Bảng Quản lý phụ tùng có thể coi như các phân xưởng kho vật tư thiết bị của doanh nghiệp. Các vật tư có tên gọi được đồng bộ giữa các kho nhưng quản lý riêng về số lượng tồn của từng kho.
 
-![](<../../.gitbook/assets/0 (5).png>)
-
-_Màn hình Quản lý kho phụ tùng_
+![Màn hình Quản lý kho phụ tùng](<../../.gitbook/assets/0 (5).png>)
 
 **Các bước thêm mới thông tin thiết bị, phụ tùng**
 
 Bước 1: Trong mục Sửa chữa, chọn Thiết bị, phụ tùng
 
-Bước 2: Nhấn nút ![](<../../.gitbook/assets/1 (9).png>)🡪 Nhập thông tin vào bảng 🡪 Lưu
+Bước 2: Nhấn nút ![](<../../.gitbook/assets/1 (3).png>)🡪 Nhập thông tin vào bảng 🡪 Lưu
 
-![](<../../.gitbook/assets/2 (9).png>)
+![](<../../.gitbook/assets/2 (3).png>)
 
 * Sau khi lưu, thông tin thiết bị sẽ được cập nhật cho tất cả các kho mà doanh nghiệp quản lý
 * Nhập tồn cho phép: mặc định theo thông tin tạo mới ban đầu, có thể chỉnh sửa riêng cho từng kho. Thông tin định mức được dùng để đưa ra cảnh báo khi số lượng tồn trong các kho dưới mức cho phép.
@@ -28,30 +26,24 @@ Nhập kho: bao gồm thông tin phiếu nhập và chi tiết vật tư nhập 
 
 Chuyển kho: bao gồm các vật tư đã có phiếu xuất từ kho khác nhưng làm nhập kho quản lý.
 
-![](<../../.gitbook/assets/3 (2).png>)
-
-_Màn hình Quản lý nhập phụ tùng_
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption><p><em><strong>Màn hình Quản lý nhập phụ tùng</strong></em></p></figcaption></figure>
 
 #### **6.2.1 Thêm mới thông tin nhập** <a href="#_3dhjn8m" id="_3dhjn8m"></a>
 
 Bước 1: Tại mục Sửa chữa, chọn Nhập kho
 
-Bước 2: Tạo thông tin phiếu nhập kho, nhấn ![](<../../.gitbook/assets/4 (6).png>), và nhập thông tin vào bảng 🡪 Lưu
+Bước 2: Tạo thông tin phiếu nhập kho, nhấn <img src="../../.gitbook/assets/4 (6).png" alt="" data-size="line">, và nhập thông tin vào bảng 🡪 Lưu
 
 * Kho nhập: là kho nhận vật tư vào để quản lý
 * Kho xuất: là nơi xuất vật tư đi.
 
-![](<../../.gitbook/assets/5 (9).png>)
-
-_Màn hình Thêm mới nhập phụ tùng_
+<figure><img src="../../.gitbook/assets/5 (8).png" alt=""><figcaption><p><em><strong>Màn hình Thêm mới nhập phụ tùng</strong></em></p></figcaption></figure>
 
 _Lưu ý: Thông tin có chi tiết vật tư được phần mềm tự động cập nhật theo khai báo đã nhập bên Thiết bị, phụ tùng._
 
 Bước 3: Tạo chi tiết phiếu nhập kho, nhấn vào số tiền tại cột Số hóa đơn 🡪 Thêm mới thông tin các phụ tùng nhập vào phiếu 🡪 Lưu
 
-![](<../../.gitbook/assets/6 (4).png>)
-
-_Thao tác thêm mới chi tiết phiếu nhập phụ tùng_
+![Thao tác thêm mới chi tiết phiếu nhập phụ tùng](<../../.gitbook/assets/6 (4).png>)
 
 #### **6.2.2 Cập nhật chi tiết vật tư nhập** <a href="#_1smtxgf" id="_1smtxgf"></a>
 
@@ -61,7 +53,7 @@ Bước 1: Tại màn hình chi tiết phiếu nhập phụ tùng, nhấn nút !
 
 Bước 2: Nhấn nút Thêm mới 🡪 Nhập thông tin vào bảng 🡪 Lưu
 
-![](<../../.gitbook/assets/8 (5).png>)
+![](<../../.gitbook/assets/8 (2).png>)
 
 _Lưu ý:_
 
@@ -72,28 +64,22 @@ _Lưu ý:_
 
 Quản lý các thông tin liên quan đến xuất phụ tùng: xuất sửa chữa, xuất bán, xuất chuyển kho. Giúp bộ phận Sửa chữa quản lý, theo dõi lịch sử xuất phụ tùng đã nhập vào kho, đối chiếu báo cáo xuất-nhập-tồn kho sửa chữa.
 
-![](<../../.gitbook/assets/9 (8).png>)
-
-_Màn hình quản lý xuất kho_
+<figure><img src="../../.gitbook/assets/9 (3).png" alt=""><figcaption><p><em><strong>Màn hình quản lý xuất kho</strong></em></p></figcaption></figure>
 
 #### **6.3.1 Thêm mới thông tin xuất** <a href="#_2rrrqc1" id="_2rrrqc1"></a>
 
 Bước 1: Tại mục Sửa chữa, chọn Nhập kho
 
-Bước 2: Sau đó nhấn ![](<../../.gitbook/assets/10 (5).png>), và nhập thông tin vào bảng 🡪 nhấn Lưu
+Bước 2: Sau đó nhấn ![](<../../.gitbook/assets/10 (6).png>), và nhập thông tin vào bảng 🡪 nhấn Lưu
 
 * Kho xuất: là nơi xuất vật tư đi.
 * Kho nhập: là kho nhận vật tư vào để quản lý
 
-![](<../../.gitbook/assets/11 (5).png>)
-
-_Màn hình thêm mới phiếu xuất kho vật tư_
+![Màn hình thêm mới phiếu xuất kho vật tư](<../../.gitbook/assets/11 (1).png>)
 
 Bước 3: Thêm mới chi tiết phiếu xuất, nhấn vào con số tại cột Số hóa đơn 🡪 nhập chi tiết phiếu xuất 🡪 Lưu
 
-![](../../.gitbook/assets/12.png)
-
-_Thao tác thêm chi tiết phiếu xuất_
+![Thao tác thêm chi tiết phiếu xuất](<../../.gitbook/assets/12 (6).png>)
 
 ### **6.4 Quản lý chuyển kho** <a href="#_16x20ju" id="_16x20ju"></a>
 
@@ -101,7 +87,7 @@ Thông tin trong quản lý nhập kho và xuất kho được quản lý độc
 
 Để tránh tình trạng mất cân bằng trong quản lý số liệu của các kho, phần mềm hỗ trợ cảnh báo người dùng các vật tư chưa hoàn thành khai báo và đồng bộ lại dữ liệu.
 
-![](<../../.gitbook/assets/13 (5).png>)
+![](<../../.gitbook/assets/13 (1).png>)
 
 Cụ thể, các vật tư có thông tin nhập kho mà chưa làm xuất kho sẽ hiển thị tại tab Chuyển kho của danh mục Nhập kho.
 
@@ -115,9 +101,7 @@ Tại màn hình Chuyển kho, nhập trực tiếp Số hóa đơn nhập tại
 
 Bước 3: Tích chọn tại đầu dòng 🡪 Nhấn nút ![](<../../.gitbook/assets/14 (2).png>), thông tin các vật tư sẽ được đưa sang quản lý bên tab Phiếu nhập và Chi tiết của kho chuyển, không còn trong cảnh báo.
 
-![](<../../.gitbook/assets/15 (1).png>)
-
-_Thao tác đồng bộ dữ liệu chuyển kho_
+![Thao tác đồng bộ dữ liệu chuyển kho](<../../.gitbook/assets/15 (1).png>)
 
 ### **6.5 Quản lý thu mua và báo giá** <a href="#_3qwpj7n" id="_3qwpj7n"></a>
 
@@ -125,9 +109,7 @@ _Thao tác đồng bộ dữ liệu chuyển kho_
 
 Phân quyền truy cập và thao tác các chức năng của Quản lý thu mua và báo giá trong mục **Hành chính** 🡪 **Cài đặt công việc**.
 
-![](<../../.gitbook/assets/16 (1).png>)
-
-_Màn hình quản lý nhóm công việc_
+<figure><img src="../../.gitbook/assets/16.png" alt=""><figcaption><p><em><strong>Màn hình quản lý nhóm công việc</strong></em></p></figcaption></figure>
 
 \- Người làm đề nghị mua hàng: toàn bộ người dùng có quyền truy cập vào màn hình Quản lý thu mua và báo giá
 
@@ -145,9 +127,7 @@ Bước 2: Tích chọn người dùng muốn đưa vào nhóm. Danh sách ngư�
 
 Bước 3: Nhấn Lưu.
 
-![](../../.gitbook/assets/17.png)
-
-_Thao tác thêm nhân viên vào nhóm theo vai trò_
+![Thao tác thêm nhân viên vào nhóm theo vai trò](<../../.gitbook/assets/17 (7).png>)
 
 #### **6.5.2 Lên đề xuất thu mua- Duyệt đề xuất** <a href="#_l7a3n9" id="_l7a3n9"></a>
 
@@ -157,14 +137,12 @@ Bước 1: Trong **Quản lý thu mua và báo giá**, chọn tab **Đề xuất
 
 Bước 2: Nhấn **Thêm mới** 🡪 nhập đề nghị mua hàng.
 
-* Hình ảnh trong kho: Cho phép chọn theo danh sách phụ tùng đã khai báo trong Thiết bị, phụ tùng. Nhấn ![](<../../.gitbook/assets/18 (2).png>) để chọn ảnh đã lưu trữ trên phần mềm cho phụ tùng đó.
+* Hình ảnh trong kho: Cho phép chọn theo danh sách phụ tùng đã khai báo trong Thiết bị, phụ tùng. Nhấn ![](<../../.gitbook/assets/18 (1).png>) để chọn ảnh đã lưu trữ trên phần mềm cho phụ tùng đó.
 * Trường hợp phụ tùng chưa khai báo/ chưa có ảnh trong kho, người dùng có thể upload trực tiếp từ máy tính vào đề nghị.
 * Mô tả: Lấy theo tên vật tư, có thể nhập thêm thông tin.
 * Mục đích: đưa vào phiếu in đề nghị mua hàng.
 
-![](<../../.gitbook/assets/19 (5).png>)
-
-_Màn hình nhập và quản lý đề nghị mua hàng_
+![Màn hình nhập và quản lý đề nghị mua hàng](<../../.gitbook/assets/19 (2).png>)
 
 Bước 3: Phê duyệt đề nghị mua hàng. Người thuộc nhóm Giám đốc/ Phê duyệt báo giá vào màn hình Đề xuất và báo giá🡪 nhấn ![](<../../.gitbook/assets/20 (3).png>)
 
@@ -174,15 +152,15 @@ Bước 4: Kiểm tra đề nghị và chuyển trạng thái sang Duyệt mua h
 
 Tại đề nghị mua hàng đã được duyệt, có thêm chức năng làm báo giá.
 
-Bước 1: Tại màn hình Đề xuất và báo giá, người được phân quyền làm báo giá bấm nút  để vào màn hình báo giá
+Bước 1: Tại màn hình Đề xuất và báo giá, người được phân quyền làm báo giá bấm nút <img src="../../.gitbook/assets/image (39).png" alt="" data-size="line"> để vào màn hình báo giá
 
-Bước 2: Tại màn hình báo giá, chọn nút  🡪 Nhập thông tin báo giá🡪 Nhấn Lưu.
+Bước 2: Tại màn hình báo giá, chọn nút <img src="../../.gitbook/assets/image (21).png" alt="" data-size="line"> 🡪 Nhập thông tin báo giá🡪 Nhấn Lưu.
 
-Trường hợp làm báo giá cho nhiều hơn một nhà cung cấp🡪 nhấn  để thêm trường nhập dữ liệu.
+Trường hợp làm báo giá cho nhiều hơn một nhà cung cấp🡪 nhấn <img src="../../.gitbook/assets/image (59).png" alt="" data-size="line"> để thêm trường nhập dữ liệu.
 
-Trường hợp muốn thêm thông tin thiết bị khác vào báo giá, nhấn nút  🡪 Nhập dữ liệu
+Trường hợp muốn thêm thông tin thiết bị khác vào báo giá, nhấn nút <img src="../../.gitbook/assets/image (25).png" alt="" data-size="line"> 🡪 Nhập dữ liệu
 
-_Thao tác tạo báo giá_
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption><p><em><strong>Thao tác tạo báo giá</strong></em></p></figcaption></figure>
 
 Sau khi nhân viên tạo xong báo giá, trạng thái của đề xuất là Chờ duyệt báo giá.
 
@@ -192,13 +170,13 @@ Bước 1: Nhấn vào nút chức năng phê duyệt trong chi tiết báo giá
 
 Bước 2: Chuyển trạng thái báo giá, nhập số lượng phê duyệt 🡪 Lưu
 
-_Thao tác duyệt thu mua_
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p><em><strong>Thao tác duyệt thu mua</strong></em></p></figcaption></figure>
 
 #### **6.5.4 Theo dõi thu mua** <a href="#_1kc7wiv" id="_1kc7wiv"></a>
 
 Sau khi báo giá được duyệt, thông tin đề xuất được đưa sang bảng Thu mua.
 
-Bước 1: Người được phân quyền (nhóm Thu mua trong Cài đặt công việc) vào màn hình Thu mua, nhấn nút&#x20;
+Bước 1: Người được phân quyền (nhóm Thu mua trong Cài đặt công việc) vào màn hình Thu mua, nhấn nút <img src="../../.gitbook/assets/image (2).png" alt="" data-size="line">
 
 Bước 2: Nhập các thông tin liên quan đến nhập kho 🡪 Nhấn **Lưu.**
 
@@ -206,19 +184,17 @@ _Lưu ý:_
 
 * _Các đề nghị quá thời gian xử lý – Hạn ngày có- mà chưa được nhập kho sẽ được đổi màu để cảnh báo._
 
-_Màn hình cập nhật thông tin thu mua_
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p><em><strong>Màn hình cập nhật thông tin thu mua</strong></em></p></figcaption></figure>
 
 ### **Thay thế, sửa chữa** <a href="#_44bvf6o" id="_44bvf6o"></a>
 
 Quản lý thay thế, sửa chữa giúp bộ phận Sửa chữa cập nhật, quản lý các sửa chữa, thay thế thiết bị theo xe: Mã hóa đơn, Số xe, Người phụ trách, Ngày lập hóa đơn, Tình trạng, Quyết toán, …
 
-
-
-_Màn hình Danh sách sửa chữa_
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p><em><strong>Màn hình Danh sách sửa chữa</strong></em></p></figcaption></figure>
 
 #### **Lên đề xuất sửa chữa** <a href="#_2jh5peh" id="_2jh5peh"></a>
 
-Bước 1: Tại mục Sửa chữa, chọn tiếp Thay thế, sửa chữa. Nhấn để khai báo 1 hóa đơn thay thế, sửa chữa.
+Bước 1: Tại mục Sửa chữa, chọn tiếp Thay thế, sửa chữa. Nhấn <img src="../../.gitbook/assets/image (69).png" alt="" data-size="line"> để khai báo 1 hóa đơn thay thế, sửa chữa.
 
 Bước 2: Nhập thông tin vào bảng theo hướng dẫn
 
@@ -229,13 +205,15 @@ Bước 2: Nhập thông tin vào bảng theo hướng dẫn
 
 Bước 3: Nhấn Lưu để lưu lại thông tin vừa khai báo.
 
-_Màn hình thêm mới Hóa đơn sửa chữa_
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới Hóa đơn sửa chữa</strong></em></p></figcaption></figure>
 
-#### **Lên dự tính sửa chữa chi tiết** <a href="#_ymfzma" id="_ymfzma"></a>
+#### **6.2. Lên dự tính sửa chữa chi tiết** <a href="#_ymfzma" id="_ymfzma"></a>
 
 Bước 1: Trong mục **Sửa chữa**, chọn **Thay thế, sửa chữa**
 
 Bước 2: Trong màn hình Danh sách thay thế, sửa chữa, Nhấn vào số tiền tại cột quyết toán, để thực hiện quyết toán sửa chữa
+
+<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 Bước 3: Chọn **Thêm mới** để tạo thông tin làm quyết toán sửa chữa và nhập thông tin sửa chữa vào bảng. Ấn **Lưu** để kết thúc
 
@@ -246,21 +224,27 @@ Bước 3: Chọn **Thêm mới** để tạo thông tin làm quyết toán sử
 * Thông tin giá tiền và thời gian bảo hành lấy theo thông tin khi nhập phụ tùng.
 * Chỉ số km: Là chỉ số đồng hồ của xe trước khi thay mới một phụ tùng.
 
-_Màn hình thêm mới chi tiết hóa đơn sửa chữa_
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới chi tiết hóa đơn sửa chữa</strong></em></p></figcaption></figure>
 
 _Lưu ý:_
 
+*   _Khi tạo hóa đơn, nếu chọn mã hóa đơn, thông tin quyết toán sửa chữa được ghi lại trong bảng Quản lý sửa chữa của Kế toán._
+
+
+*   _Trong trường hợp người dùng muốn xóa hóa đơn sửa chữa, cần xóa chi tiết của hóa đơn trước._
+
+
+* _Người dùng có thể in phiếu sửa chữa khi nhấn vào nút_ <img src="../../.gitbook/assets/image (45).png" alt="" data-size="line">_, hoặc đề xuất công việc sang bên Hành chính🡪 Danh sách công việc khi nhấn chọn_ <img src="../../.gitbook/assets/image (52).png" alt="" data-size="line">_._
+
 ### **Quản lý quá hạn** <a href="#_3im3ia3" id="_3im3ia3"></a>
 
-Quản lý quá hạn được hiển thị ngay trên màn hình giao diện chính (dashboard) giúp người dùng dễ dàng nắm bắt được những thông tin quá hạn cần xử lý ngay khi đăng nhập vào phần mềm.
+Quản lý quá hạn được hiển thị ngay trên màn hình giao diện chính (dashboard) giúp người dùng dễ dàng nắm bắt được những thông tin quá hạn cần xử lý ngay khi đăng nhập vào phần mềmềmềmềm.
 
-
-
-_Màn hình Dashboard hiển thị cảnh báo_
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption><p><em><strong>Màn hình Dashboard hiển thị cảnh báo</strong></em></p></figcaption></figure>
 
 Thông tin trong bảng quản lý quá hạn bao gồm: thông tin thêm mới trực tiếp và thông tin từ bảng Quản lý khấu hao liên kết sang.
 
-_Màn hình Quản lý quá hạn_
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption><p><em><strong>Màn hình Quản lý quá hạn</strong></em></p></figcaption></figure>
 
 #### **Theo dõi cảnh báo quá hạn** <a href="#_1xrdshw" id="_1xrdshw"></a>
 
@@ -278,13 +262,18 @@ Bước 2: Điền thông tin vào bảng 🡪 Lưu
 * Serial cũ: chọn trong danh sách các số serial của phụ tùng cũ đã khai báo trước đó
 * Ngày sửa chữa: Ngày sửa/ thay mới phụ tùng
 * Ngày quá hạn: chính là ngày hết hạn sử dụng của phụ tùng vùa thay/ sửa chữa
+
+<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+
 * _**Cách 2:**_
 
 Tạo Quyết toán sửa chữa trong chức năng Sửa chữa, thay thế🡪 Khai báo phụ tùng, số serial, serial cũ, và ngày quá hạn. (xem chi tiết tại mục Thay thế, sửa chữa)
 
-_Bảng thêm mới thông tin sửa chữa_
 
-#### **Hướng dẫn xử lý thông tin cảnh báo quá hạn** <a href="#_4hr1b5p" id="_4hr1b5p"></a>
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>6.7720</p></figcaption></figure>
+
+#### **6.7.2 Hướng dẫn xử lý thông tin cảnh báo quá hạn** <a href="#_4hr1b5p" id="_4hr1b5p"></a>
 
 Việc đặt hạn sử dụng cho phụ tùng giúp chủ xe chủ động trong việc bảo dưỡng, thay thế các phụ tùng đã xuống cấp hoặc đến hạn cần thay thế nhằm kéo dài tuổi thọ cho xe và đảm bảo an toàn khi xe lưu thông trên đường.
 
@@ -298,11 +287,14 @@ Phụ tùng theo xe được quản lý quá hạn với 02 trạng thái: Đang
 * Chọn đúng số xe có phụ tùng quá hạn
 * Chọn phụ tùng quá hạn để khai báo sửa/thay mới
 * Chọn số serial cũ- số serial của phụ tùng quá hạn, thêm số serial mới và ngày quá hạn để tiếp tục quản lý.
-  1. **Điều xe sửa chữa**
+
+#### **6.8 Điều xe sửa chữa**
 
 Điều xe sửa chữa có chức năng tương tự như Thay thế, sửa chữa. Trong khi Thay thế, sửa chữa được thực hiện tại Nơi sửa chữa; Điều xe sửa chữa thay thế, sửa chữa các thiết bị theo xe trong quá trình vận chuyển ( do sự cố).
 
-_Màn hình Điều xe sửa chữa_
+<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption><p><em><strong>Màn hình Điều xe sửa chữa</strong></em></p></figcaption></figure>
+
+#### **6.8.1**  <a href="#_1c1lvlb" id="_1c1lvlb"></a>
 
 #### **Lên đề xuất sửa chữa** <a href="#_1c1lvlb" id="_1c1lvlb"></a>
 
@@ -315,13 +307,15 @@ Bước 2: Nhập thông tin vào bảng theo hướng dẫn
 
 Bước 3: Nhấn Lưu để lưu lại thông tin vừa khai báo.
 
-_Màn hình thêm mới Hóa đơn điều xe sửa chữa_
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới Hóa đơn điều xe sửa chữa</strong></em></p></figcaption></figure>
 
 #### **Lên dự tính sửa chữa chi tiết** <a href="#_3w19e94" id="_3w19e94"></a>
 
 Bước 1: Trong mục **Sửa chữa**, chọn **Điều xe sửa chữa**
 
-Bước 2: Trong màn hình Điều xe sửa chữa, Nhấn vào nút  để bắt đầu thực hiện quyết toán sửa chữa
+Bước 2: Trong màn hình Điều xe sửa chữa, Nhấn vào nút <img src="../../.gitbook/assets/image (70).png" alt="" data-size="line"> để bắt đầu thực hiện quyết toán sửa chữa
+
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 Bước 3: Chọn **Thêm mới** để tạo thông tin làm quyết toán sửa chữa và nhập thông tin sửa chữa vào bảng. Ấn **Lưu** để kết thúc
 
@@ -332,5 +326,5 @@ Bước 3: Chọn **Thêm mới** để tạo thông tin làm quyết toán sử
 * Thông tin giá tiền và thời gian bảo hành lấy theo thông tin khi nhập phụ tùng.
 * Chỉ số km: Là chỉ số đồng hồ của xe trước khi thay mới một phụ tùng.
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p><em>Màn hình thêm mới chi tiết hóa đơn sửa chữa</em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới chi tiết hóa đơn sửa chữa</strong></em></p></figcaption></figure>
 

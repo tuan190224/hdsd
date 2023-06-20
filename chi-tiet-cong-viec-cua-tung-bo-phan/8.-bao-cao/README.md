@@ -18,108 +18,29 @@ Báo cáo Doanh thu chi phí theo xe là bảng tổng hợp thông tin lấy d�
 
 **8.1.1.1 Mẫu 1- mẫu chung**
 
-![](<../../.gitbook/assets/0 (2).png>)
+![Màn hình Chi tiết Bc Doanh thu chi phí theo xe](<../../.gitbook/assets/0 (9).png>)
 
-_Màn hình Chi tiết Bc Doanh thu chi phí theo xe_
+![Màn hình Tổng hợp Bc Doanh thu chi phí theo xe](<../../.gitbook/assets/1 (8).png>)
 
-![](<../../.gitbook/assets/1 (3).png>)
-
-_Màn hình Tổng hợp Bc Doanh thu chi phí theo xe_
-
-| Lượng giao/ Lượng nhận | Lượng lái xe giao / Lượng lái xe nhận                                                                         |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Lượng hao hụt          | Lượng Giao - Nhận                                                                                             |
-| DT vận tải bộ          | Cước thực thu trong Ql cước vc (= Định mức cước – Chiết khấu)                                                 |
-| Lưu ca                 | Tổng tiền lưu ca trong Ql cước vc                                                                             |
-| Nhiên liệu             | Tổng tiền nhiên liệu trong Ql chi phí vc (mặc định= (lượng dầu ĐM + Bổ sung) x Đơn giá định mức -lấy từ TTC)  |
-| Chi phí đi đường       | Tổng tiền đường trong Ql chi phí vc                                                                           |
-| Lương LX               | Lương khai báo trong bảng Nhân viên (k bao gồm phụ cấp, ...)                                                  |
-| Sửa chữa               | Tổng chi phí các hóa đơn sửa chữa của xe trong tháng                                                          |
-| Đăng kiểm & lưu thông  | (Phí đăng kiểm + dịch vụ) + Phí lưu thông đường bộ cho xe và mooc được gán cho xe                             |
-| Bảo hiểm               | Bảo hiểm Trách nhiệm dân sự + Bảo hiểm vật chất                                                               |
-| Ngân hàng              | Vay ngân hàng + Lãi ngân hàng                                                                                 |
-| Định vị                | Phí định vị + Phí camera                                                                                      |
-| Chi phí khác           | Các khoản phí thường niên còn lại                                                                             |
-| Lợi nhuận              | (DTVT bộ + Lưu ca) - Chi phí xe                                                                               |
+<table data-header-hidden><thead><tr><th width="191"></th><th></th></tr></thead><tbody><tr><td>Lượng giao/ Lượng nhận</td><td>Lượng lái xe giao / Lượng lái xe nhận </td></tr><tr><td>Lượng hao hụt</td><td>Lượng Giao - Nhận</td></tr><tr><td>DT vận tải bộ</td><td>Cước thực thu trong Ql cước vc (= Định mức cước – Chiết khấu)</td></tr><tr><td>Lưu ca</td><td>Tổng tiền lưu ca trong Ql cước vc</td></tr><tr><td>Nhiên liệu </td><td>Tổng tiền nhiên liệu trong Ql chi phí vc (mặc định= (lượng dầu ĐM + Bổ sung) x Đơn giá định mức -lấy từ TTC) </td></tr><tr><td>Chi phí đi đường </td><td>Tổng tiền đường trong Ql chi phí vc</td></tr><tr><td>Lương LX</td><td>Lương khai báo trong bảng Nhân viên (k bao gồm phụ cấp, ...)</td></tr><tr><td>Sửa chữa </td><td>Tổng chi phí các hóa đơn sửa chữa của xe trong tháng </td></tr><tr><td>Đăng kiểm &#x26; lưu thông </td><td>(Phí đăng kiểm + dịch vụ) + Phí lưu thông đường bộ cho xe và mooc được gán cho xe</td></tr><tr><td>Bảo hiểm</td><td>Bảo hiểm Trách nhiệm dân sự + Bảo hiểm vật chất</td></tr><tr><td>Ngân hàng </td><td>Vay ngân hàng + Lãi ngân hàng </td></tr><tr><td>Định vị </td><td>Phí định vị + Phí camera</td></tr><tr><td>Chi phí khác</td><td>Các khoản phí thường niên còn lại </td></tr><tr><td>Lợi nhuận </td><td>(DTVT bộ + Lưu ca) - Chi phí xe</td></tr></tbody></table>
 
 **8.1.1.2 Mẫu 2 – Dùng cho điều xe ghép**
 
-![](../../.gitbook/assets/2.png)
+![](<../../.gitbook/assets/2 (6).png>)
 
-![](<../../.gitbook/assets/3 (7).png>)
+![Màn hình báo cáo DTCP theo xe](../../.gitbook/assets/3.png)
 
-_Màn hình báo cáo DTCP theo xe_
+<table data-header-hidden><thead><tr><th width="215"></th><th></th></tr></thead><tbody><tr><td>Ngày đi</td><td>Ngày xe đi</td></tr><tr><td>Tuyến đường</td><td>Điểm đến trong KHĐX</td></tr><tr><td><p>Vé/ Sửa rửa/ Dầu</p><p>Ăn/ Công an</p></td><td>Thông tin tiền đường trong Điều xe ghép</td></tr><tr><td>Bốc vác</td><td>Tiền phát sinh, nhập trong Đx ghép- phần thông tin tiền đường </td></tr><tr><td>Bồi dưỡng</td><td>Chi phí khác, nhập trong Đx ghép- phần thông tin tiền đường </td></tr><tr><td>Tổng DT </td><td>= Cước thực thu + phát sinh (ô nhập bên cạnh Cách tính cước)</td></tr><tr><td>Tổng Chi phí</td><td>= Tổng CP </td></tr><tr><td>Đền Hao hụt </td><td>= [(lượng nhận - lượng giao)- (lượng nhận x %hao hụt)] x Giá đền bù</td></tr><tr><td>Đền tiền hàng </td><td><p>= Tiền hàng trong bảng lương lái xe (Chính là tiền đền bù gà yếu, chết)</p><p>= Đơn giá bù * Lái xe chịu (Nhập chi tiết trong Tiền hàng)</p></td></tr><tr><td>Lợi nhuận _ Dầu không theo chuyến</td><td>Tổng lượng Dầu cấp theo xe trong tháng</td></tr><tr><td>Lợi nhuận _ Sửa xe k theo chuyến</td><td>Tổng tiền các hóa đơn sửa chữa của xe trong tháng (theo ngày sửa)</td></tr><tr><td>Phí khác</td><td>Phí thường niên hàng tháng của xe</td></tr><tr><td>Lợi nhuận xe</td><td>= Tổng DT - (Tổng chi phí + Đền hao hụt + Đề tiền hàng + Dầu k theo chuyến + Sửa xe k theo chuyến + Phí khác)</td></tr><tr><td>% lái xe hưởng</td><td>Theo khai báo Lợi nhuận trong Đx ghép</td></tr><tr><td>Vận chuyển </td><td>= (Cước + Phát sinh- Đền hao hụt - Đền tiền hàng) x % lx hưởng </td></tr><tr><td>Hao hụt</td><td>= Đền hao hụt lô hàng</td></tr><tr><td>Dầu k theo chuyến </td><td>= Lợi nhuận _ Dầu không theo chuyến</td></tr><tr><td>Sửa k theo chuyến</td><td><p>Tổng các hóa đơn sửa xe trong tháng tính theo CT sau</p><p>HĐ &#x3C;1 triệu: Tính toán bộ cho lái xe</p><p>HĐ > 1 triệu: Lái xe chịu = 1 triệu + (Hóa đơn - 1 triệu)/ 2</p></td></tr><tr><td>VETC</td><td>= Tổng VETC trong tháng (nhập tại Quản lý phí thường niên)</td></tr><tr><td>Lái xe _ Lợi nhuận</td><td>= Tổng thu - (Tổng CP + VETC + Dầu k theo chuyến + Sửa xe k theo chuyến)</td></tr><tr><td>Phí thường niên </td><td>= Tổng các phí thường niên của xe trong tháng (trừ VETC đã tính cho Lxe)</td></tr><tr><td>Cước thu</td><td>= (Cước + Phát sinh - Đền hao hụt - Đền tiền hàng)* (100%- % lái xe hưởng) </td></tr><tr><td>Hỗ trợ sửa xe</td><td><p>HĐ > 1 triệu </p><p>= (Hóa đơn - 1 triệu)/ 2</p><p>= Sửa chữa k theo chuyến (Lợi nhuận) - Sửa chữa k theo chuyến (Lái xe) </p></td></tr><tr><td>Lợi nhuận</td><td>= Cước thu - (Phí thường niên + Hỗ trợ sửa xe)</td></tr></tbody></table>
 
-| Ngày đi                                   | Ngày xe đi                                                                                                                                                                     |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Tuyến đường                               | Điểm đến trong KHĐX                                                                                                                                                            |
-| <p>Vé/ Sửa rửa/ Dầu</p><p>Ăn/ Công an</p> | Thông tin tiền đường trong Điều xe ghép                                                                                                                                        |
-| Bốc vác                                   | Tiền phát sinh, nhập trong Đx ghép- phần thông tin tiền đường                                                                                                                  |
-| Bồi dưỡng                                 | Chi phí khác, nhập trong Đx ghép- phần thông tin tiền đường                                                                                                                    |
-| Tổng DT                                   | = Cước thực thu + phát sinh (ô nhập bên cạnh Cách tính cước)                                                                                                                   |
-| Tổng Chi phí                              | = Tổng CP                                                                                                                                                                      |
-| Đền Hao hụt                               | = \[(lượng nhận - lượng giao)- (lượng nhận x %hao hụt)] x Giá đền bù                                                                                                           |
-| Đền tiền hàng                             | <p>= Tiền hàng trong bảng lương lái xe (Chính là tiền đền bù gà yếu, chết)</p><p>= Đơn giá bù * Lái xe chịu (Nhập chi tiết trong Tiền hàng)</p>                                |
-| Lợi nhuận \_ Dầu không theo chuyến        | Tổng lượng Dầu cấp theo xe trong tháng                                                                                                                                         |
-| Lợi nhuận \_ Sửa xe k theo chuyến         | Tổng tiền các hóa đơn sửa chữa của xe trong tháng (theo ngày sửa)                                                                                                              |
-| Phí khác                                  | Phí thường niên hàng tháng của xe                                                                                                                                              |
-| Lợi nhuận xe                              | = Tổng DT - (Tổng chi phí + Đền hao hụt + Đề tiền hàng + Dầu k theo chuyến + Sửa xe k theo chuyến + Phí khác)                                                                  |
-| % lái xe hưởng                            | Theo khai báo Lợi nhuận trong Đx ghép                                                                                                                                          |
-| Vận chuyển                                | = (Cước + Phát sinh- Đền hao hụt - Đền tiền hàng) x % lx hưởng                                                                                                                 |
-| Hao hụt                                   | = Đền hao hụt lô hàng                                                                                                                                                          |
-| Dầu k theo chuyến                         | = Lợi nhuận \_ Dầu không theo chuyến                                                                                                                                           |
-| Sửa k theo chuyến                         | <p>Tổng các hóa đơn sửa xe trong tháng tính theo CT sau</p><p>HĐ &#x3C;1 triệu: Tính toán bộ cho lái xe</p><p>HĐ > 1 triệu: Lái xe chịu = 1 triệu + (Hóa đơn - 1 triệu)/ 2</p> |
-| VETC                                      | = Tổng VETC trong tháng (nhập tại Quản lý phí thường niên)                                                                                                                     |
-| Lái xe \_ Lợi nhuận                       | = Tổng thu - (Tổng CP + VETC + Dầu k theo chuyến + Sửa xe k theo chuyến)                                                                                                       |
-| Phí thường niên                           | = Tổng các phí thường niên của xe trong tháng (trừ VETC đã tính cho Lxe)                                                                                                       |
-| Cước thu                                  | = (Cước + Phát sinh - Đền hao hụt - Đền tiền hàng)\* (100%- % lái xe hưởng)                                                                                                    |
-| Hỗ trợ sửa xe                             | <p>HĐ > 1 triệu </p><p>= (Hóa đơn - 1 triệu)/ 2</p><p>= Sửa chữa k theo chuyến (Lợi nhuận) - Sửa chữa k theo chuyến (Lái xe) </p>                                              |
-| Lợi nhuận                                 | = Cước thu - (Phí thường niên + Hỗ trợ sửa xe)                                                                                                                                 |
-
-*
-  *
-    *
-      1. **Báo cáo bộ phận thống kê**
+#### **8.1.13 Báo cáo bộ phận thống kê**
 
 ![](<../../.gitbook/assets/4 (4).png>)
 
 ![](<../../.gitbook/assets/5 (5).png>)
 
-![](<../../.gitbook/assets/6 (7).png>)_Màn hình Báo cáo bộ phận thống kê_
+<figure><img src="../../.gitbook/assets/6 (2).png" alt=""><figcaption><p><em><strong>Màn hình Báo cáo bộ phận thống kê</strong></em></p></figcaption></figure>
 
-| Mã KH                         | Lấy từ cột Mã đối tác trong Quản lý đối tác - TTC             |
-| ----------------------------- | ------------------------------------------------------------- |
-| Khách hàng                    | Tên đầy đủ của khách hàng, link từ bảng Quản lý đối tác - TTC |
-| Mã chuyến ghép                | Link từ cột Mã chuyến ghéo trong Điều xe                      |
-| Tên hàng                      | Lấy từ Quản lý hàng hóa – TTC, link từ Qly lô hàng            |
-| Số book/bill                  | Lấy theo số vận đơn/ booking trong Quản lý lô hàng            |
-| Loại cont                     | Loại cont của chuyến                                          |
-| Hàng nhập/xuất                | Loại hàng xuất/ nhập/ nội địa trong Quản lý lô hàng           |
-| Điểm lấy hàng/đóng hàng       | Link từ Kế hoạch vận chuyển                                   |
-| Điểm giao hàng/nhận hàng      | Link từ Kế hoạch vận chuyển                                   |
-| Điểm hạ vỏ/lấy vỏ             | Link từ Kế hoạch vận chuyển                                   |
-| Cảng xuất                     | Link từ Quản lý lô hàng                                       |
-| Số cont                       | Số cont của chuyến xe                                         |
-| Số seal                       |                                                               |
-| Số tờ khai                    | Link từ Quản lý lô hàng                                       |
-| Ngày xe chạy                  | Ngày vận chuyển trong Kế hoạch điều xe                        |
-| Thời gian nhận hàng           | Link từ app mobile, sau khi lái xe tích nhận hàng             |
-| Thời gian giao hàng           | Link từ app mobile, sau khi lái xe tích giao hàng             |
-| Tổng thời gian giao nhận hàng | = Thời gian giao hàng – Thời gian nhận hàng                   |
-| Số xe                         | Link từ Điều xe                                               |
-| Tuyến đường                   |                                                               |
-| Số phiếu dầu                  |                                                               |
-| Dầu ĐM                        | Link từ cột ĐM dầu trong Quản lý chi phí vận chuyển           |
-| Bù trừ dầu                    |                                                               |
-| Dầu thực tế                   | Link từ Quản lý dầu cấp cho xe                                |
-| Vé chuyến                     | Tiền vé trong Quản lý chi phí vận chuyển                      |
-| Lương chuyến                  | Ca xe trong Quản lý chi phí vận chuyển                        |
-| Đi đường                      |                                                               |
-| Vé cao tốc                    | Vé cao tốc PS trong Quản lý chi phí vận chuyển                |
-| CP phát sinh                  |                                                               |
-| Tổng chi phí                  | Tiền đường trong Quản lý chi phí vận chuyển                   |
-| Lưu ca                        | Tổng tiền lưu ca trong Ql cước vc                             |
-| Ghi chú                       |                                                               |
+<table data-header-hidden><thead><tr><th width="268"></th><th></th></tr></thead><tbody><tr><td>Mã KH</td><td>Lấy từ cột Mã đối tác trong Quản lý đối tác - TTC</td></tr><tr><td>Khách hàng</td><td>Tên đầy đủ của khách hàng, link từ bảng Quản lý đối tác - TTC</td></tr><tr><td>Mã chuyến ghép</td><td>Link từ cột Mã chuyến ghéo trong Điều xe</td></tr><tr><td>Tên hàng</td><td>Lấy từ Quản lý hàng hóa – TTC, link từ Qly lô hàng</td></tr><tr><td>Số book/bill</td><td>Lấy theo số vận đơn/ booking trong Quản lý lô hàng</td></tr><tr><td>Loại cont</td><td>Loại cont của chuyến</td></tr><tr><td>Hàng nhập/xuất</td><td>Loại hàng xuất/ nhập/ nội địa trong Quản lý lô hàng</td></tr><tr><td>Điểm lấy hàng/đóng hàng</td><td>Link từ Kế hoạch vận chuyển</td></tr><tr><td>Điểm giao hàng/nhận hàng</td><td>Link từ Kế hoạch vận chuyển</td></tr><tr><td>Điểm hạ vỏ/lấy vỏ</td><td>Link từ Kế hoạch vận chuyển</td></tr><tr><td>Cảng xuất</td><td>Link từ Quản lý lô hàng</td></tr><tr><td>Số cont</td><td>Số cont của chuyến xe</td></tr><tr><td>Số seal</td><td></td></tr><tr><td>Số tờ khai</td><td>Link từ Quản lý lô hàng</td></tr><tr><td>Ngày xe chạy</td><td>Ngày vận chuyển trong Kế hoạch điều xe</td></tr><tr><td>Thời gian nhận hàng</td><td>Link từ app mobile, sau khi lái xe tích nhận hàng</td></tr><tr><td>Thời gian giao hàng</td><td>Link từ app mobile, sau khi lái xe tích giao hàng</td></tr><tr><td>Tổng thời gian giao nhận hàng</td><td>= Thời gian giao hàng – Thời gian nhận hàng</td></tr><tr><td>Số xe</td><td>Link từ Điều xe</td></tr><tr><td>Tuyến đường</td><td></td></tr><tr><td>Số phiếu dầu</td><td></td></tr><tr><td>Dầu ĐM</td><td>Link từ cột ĐM dầu trong Quản lý chi phí vận chuyển</td></tr><tr><td>Bù trừ dầu</td><td></td></tr><tr><td>Dầu thực tế</td><td>Link từ Quản lý dầu cấp cho xe</td></tr><tr><td>Vé chuyến</td><td>Tiền vé trong Quản lý chi phí vận chuyển</td></tr><tr><td>Lương chuyến</td><td>Ca xe trong Quản lý chi phí vận chuyển</td></tr><tr><td>Đi đường</td><td></td></tr><tr><td>Vé cao tốc</td><td>Vé cao tốc PS trong Quản lý chi phí vận chuyển</td></tr><tr><td>CP phát sinh</td><td></td></tr><tr><td>Tổng chi phí</td><td>Tiền đường trong Quản lý chi phí vận chuyển</td></tr><tr><td>Lưu ca</td><td>Tổng tiền lưu ca trong Ql cước vc</td></tr><tr><td>Ghi chú</td><td></td></tr></tbody></table>
 
 #### **8.1.2 Báo cáo lô hàng** <a href="#_320vgez" id="_320vgez"></a>
 
@@ -127,41 +48,21 @@ Tổng hợp các chi phí làm hàng theo lô, bao gồm: chi phí hải quan, 
 
 Báo cáo lô hàng được tự động cập nhật khi người dùng có các thay đổi số liệu chi phí chuyến hàng ở các tác vụ khác: Cập nhật chi phí chi, trả hộ; Cập nhật thông tin lưu ca; Cập nhật thông tin cược vỏ, Cập nhật thu chi lái xe.
 
-![](<../../.gitbook/assets/7 (6).png>)
+![Màn hình Báo cáo lô hàng](<../../.gitbook/assets/7 (5).png>)
 
-_Màn hình Báo cáo lô hàng_
-
-| Điều kiện hiển thị  | Tạo tạm ứng lô hàng từ Quản lý lô hàng đủ/ rút gọn                                                                                                                                                                         |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Nội dung chi phí    | <p>- Các chi phí trong tạm ứng lô hàng </p><p>- Cước các chuyến vận chuyển của lô (Thực tế theo cước thực thu, KH theo cước HĐ), Lưu ca của lô – Theo Ql cước vc và QTKH.</p><p>- Chi phí trong Quản lý thu chi lái xe</p> |
-| Ngày thực hiện      | <p>- Chi phí tạm ứng - Ngày tạo tạm ứng </p><p>- Cước + lưu ca: Ngày điều xe</p><p>- Chi phí thu chi lái xe: Ngày nhập phí</p>                                                                                             |
-| Ghi chú             | Ghi chú của Điều xe và tạm ứng lô hàng.                                                                                                                                                                                    |
+<table data-header-hidden><thead><tr><th width="218"></th><th></th></tr></thead><tbody><tr><td>Điều kiện hiển thị </td><td>Tạo tạm ứng lô hàng từ Quản lý lô hàng đủ/ rút gọn</td></tr><tr><td>Nội dung chi phí</td><td><p>- Các chi phí trong tạm ứng lô hàng </p><p>- Cước các chuyến vận chuyển của lô (Thực tế theo cước thực thu, KH theo cước HĐ), Lưu ca của lô – Theo Ql cước vc và QTKH.</p><p>- Chi phí trong Quản lý thu chi lái xe</p></td></tr><tr><td>Ngày thực hiện</td><td><p>- Chi phí tạm ứng - Ngày tạo tạm ứng </p><p>- Cước + lưu ca: Ngày điều xe</p><p>- Chi phí thu chi lái xe: Ngày nhập phí</p></td></tr><tr><td>Ghi chú</td><td>Ghi chú của Điều xe và tạm ứng lô hàng.</td></tr></tbody></table>
 
 #### **8.1.3 Thanh toán khách hàng** <a href="#_1h65qms" id="_1h65qms"></a>
 
 **8.1.3.1 Quyết toán chi hộ**
 
-![](../../.gitbook/assets/8.png)
+![](<../../.gitbook/assets/8 (7).png>)
 
-| Điều kiện hiển thị        | Tìm kiếm theo ngày tạo lô/ ngày thanh toán, có tạm ứng                      |
-| ------------------------- | --------------------------------------------------------------------------- |
-| Ghi chú                   | Ghi chú QTKH (hoặc từ tạm ứng/ QTNB)                                        |
-| Ngày TK                   |                                                                             |
-| Bill/ Booking             | Lấy theo số vận đơn/ booking trong Quản lý lô hàng                          |
-| Ngày tạo lô               | Ngày tạo lô hàng                                                            |
-| Tờ khai hải quan/ số cont | Số tờ khai/ số cont được khai báo ở Qly lô hàng                             |
-| Hàng, Loại cont           | Loại hàng xuất/ nhập/ nội địa; loại hàng cont 20, 40,... trong Ql lô hàng   |
-| Trị giá hóa đơn           | theo Thành tiền trong QTKH                                                  |
-| Mã lô                     | Mã lô được tạo tạI Qly lô hàng                                              |
-| Nội dung                  | Các chi phí Chi trả hộ trong QTKH                                           |
-| Ngày thanh toán           | Ngày tích thanh toán trong Tạm ứng lô hàng/ Quản lý tạm ứng- tab Thanh toán |
-| Ngày hóa đơn              | Ngày hóa đơn trong Tạm ứng lô hàng/ Quản lý tạm ứng- tab Thanh toán         |
-| Số hóa đơn                | Nhập tại cột hóa đơn ở Quyết toán theo KH                                   |
-| Trị giá hóa đơn           | Là số thành tiền của các phí trong bảng                                     |
+<table data-header-hidden><thead><tr><th width="250"></th><th></th></tr></thead><tbody><tr><td>Điều kiện hiển thị</td><td>Tìm kiếm theo ngày tạo lô/ ngày thanh toán, có tạm ứng</td></tr><tr><td>Ghi chú</td><td>Ghi chú QTKH (hoặc từ tạm ứng/ QTNB)</td></tr><tr><td>Ngày TK</td><td></td></tr><tr><td>Bill/ Booking</td><td>Lấy theo số vận đơn/ booking trong Quản lý lô hàng</td></tr><tr><td>Ngày tạo lô</td><td>Ngày tạo lô hàng</td></tr><tr><td>Tờ khai hải quan/ số cont</td><td>Số tờ khai/ số cont được khai báo ở Qly lô hàng</td></tr><tr><td>Hàng, Loại cont </td><td>Loại hàng xuất/ nhập/ nội địa; loại hàng cont 20, 40,... trong Ql lô hàng</td></tr><tr><td>Trị giá hóa đơn </td><td>theo Thành tiền trong QTKH</td></tr><tr><td>Mã lô</td><td>Mã lô được tạo tạI Qly lô hàng</td></tr><tr><td>Nội dung</td><td>Các chi phí Chi trả hộ trong QTKH</td></tr><tr><td>Ngày thanh toán</td><td>Ngày tích thanh toán trong Tạm ứng lô hàng/ Quản lý tạm ứng- tab Thanh toán</td></tr><tr><td>Ngày hóa đơn</td><td>Ngày hóa đơn trong Tạm ứng lô hàng/ Quản lý tạm ứng- tab Thanh toán</td></tr><tr><td>Số hóa đơn</td><td>Nhập tại cột hóa đơn ở Quyết toán theo KH</td></tr><tr><td>Trị giá hóa đơn</td><td>Là số thành tiền của các phí trong bảng</td></tr></tbody></table>
 
 **8.1.3.2 Bảng kê thanh toán cước**
 
-![](<../../.gitbook/assets/9 (4).png>)
+![](<../../.gitbook/assets/9 (8).png>)
 
 | Ngày                   | Ngày điều xe, tìm kiếm phụ thuộc vào ngày điều xe, dữ liệu chạy theo Ql cước vc                                                                                                                        |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -177,73 +78,21 @@ _Màn hình Báo cáo lô hàng_
 
 **8.1.3.3 Bảng kê cước vận chuyển**
 
-![](<../../.gitbook/assets/10 (4).png>)
+![](<../../.gitbook/assets/10 (2).png>)
 
-| Ngày          | Ngày tạo lô                                                             |
-| ------------- | ----------------------------------------------------------------------- |
-| Tìm kiếm      | Ngày điều xe                                                            |
-| Số xe         | theo Điều xe                                                            |
-| Diễn giải     | Tuyến đường lấy theo điểm Mở rộng - Chi tiết                            |
-| Số container  | Số cont từ điều xe                                                      |
-| Loại lô hàng  | Loại hàng xuất/ nhập/ nội địa trong Ql lô hàng                          |
-| Phí chi hộ    | =Tổng chị trả hộ (QTKH)/ số chuyến của lô (làm tròn đến hàng nghìn VNĐ) |
-| Tiền VC       | = Thành tiền cước HĐ + Phát sinh cước HĐ (chưa bao gồm Lưu ca 9/11)     |
-| Tổng          | = Phí chi hộ + Tiền vận chuyển                                          |
-| Ghi chú       | Loại cont (20’, 40’...)                                                 |
+<table data-header-hidden><thead><tr><th width="218"></th><th></th></tr></thead><tbody><tr><td>Ngày</td><td>Ngày tạo lô</td></tr><tr><td>Tìm kiếm</td><td>Ngày điều xe</td></tr><tr><td>Số xe</td><td>theo Điều xe</td></tr><tr><td>Diễn giải </td><td>Tuyến đường lấy theo điểm Mở rộng - Chi tiết </td></tr><tr><td>Số container </td><td>Số cont từ điều xe</td></tr><tr><td>Loại lô hàng </td><td>Loại hàng xuất/ nhập/ nội địa trong Ql lô hàng</td></tr><tr><td>Phí chi hộ</td><td>=Tổng chị trả hộ (QTKH)/ số chuyến của lô (làm tròn đến hàng nghìn VNĐ)</td></tr><tr><td>Tiền VC</td><td>= Thành tiền cước HĐ + Phát sinh cước HĐ (chưa bao gồm Lưu ca 9/11)</td></tr><tr><td>Tổng</td><td>= Phí chi hộ + Tiền vận chuyển</td></tr><tr><td>Ghi chú</td><td>Loại cont (20’, 40’...)</td></tr></tbody></table>
 
 **8.1.3.4 Bảng đối chiếu cước vận chuyển**
 
-![](<../../.gitbook/assets/11 (2).png>)
+![](<../../.gitbook/assets/11 (3).png>)
 
-| Ngày                          | Ngày tạo/ sửa lô                                                        |
-| ----------------------------- | ----------------------------------------------------------------------- |
-| Số xe                         | Số xe đã chọn khi tạo điều xe                                           |
-| Diễn giải                     | Tuyến đường trong điều xe (tuyến đầu tiên, không tính chuyển điểm)      |
-| Mã lô                         | Mã lô đã tạo trong Qly lô hàng                                          |
-| Bill                          | Lấy theo số vận đơn/ booking trong Quản lý lô hàng                      |
-| Lượng giao                    | Lượng giao khi khai báo ở Điều xe                                       |
-| Làm luật                      | Phí kẹp quá tải của Phí chi trả hộ theo thuyến - Qly chi phí vận chuyển |
-| Chi phí phát sinh theo chuyến | bỏ                                                                      |
-| Chi phí khác                  | bỏ                                                                      |
-| Chi phí phát sinh tiền đường  | bỏ                                                                      |
-| Tổng cước VC (chưa VAT)       | Cước TT - Qly cước VC                                                   |
-| VAT                           |                                                                         |
-| Tổng                          | bỏ                                                                      |
-| Lượng nhận                    | Lượng nhận được khai báo khi điều xe                                    |
-| Số cont                       | Số cont của chuyến xe                                                   |
-| Cont/ Chuyến                  | (Các) loại cont của chuyến                                              |
-| Tiền cước                     | Tiền cước HĐ                                                            |
-| Phí nâng hàng                 |                                                                         |
-| Phí hạ hàng                   |                                                                         |
-| Phát sinh khác                | Phát sinh cước chuyển điểm + Lưu ca                                     |
-| Cộng                          |                                                                         |
-| Lưu ca                        |                                                                         |
-| Phát sinh chuyển điểm         |                                                                         |
-| Ghi chú                       | theo ghi chú của Điều xe                                                |
+<table data-header-hidden><thead><tr><th width="236"></th><th></th></tr></thead><tbody><tr><td>Ngày</td><td>Ngày tạo/ sửa lô</td></tr><tr><td>Số xe</td><td>Số xe đã chọn khi tạo điều xe</td></tr><tr><td>Diễn giải</td><td>Tuyến đường trong điều xe (tuyến đầu tiên, không tính chuyển điểm)</td></tr><tr><td>Mã lô</td><td>Mã lô đã tạo trong Qly lô hàng</td></tr><tr><td>Bill</td><td>Lấy theo số vận đơn/ booking trong Quản lý lô hàng</td></tr><tr><td>Lượng giao</td><td>Lượng giao khi khai báo ở Điều xe</td></tr><tr><td>Làm luật</td><td>Phí kẹp quá tải của Phí chi trả hộ theo thuyến - Qly chi phí vận chuyển</td></tr><tr><td>Chi phí phát sinh theo chuyến</td><td>bỏ</td></tr><tr><td>Chi phí khác</td><td>bỏ</td></tr><tr><td>Chi phí phát sinh tiền đường</td><td>bỏ</td></tr><tr><td>Tổng cước VC (chưa VAT)</td><td>Cước TT - Qly cước VC</td></tr><tr><td>VAT</td><td></td></tr><tr><td>Tổng</td><td>bỏ</td></tr><tr><td>Lượng nhận</td><td>Lượng nhận được khai báo khi điều xe</td></tr><tr><td>Số cont</td><td>Số cont của chuyến xe</td></tr><tr><td>Cont/ Chuyến</td><td>(Các) loại cont của chuyến</td></tr><tr><td>Tiền cước</td><td>Tiền cước HĐ</td></tr><tr><td>Phí nâng hàng</td><td></td></tr><tr><td>Phí hạ hàng</td><td></td></tr><tr><td>Phát sinh khác</td><td>Phát sinh cước chuyển điểm + Lưu ca</td></tr><tr><td>Cộng</td><td></td></tr><tr><td>Lưu ca</td><td></td></tr><tr><td>Phát sinh chuyển điểm</td><td></td></tr><tr><td>Ghi chú</td><td>theo ghi chú của Điều xe</td></tr></tbody></table>
 
 **8.1.3.5 Bảng kê chi tiết phí làm hàng**
 
-![](<../../.gitbook/assets/12 (4).png>)
+![](<../../.gitbook/assets/12 (3).png>)
 
-| Ngày thực hiện                       | Ngày tạo/ sửa lô                                                                                          |
-| ------------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| Bill                                 | Số vận đơn/ booking khai báo khi tạo lô                                                                   |
-| Mã lô                                | Được tạo ra từ Qly lô hàng                                                                                |
-| Loại lô hàng                         | Nhập/xuất/Nội địa                                                                                         |
-| Phí dịch vụ giao nhận hàng nhập khẩu | = Tổng phí dịch vụ trong qtkh - (lưu ca + cước vận chuyển + phát sinh chuyển điểm + phát sinh lạch huyện) |
-| Chi phí hải quan giám sát            | =Phí HQ giám sát ở Qly tạm ứng lô hàng                                                                    |
-| Phát sinh vận chuyển                 | Tổng cước VC trong QTKH                                                                                   |
-| Thuế GTGT dịch vụ                    | Tổng phí dịch vụ trong QTKH \* VAT (được khai báo khi tạo lô hàng)                                        |
-| Thuế GTGT vận chuyển                 | Tổng Cước VC trong QTKH \* VAT                                                                            |
-| VAT                                  | Phí VAT được khai báo khi tạo lô hàng                                                                     |
-| Khách tạm ứng                        | Được khai báo cột Khách tạm ứng - Qly cước VC                                                             |
-| Danh sách phí                        | Các phí thuộc mục Chi trả hộ của QTKH (số HĐ, ngày HĐ lấy từ QTNB sang)                                   |
-| Tổng                                 | Tổng chi phí chi trả hộ                                                                                   |
-| Lưu ca                               | tiền lưu ca được khai báo khi tạo Điều xe                                                                 |
-| Phí phát sinh chuyển điểm            | Phí phát sinh khi có tuyến chuyển điểm được link từ cột Phát sinh chuyển điểm - Qly cước VC               |
-| Tổng cộng                            | Tổng các phí trên bảng                                                                                    |
-| Số cont                              | Số cont đã vận chuyển của lô                                                                              |
-| Ghi chú                              | theo ghi chú của Điều xe                                                                                  |
+<table data-header-hidden><thead><tr><th width="234"></th><th></th></tr></thead><tbody><tr><td>Ngày thực hiện</td><td>Ngày tạo/ sửa lô</td></tr><tr><td>Bill</td><td>Số vận đơn/ booking khai báo khi tạo lô</td></tr><tr><td>Mã lô</td><td>Được tạo ra từ Qly lô hàng</td></tr><tr><td>Loại lô hàng</td><td>Nhập/xuất/Nội địa</td></tr><tr><td>Phí dịch vụ giao nhận hàng nhập khẩu</td><td>= Tổng phí dịch vụ trong qtkh - (lưu ca + cước vận chuyển + phát sinh chuyển điểm + phát sinh lạch huyện)</td></tr><tr><td>Chi phí hải quan giám sát</td><td>=Phí HQ giám sát ở Qly tạm ứng lô hàng</td></tr><tr><td>Phát sinh vận chuyển</td><td>Tổng cước VC trong QTKH</td></tr><tr><td>Thuế GTGT dịch vụ</td><td>Tổng phí dịch vụ trong QTKH * VAT (được khai báo khi tạo lô hàng)</td></tr><tr><td>Thuế GTGT vận chuyển</td><td>Tổng Cước VC trong QTKH * VAT</td></tr><tr><td>VAT</td><td>Phí VAT được khai báo khi tạo lô hàng</td></tr><tr><td>Khách tạm ứng</td><td>Được khai báo cột Khách tạm ứng - Qly cước VC</td></tr><tr><td>Danh sách phí</td><td>Các phí thuộc mục Chi trả hộ của QTKH (số HĐ, ngày HĐ lấy từ QTNB sang)</td></tr><tr><td>Tổng</td><td>Tổng chi phí chi trả hộ</td></tr><tr><td>Lưu ca</td><td>tiền lưu ca được khai báo khi tạo Điều xe</td></tr><tr><td>Phí phát sinh chuyển điểm</td><td>Phí phát sinh khi có tuyến chuyển điểm được link từ cột Phát sinh chuyển điểm - Qly cước VC</td></tr><tr><td>Tổng cộng</td><td>Tổng các phí trên bảng</td></tr><tr><td>Số cont</td><td>Số cont đã vận chuyển của lô</td></tr><tr><td>Ghi chú</td><td>theo ghi chú của Điều xe</td></tr></tbody></table>
 
 #### **8.1.4 Báo cáo cước xe ngoài** <a href="#_415t9al" id="_415t9al"></a>
 
@@ -251,17 +100,9 @@ _Màn hình Báo cáo lô hàng_
 
 Hiển thị thông tin chuyến hàng và cước phí tương ứng với những chuyến xe thuê ngoài.
 
-![](../../.gitbook/assets/13.png)
+![Màn hình báo cáo cước xe ngoài](<../../.gitbook/assets/13 (3).png>)
 
-_Màn hình báo cáo cước xe ngoài_
-
-| Báo cáo cước xe ngoài  | <p>Báo cáo của các xe thuần xe ngoài (chỉ nằm trong nhóm Đơn vị vận tải - bảng </p><p>Đối tác)</p>                                     |
-| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Thu khách              | <p>Cước: Cước HĐ được tính trong Ql cước vc</p><p>Phát sinh: Lưu ca + Chi trả hộ theo chuyến, được tính trong Ql cước vc</p>           |
-| Thuê ngoài             | <p>Cước: Cước thuê ngoài, được tính trong Ql cước vc</p><p>Phát sinh: cột Phát sinh cước thuê ngoài, được tính trong Ql cước vc </p>   |
-| Chênh lệch             | = Thu khách - Thuê ngoài                                                                                                               |
-| Trạng thái             | <p>Theo trạng thái trong Điều xe</p><p>Vận chuyển= chưa vc, đã nhận hàng, đã giao hàng, về bãi </p><p>Hủy. trễ= hủy chuyến, bị trễ</p> |
-| Ghi chú                | Theo ghi chú điều xe                                                                                                                   |
+<table data-header-hidden><thead><tr><th width="154"></th><th></th></tr></thead><tbody><tr><td>Báo cáo cước xe ngoài </td><td><p>Báo cáo của các xe thuần xe ngoài (chỉ nằm trong nhóm Đơn vị vận tải - bảng </p><p>Đối tác)</p></td></tr><tr><td>Thu khách</td><td><p>Cước: Cước HĐ được tính trong Ql cước vc</p><p>Phát sinh: Lưu ca + Chi trả hộ theo chuyến, được tính trong Ql cước vc</p></td></tr><tr><td>Thuê ngoài</td><td><p>Cước: Cước thuê ngoài, được tính trong Ql cước vc</p><p>Phát sinh: cột Phát sinh cước thuê ngoài, được tính trong Ql cước vc </p></td></tr><tr><td>Chênh lệch</td><td>= Thu khách - Thuê ngoài</td></tr><tr><td>Trạng thái</td><td><p>Theo trạng thái trong Điều xe</p><p>Vận chuyển= chưa vc, đã nhận hàng, đã giao hàng, về bãi </p><p>Hủy. trễ= hủy chuyến, bị trễ</p></td></tr><tr><td>Ghi chú</td><td>Theo ghi chú điều xe</td></tr></tbody></table>
 
 **8.1.4.2 Báo cáo đối soát**
 
@@ -271,29 +112,17 @@ Báo cáo theo các xe là chủ xe ngoài (nằm trong nhóm Đơn vị vận t
 
 Mẫu hiển thị: Giống với Báo cáo cước xe ngoài.
 
-*
-  *
-    1. **Báo cáo tổng hợp theo dõi bảo hiểm**
+#### **8.1.5 Báo cáo tổng hợp theo dõi bảo hiểm**
 
 Báo cáo tổng hợp theo dõi bảo hiểm tổng hợp thông tin lấy dữ liệu từ Danh sách xe và mục Quản lý phí thường niên – Kế toán
 
-![](<../../.gitbook/assets/14 (1).png>)
+![Màn hình Báo cáo tổng hợp theo dõi bảo hiểm](<../../.gitbook/assets/14 (5).png>)
 
-_Màn hình Báo cáo tổng hợp theo dõi bảo hiểm_
+<table data-header-hidden><thead><tr><th width="397"></th><th></th></tr></thead><tbody><tr><td>Nhãn hiệu, Năm sản xuất, Tải trọng</td><td>Lấy trong Danh sách xe </td></tr><tr><td>Tên đăng ký, Hạn ngân hàng, Ngày mua bảo hiểm</td><td>Vay ngân hàng/Lãi ngân hàng</td></tr><tr><td>BHTNDS</td><td>Lấy trong Kế toán – Quản lý phí thường niên</td></tr><tr><td>BHVC</td><td>Lấy trong Kế toán – Quản lý phí thường niên</td></tr></tbody></table>
 
-| Nhãn hiệu, Năm sản xuất, Tải trọng            | Lấy trong Danh sách xe                      |
-| --------------------------------------------- | ------------------------------------------- |
-| Tên đăng ký, Hạn ngân hàng, Ngày mua bảo hiểm | Vay ngân hàng/Lãi ngân hàng                 |
-| BHTNDS                                        | Lấy trong Kế toán – Quản lý phí thường niên |
-| BHVC                                          | Lấy trong Kế toán – Quản lý phí thường niên |
+#### **8.1.6 Bảng kê chi tiết vận tải**
 
-*
-  *
-    1. **Bảng kê chi tiết vận tải**
-
-![](<../../.gitbook/assets/15 (3).png>)
-
-_Màn hình Bảng kê chi tiết vận tải_
+![Màn hình Bảng kê chi tiết vận tải](<../../.gitbook/assets/15 (7).png>)
 
 | Thời gian tìm kiếm                     | Ngày vận chuyển                                               |
 | -------------------------------------- | ------------------------------------------------------------- |
@@ -323,9 +152,7 @@ _Màn hình Bảng kê chi tiết vận tải_
 
 Báo cáo theo Khách hàng: Tổng hợp các nội dung liên quan đến thu chi cho khách có phát sinh vận chuyển trong tháng. Cho phép lọc theo khách hàng và theo tháng.
 
-![](<../../.gitbook/assets/16 (2).png>)
-
-_Màn hình Bc cước phí theo khách hàng_
+![Màn hình Bc cước phí theo khách hàng](<../../.gitbook/assets/16 (2).png>)
 
 | Chủ xe                                              | Lấy theo tên viết tắt, riêng xe trong thì chia theo phòng ban                                                       |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -345,7 +172,7 @@ _Màn hình Bc cước phí theo khách hàng_
 
 **8.2.1.2 Báo cáo cước phí theo chủ xe**
 
-![](<../../.gitbook/assets/17 (6).png>)
+![](<../../.gitbook/assets/17 (3).png>)
 
 _Màn hình Bc cước phí theo chủ xe_
 
@@ -361,7 +188,7 @@ _Màn hình Bc cước phí theo chủ xe_
 
 Liệt kê chi phí vận chuyển trong tháng theo từng xe.
 
-![](<../../.gitbook/assets/18 (7).png>)
+![](<../../.gitbook/assets/18 (5).png>)
 
 _Màn hình Bảng kê cước vận chuyển_
 
@@ -382,7 +209,7 @@ Tổng hợp các thông tin liên quan đến chuyến hàng và xe điều cho
 
 **Báo cáo vận chuyển**
 
-![](<../../.gitbook/assets/19 (3).png>)
+![](<../../.gitbook/assets/19 (4).png>)
 
 | Số vận đơn        | Số vận đơn/ số booking khai báo từ lô hàng                                   |
 | ----------------- | ---------------------------------------------------------------------------- |
@@ -399,7 +226,7 @@ Tổng hợp các thông tin liên quan đến chuyến hàng và xe điều cho
 
 **8.2.2.2 Báo cáo Vendor**
 
-![](<../../.gitbook/assets/20 (6).png>)
+![](<../../.gitbook/assets/20 (2).png>)
 
 | Ngày             | Ngày giao hàng                                                                         |
 | ---------------- | -------------------------------------------------------------------------------------- |
