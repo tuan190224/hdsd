@@ -18,13 +18,13 @@
 
 Bước 1: Tại mục Kế toán, chọn Quyết toán nội bộ
 
-Bước 2: Tìm lô hàng cần làm tạm ứng🡪 Có thể nhấn vào cột Phiếu tạm ứng để xem các khoản đề xuất của CUS🡪 Tại cột chức năng của bảng Quyết toán nội bộ, nhấn nút ![](<../../.gitbook/assets/0 (10).png>) để thêm mới.
+Bước 2: Tìm lô hàng cần làm tạm ứng🡪 Có thể nhấn vào cột Phiếu tạm ứng để xem các khoản đề xuất của CUS🡪 Tại cột chức năng của bảng Quyết toán nội bộ, nhấn nút ![](<../../.gitbook/assets/0 (2).png>) để thêm mới.
 
 Bước 3: Điền thông tin vào bảng🡪 nhấn Lưu để lưu lại tạm ứng vừa tạo.
 
-![](<../../.gitbook/assets/1 (2).png>)
+![](<../../.gitbook/assets/1 (8).png>)
 
-![](<../../.gitbook/assets/2 (5).png>)
+![](<../../.gitbook/assets/2 (4).png>)
 
 _Các bước thêm mới tạm ứng nội bộ một lô hàng_
 
@@ -38,15 +38,15 @@ _Lưu ý:_
 * _Người dùng không thể sửa hoặc xóa khoản tạm ứng nội bộ đã thêm._
 * _Khi trạng thái tạm ứng nội bộ cho một cá nhân Đóng, bộ phận kế toán không thể sửa thông tin tạm ứng đó._
 
-<figure><img src="../../.gitbook/assets/3 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (6).png" alt=""><figcaption></figcaption></figure>
 
 * _Trường hợp có phát sinh tạm ứng từ CUS, QTNB sẽ được mở lại để làm tạm ứng nội bộ phát sinh (nếu có). Kế toán thêm mới các khoản tạm ứng cho nhân viên theo các bước phía trên._
 
 Bước 5: Người dùng tiếp tục tạo tạo ứng nội bộ cho các cá nhân (nếu có) và thực hiện làm quyết toán cho đến khi xong hết khoản.
 
-![](<../../.gitbook/assets/5 (5).png>)
+![](<../../.gitbook/assets/5 (3).png>)
 
-![](<../../.gitbook/assets/6 (2).png>)
+![](<../../.gitbook/assets/6 (1).png>)
 
 **5.1.1.2 Quản lý tạm ứng theo lô hàng**
 
@@ -55,13 +55,13 @@ Bước 1: Bộ phận CUS/ Ops vào bảng tạm ứng lô hàng để đối c
 * **Cách 1:** Vào Ql lô hàng đủ/ rút gọn 🡪 Nhấn vào số tiền tại cột Tạm ứng
 * **Cách 2:** Vào QTNB 🡪 Nhấn vào số tiền tại cột Phiếu tạm ứng
 
-![](<../../.gitbook/assets/7 (5).png>)
+![](<../../.gitbook/assets/7 (4).png>)
 
 Bước 2: Bộ phận phụ trách đối chiếu các hóa đơn chứng từ để sửa đổi/ quản lý các khoản chi phí tạm ứng (Số lượng, Đơn giá, Trạng thái, Thêm mới, Xóa).
 
 Các nội dung chi phí đã đối chiếu xong, người dùng **nhấn tích** vào ô trạng thái để hoàn thiện dòng/mục đó 🡪 Nhấn **Lưu** để lưu lại và đóng tạm ứng.
 
-![](<../../.gitbook/assets/8 (4).png>)
+![](<../../.gitbook/assets/8 (1).png>)
 
 _Lưu ý:_
 
@@ -74,16 +74,16 @@ Sau khi CUS/ OPS đã xử lý xong các khoản chi phí trên Tạm ứng, K�
 
 Bước 1: Vào Ql lô hàng đủ/ rút gọn 🡪 Nhấn vào số tiền tại cột Quyết toán
 
-![](<../../.gitbook/assets/9 (1).png>)
+![](<../../.gitbook/assets/9 (5).png>)
 
 Bước 2: Trong bảng QTNB, nhấn nút ![](<../../.gitbook/assets/10 (1).png>)🡪 Đối chiếu chứng từ CUS/ Ops gửi về, thực hiện chỉnh sửa trên bảng nếu có thay đổi (Số lượng, đơn giá, ghi chú, hóa đơn, …)🡪 nhấn Lưu chỉnh sửa.
 
-Nhấn nút ![](<../../.gitbook/assets/11 (1).png>) trong trường hợp người dùng muốn thay đổi lại nhóm của chi phí:
+Nhấn nút ![](<../../.gitbook/assets/11 (7).png>) trong trường hợp người dùng muốn thay đổi lại nhóm của chi phí:
 
 * Phí định mức hải quan: Chỉ có trong Tạm ứng và QTNB, không có trong QTKH
 * Phí chi trả hộ: lấy từ QTNB sang QTKH
 
-![Màn hình quyết toán nội bộ](<../../.gitbook/assets/12 (6).png>)
+![Màn hình quyết toán nội bộ](<../../.gitbook/assets/12 (5).png>)
 
 Bước 3: Sau khi đã kiểm tra và chỉnh quyết toán theo số liệu doanh nghiệp, người dùng thực hiện đóng QTNB🡪 Vào mục Kế toán, Quyết toán nội bộ 🡪 Tại cột Trạng thái, nhấn nút Mở để chuyển sang Đóng 🡪 Lưu.
 
@@ -138,9 +138,9 @@ Bước 2: Quản lý các khoản thanh toán từ CUS/ OPS đưa sang, đối 
 
 Bước 3: Để cân bằng lượng tiền, thực hiện hoàn ứng bằng cách chọn Thêm mới🡪 nhập thông tin người giao nhận giống như tạm ứng🡪 Nhập số tiền dưới dạng số âm🡪 Lưu
 
-![Màn hình thêm mới trong Quản lý tạm ứng](../../.gitbook/assets/16.png)
+![Màn hình thêm mới trong Quản lý tạm ứng](<../../.gitbook/assets/16 (5).png>)
 
-![Màn hình bảng Quản lý tạm ứng](<../../.gitbook/assets/17 (2).png>)
+![Màn hình bảng Quản lý tạm ứng](<../../.gitbook/assets/17 (3).png>)
 
 _Lưu ý:_
 
@@ -164,7 +164,7 @@ Người giao: nhân viên nhóm Kế toán/ Thương vụ trong bảng Nhân vi
 
 Bước 2: CUS/ Ops nhấn Lưu để đưa thông tin sang cho Kế toán và Thủ quỹ
 
-![Màn hình thanh toán](../../.gitbook/assets/18.png)
+![Màn hình thanh toán](<../../.gitbook/assets/18 (7).png>)
 
 _Lưu ý: Các chi phí thêm mới trực tiếp trong bảng Thanh toán sẽ được cập nhật lại tạm ứng và QTNB, QTKH của lô hàng tương ứng_
 
@@ -179,7 +179,7 @@ Bước 2: Nhập thông tin Tạm ứng vào bảng 🡪 Lưu
 * Người giao tiền: Mặc định là người dùng đang đăng nhập vào hệ thống, vị trí Kế toán/ Chung trong bảng Nhân viên (TTC)
 * Người nhận: nhân viên nhóm Kế toán/ Thương vụ trong bảng Nhân viên (TTC)
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (62).png>)
 
 **5.1.3.2 Quyết toán chi phí**
 
@@ -187,21 +187,21 @@ Bước 1: Tại bảng Thanh toán, thực hiện điều chỉnh các thông t
 
 Bước 2: Tích vào cột Lựa chọn 🡪 Nhấn nút Lưu.
 
-![](../../.gitbook/assets/20.png)
+![](<../../.gitbook/assets/20 (7).png>)
 
 Bước 3: Kiểm soát lại dòng tiền lưu động của CUS/ Ops tại bảng **Quản lý tạm ứng**🡪 Thực hiện hoàn ứng nếu cần bằng cách chọn Thêm mới 🡪 Nhập số tiền âm (khoản thu lại từ CUS/Ops)🡪 Lưu
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 **5.1.3.3 Hoàn tất QTNB**
 
-Bước 1: Tại mục Quản lý lô đủ/rút gọn, nhấn vào cột Quyết toán 🡪 Trong bảng Quyết toán, nhấn chọn ![](<../../.gitbook/assets/image (36).png>)
+Bước 1: Tại mục Quản lý lô đủ/rút gọn, nhấn vào cột Quyết toán 🡪 Trong bảng Quyết toán, nhấn chọn ![](<../../.gitbook/assets/image (85).png>)
 
-Nhấn nút ![](<../../.gitbook/assets/image (29).png>) khi có thêm thanh toán chi phí của lô làm quyết toán.
+Nhấn nút ![](<../../.gitbook/assets/image (80).png>) khi có thêm thanh toán chi phí của lô làm quyết toán.
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 ### &#x20;**5.2 Quản lý Quyết toán Khách hàng (Quản lý QTKH)** <a href="#_1vsw3ci" id="_1vsw3ci"></a>
 
@@ -236,7 +236,7 @@ Bước 4: Trong bảng chi tiết Quyết toán khách hàng của từng lô, 
 
 Bước 5: Thêm các thông tin liên quan đến VAT và đền bù hao hụt 🡪 Nhấn vào dong Cập nhật thông tin lô hàng ở cuối bảng QTKH🡪 Nhập thông tin 🡪 Lưu
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption><p><em><strong>Màn hình tổng hợp Quyết toán khách hàng</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption><p><em><strong>Màn hình tổng hợp Quyết toán khách hàng</strong></em></p></figcaption></figure>
 
 _Lưu ý:_
 
@@ -295,7 +295,7 @@ Thực chi: Tiền cược vỏ làm thanh toán trong màn hình Qly tạm ứn
 
 #### **5.3.2 Cập nhật thông tin cược vỏ** <a href="#_2981zbj" id="_2981zbj"></a>
 
-Bước 1: Trong mục Kế toán, chọn QL cược vỏ. Nhấn nút <img src="../../.gitbook/assets/image (137).png" alt="" data-size="line"> tại lô hàng muốn cập nhật thông.
+Bước 1: Trong mục Kế toán, chọn QL cược vỏ. Nhấn nút <img src="../../.gitbook/assets/image (136).png" alt="" data-size="line"> tại lô hàng muốn cập nhật thông.
 
 Bước 2: Điền thông tin vào bảng cập nhật. Sau đó nhấn Lưu để lưu lại thông tin
 
@@ -310,9 +310,9 @@ Quản lý sửa chữa là các khoản tạm ứng và quyết toán cho việ
 
 #### **5.4.1 Thêm mới tạm ứng sửa chữa** <a href="#_38czs75" id="_38czs75"></a>
 
-Bước 1: Tại mục Kế toán, chọn chức năng QL sửa chữa. Nhấn nút <img src="../../.gitbook/assets/image (122).png" alt="" data-size="line">  để thêm thông tin sửa chữa.
+Bước 1: Tại mục Kế toán, chọn chức năng QL sửa chữa. Nhấn nút <img src="../../.gitbook/assets/image (121).png" alt="" data-size="line">  để thêm thông tin sửa chữa.
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption><p><em><strong>Màn hình Quản lý sửa chữa</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption><p><em><strong>Màn hình Quản lý sửa chữa</strong></em></p></figcaption></figure>
 
 Bước 2: Nhập thông tin vào bảng và nhấn Lưu để lưu lại thông tin
 
@@ -340,7 +340,7 @@ Bước 2: Chuyển trạng thái từ Mở 🡪 Đóng, rồi nhấn **Lưu.**
 
 Bước 1: Trong bảng Quản lý sửa chữa, nhấn vào nút **Mở** tại cột Tạm ứng.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -369,7 +369,7 @@ Bước 2: Nhấn nút Thêm mới 🡪 Nhập thông tin vào bảng🡪 Nhấn
 
 _Lưu ý:_
 
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 * _Thông tin Quản lý phí thường niên được tự động cập nhập vào bảng Quản lý quá hạn, Báo cáo doanh thu chi phí theo xe._
 * _Các chi phí khi sắp/ đã quá hạn sẽ được đưa thành cảnh báo trong màn hình Dashboard._
@@ -384,7 +384,7 @@ Có 3 trạng thái tìm kiếm trên màn hình Quản lí phí khấu hao, bao
 * Tháng hết hạn: Chi phí có Ngày hết hạn trong tháng đang tìm kiếm
 * Tháng thanh toán: Chi phí có Ngày mua trong tháng đang
 
-![](<../../.gitbook/assets/image (144).png>)
+![](<../../.gitbook/assets/image (143).png>)
 
 **5.5.2.2 In đề xuất thanh toán**
 
@@ -432,7 +432,7 @@ Sau khi kiểm tra lại thông tin cập nhật chi phí, người dùng có th
 
 Bước 1: Tích chọn vào ô đầu dòng các chi phí muốn bỏ đánh dấu
 
-Bước 2: Nhấn nút <img src="../../.gitbook/assets/image (63).png" alt="" data-size="line"> để bỏ cảnh báo
+Bước 2: Nhấn nút <img src="../../.gitbook/assets/image (41).png" alt="" data-size="line"> để bỏ cảnh báo
 
 <figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
@@ -440,5 +440,5 @@ Bước 2: Nhấn nút <img src="../../.gitbook/assets/image (63).png" alt="" da
 
 Phần mềm cung cấp biểu đồ thu chi theo ngày/ tháng/ năm tùy vào mục đích mà người dùng mong muốn sử dụng.
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption><p><em><strong>Màn hình biểu đồ thống kê thu chi</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption><p><em><strong>Màn hình biểu đồ thống kê thu chi</strong></em></p></figcaption></figure>
 

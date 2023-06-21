@@ -1,6 +1,8 @@
 # Table of contents
 
-* [MỤC LỤC](README.md)
+* [👉 BẮT ĐẦU](README.md)
+  * [MỤC LỤC](bat-dau/muc-luc.md)
+  * [PHỤ LỤC](bat-dau/phu-luc.md)
 * [CÁC BƯỚC BẮT ĐẦU SỬ DỤNG PHẦN MỀM](cac-buoc-bat-dau-s-dung-phan-mem/README.md)
   * [1. Hướng dẫn đăng nhập trên máy tính](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/cac-buoc-bat-dau-s-dung-phan-mem#\_1ci93xb)
   * [2. Khái quát quy trình vận hành và vai trò người dùng phần mềm](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/cac-buoc-bat-dau-s-dung-phan-mem#2.-khai-quat-quy-trinh-van-hanh-va-vai-tro-nguoi-dung-phan-mem)
