@@ -45,6 +45,7 @@
     * [3.8 Quản lý Thông báo](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/3.-bo-phan-dieu-van-trucking#\_2koq656)
     * [3.9 Báo cáo hoạt động xe](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/3.-bo-phan-dieu-van-trucking#\_zu0gcz)
     * [3.10 Báo cáo tải trọng an toàn đầu kéo](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/3.-bo-phan-dieu-van-trucking#\_4iylrwe)
+    * [3.5 Vận tải biển](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/3.-bo-phan-dieu-van-trucking#3.5-van-tai-bien)
   * [4. QUẢN LÝ LÁI XE](chi-tiet-cong-viec-cua-tung-bo-phan/4.-quan-ly-lai-xe/README.md)
     * [4.1 Quản lý thu chi lái xe theo chuyến](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/4.-quan-ly-lai-xe#\_1d96cc0)
     * [4.2 Quản lý lương lái xe](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/4.-quan-ly-lai-xe#\_rjefff)
