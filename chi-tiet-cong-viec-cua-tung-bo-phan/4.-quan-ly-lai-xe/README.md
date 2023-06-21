@@ -4,7 +4,7 @@
 
 Quản lý các chi phí do lái xe khai báo từ ứng dụng điện thoại trong quá trình vận chuyển, theo từng chuyến.
 
-<figure><img src="../../.gitbook/assets/0 (5).png" alt=""><figcaption><p><em><strong>Màn hình Quản lý thu chi lái xe</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0 (7).png" alt=""><figcaption><p><em><strong>Màn hình Quản lý thu chi lái xe</strong></em></p></figcaption></figure>
 
 #### **4.1.1 Quản lý tạm ứng lái xe** <a href="#_3x8tuzt" id="_3x8tuzt"></a>
 
@@ -24,11 +24,11 @@ Sau khi lái xe khai báo các chi phí lên phần mềm từ điện thoại, 
 
 **4.1.2.1 Thêm mới chi phí thanh toán**
 
-Bước 1: Tại cột chức năng của bảng Quản lý chi phí, nhấn nút ![](<../../.gitbook/assets/3 (4).png>)
+Bước 1: Tại cột chức năng của bảng Quản lý chi phí, nhấn nút ![](<../../.gitbook/assets/3 (2).png>)
 
 Bước 2: Nhập thông tin các chi phí vào bảng 🡪 Lưu
 
-![Màn hình thêm mới chi phí thanh toán](<../../.gitbook/assets/4 (4).png>)
+![Màn hình thêm mới chi phí thanh toán](<../../.gitbook/assets/4 (3).png>)
 
 **4.1.2.2 Cập nhật quá trình thanh toán**
 
@@ -47,7 +47,7 @@ Quản lý chi phí lương lái xe hàng tháng. Có 2 cách tính lương trê
 * Tính theo từng chuyến
 * Tính theo tháng
 
-![Màn hình quản lý lương](<../../.gitbook/assets/6 (9).png>)
+![Màn hình quản lý lương](<../../.gitbook/assets/6 (5).png>)
 
 **Cách 1: Lương tính theo chuyến**
 
@@ -57,7 +57,7 @@ Quản lý chi phí lương lái xe hàng tháng. Có 2 cách tính lương trê
 
 ![H2. Màn hình các khoản giảm trừ tiền hàng lái xe](<../../.gitbook/assets/8 (3).png>)
 
-![H3. Màn hình Bảng lương lái xe](<../../.gitbook/assets/9 (3).png>)
+![H3. Màn hình Bảng lương lái xe](<../../.gitbook/assets/9 (2).png>)
 
 Cách 2: Tính lương theo tháng: Thông tin các cột giống với lương chuyến. Tuy nhiên, riêng trường lương khoán = lương cơ bản đã khai báo trong TTC, bảng Nhân viên.
 
@@ -67,8 +67,8 @@ Người dùng kiểm soát lại chi phí lương theo các danh mục mô tả
 
 Sau khi đã kiểm tra xong, người dùng nhấn:
 
-* Nút ![](<../../.gitbook/assets/image (75).png>) 🡪 Xác nhận: nếu muốn chốt chi phí lương của từng cá nhân
-* Nút ![](<../../.gitbook/assets/image (74).png>) 🡪 Xác nhận: để chốt lương cho toàn bộ lái xe
+* Nút ![](<../../.gitbook/assets/image (151).png>) 🡪 Xác nhận: nếu muốn chốt chi phí lương của từng cá nhân
+* Nút ![](<../../.gitbook/assets/image (150).png>) 🡪 Xác nhận: để chốt lương cho toàn bộ lái xe
 
 Sau khi chốt lương trên phần mềm, lái xe có thể kiểm tra và xác nhận thông tin nhận lương trên mobile app.
 
@@ -84,19 +84,19 @@ Người dùng có thể in đồng thời nhiều lệnh điều xe bằng thao
 
 ![](<../../.gitbook/assets/12 (3).png>)
 
-![Màn hình Quản lý phơi phiếu](<../../.gitbook/assets/13 (5).png>)
+![Màn hình Quản lý phơi phiếu](<../../.gitbook/assets/13 (6).png>)
 
-<table data-header-hidden><thead><tr><th width="215"></th><th></th></tr></thead><tbody><tr><td>Ngày tìm kiếm</td><td>Lấy theo ngày xe đi trong mục Điều xe</td></tr><tr><td>Tên khách hàng</td><td>Tên viết tắt</td></tr><tr><td>Tuyến đường</td><td>Địa chỉ mở rộng – địa chỉ chi tiết (địa chỉ mở rộng lấy theo TTC 🡪 địa chỉ)</td></tr><tr><td>Chi phí phát sinh</td><td>Cột Chi phí phát sinh trong Tiền đường, mục Ql chi phí vc</td></tr><tr><td>Lượng nhận/ giao</td><td>Lượng lái xe nhận/ giao</td></tr><tr><td>Hao hụt</td><td>= Lượng nhận – lượng giao</td></tr><tr><td>Hao hụt cho phép</td><td>% hao hụt cho phép, theo thông tin khai báo trong lô hàng</td></tr><tr><td>Giảm trừ</td><td>= Hao hụt công ty chịu, lấy từ bảng Tiền lương🡪 chi tiết tiền hàng. Có thể chỉnh sửa trực tiếp.</td></tr><tr><td>Đơn giá</td><td>Đơn giá hao hụt khi khai báo lô hàng</td></tr><tr><td>Lái xe chịu</td><td>= Hao hụt – [((Lượng lx nhận- Lượng lx giao) – (Lượng lx nhận * Hao hụt cho phép)) + Giảm trừ]</td></tr><tr><td>Thành tiền</td><td>= Đơn giá * Lái xe chịu</td></tr><tr><td>Ngày trả phơi phiếu</td><td>Nhập tay trong bảng cập nhật (nhấn nút <img src="../../.gitbook/assets/14 (6).png" alt="">)</td></tr><tr><td>Đã chuyển phơi phiếu cho KH</td><td>Nhập tay trong bảng cập nhật (nhấn nút <img src="../../.gitbook/assets/15 (1).png" alt="">)</td></tr><tr><td>Lái xe đã nhận tiền đường, Ngày nhận</td><td>Theo thông tin gửi từ mobile app lên hệ thống</td></tr><tr><td>Dầu thực tế</td><td>Lượng dầu định mức trong Ql chi phí vc.</td></tr><tr><td>Dầu VAT</td><td>= (Tổng km chiều đi và về * Định mức dầu bổ sung) + Dầu phát sinh</td></tr><tr><td>Tiền đường</td><td>= Tổng tiền đường – lương chuyến</td></tr><tr><td>Tiền đường VAT</td><td>= Tiền vé + Định mức phí</td></tr><tr><td>Trạng thái đề xuất</td><td>Trạng thái theo đề xuất công việc (mục Danh sách công việc- đề xuất thanh toán tương ứng)</td></tr><tr><td>Ghi chú</td><td>Theo ghi chú Điều xe</td></tr><tr><td>Chức năng</td><td><p>- In phơi phiếu: Nhấn nút <img src="../../.gitbook/assets/16 (4).png" alt=""> 🡪 cho phép in có VAT/ không VAT. Chỉ dùng cho các chuyến lái xe đã tích nhận tiền đường</p><p>- Đề xuất: Nhấn nút <img src="../../.gitbook/assets/17 (4).png" alt=""> 🡪 Đề xuất tự động chuyển sang danh sách công việc.</p><p>- Gửi mail: nhấn nút <img src="../../.gitbook/assets/18 (4).png" alt=""></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="215"></th><th></th></tr></thead><tbody><tr><td>Ngày tìm kiếm</td><td>Lấy theo ngày xe đi trong mục Điều xe</td></tr><tr><td>Tên khách hàng</td><td>Tên viết tắt</td></tr><tr><td>Tuyến đường</td><td>Địa chỉ mở rộng – địa chỉ chi tiết (địa chỉ mở rộng lấy theo TTC 🡪 địa chỉ)</td></tr><tr><td>Chi phí phát sinh</td><td>Cột Chi phí phát sinh trong Tiền đường, mục Ql chi phí vc</td></tr><tr><td>Lượng nhận/ giao</td><td>Lượng lái xe nhận/ giao</td></tr><tr><td>Hao hụt</td><td>= Lượng nhận – lượng giao</td></tr><tr><td>Hao hụt cho phép</td><td>% hao hụt cho phép, theo thông tin khai báo trong lô hàng</td></tr><tr><td>Giảm trừ</td><td>= Hao hụt công ty chịu, lấy từ bảng Tiền lương🡪 chi tiết tiền hàng. Có thể chỉnh sửa trực tiếp.</td></tr><tr><td>Đơn giá</td><td>Đơn giá hao hụt khi khai báo lô hàng</td></tr><tr><td>Lái xe chịu</td><td>= Hao hụt – [((Lượng lx nhận- Lượng lx giao) – (Lượng lx nhận * Hao hụt cho phép)) + Giảm trừ]</td></tr><tr><td>Thành tiền</td><td>= Đơn giá * Lái xe chịu</td></tr><tr><td>Ngày trả phơi phiếu</td><td>Nhập tay trong bảng cập nhật (nhấn nút <img src="../../.gitbook/assets/14 (7).png" alt="">)</td></tr><tr><td>Đã chuyển phơi phiếu cho KH</td><td>Nhập tay trong bảng cập nhật (nhấn nút <img src="../../.gitbook/assets/15 (2).png" alt="">)</td></tr><tr><td>Lái xe đã nhận tiền đường, Ngày nhận</td><td>Theo thông tin gửi từ mobile app lên hệ thống</td></tr><tr><td>Dầu thực tế</td><td>Lượng dầu định mức trong Ql chi phí vc.</td></tr><tr><td>Dầu VAT</td><td>= (Tổng km chiều đi và về * Định mức dầu bổ sung) + Dầu phát sinh</td></tr><tr><td>Tiền đường</td><td>= Tổng tiền đường – lương chuyến</td></tr><tr><td>Tiền đường VAT</td><td>= Tiền vé + Định mức phí</td></tr><tr><td>Trạng thái đề xuất</td><td>Trạng thái theo đề xuất công việc (mục Danh sách công việc- đề xuất thanh toán tương ứng)</td></tr><tr><td>Ghi chú</td><td>Theo ghi chú Điều xe</td></tr><tr><td>Chức năng</td><td><p>- In phơi phiếu: Nhấn nút <img src="../../.gitbook/assets/16 (5).png" alt=""> 🡪 cho phép in có VAT/ không VAT. Chỉ dùng cho các chuyến lái xe đã tích nhận tiền đường</p><p>- Đề xuất: Nhấn nút <img src="../../.gitbook/assets/17 (5).png" alt=""> 🡪 Đề xuất tự động chuyển sang danh sách công việc.</p><p>- Gửi mail: nhấn nút <img src="../../.gitbook/assets/18 (3).png" alt=""></p></td></tr></tbody></table>
 
 * **Cách gửi ảnh qua mail**
 
-Bước 1: Nhấn vào nút ![](<../../.gitbook/assets/19 (1).png>)🡪 nhấn biểu tượng chọn ảnh
+Bước 1: Nhấn vào nút ![](<../../.gitbook/assets/19 (5).png>)🡪 nhấn biểu tượng chọn ảnh
 
 Bước 2: Chọn dải thời gian tìm kiếm🡪 Tích chọn ảnh
 
 Bước 3: Điền thêm thông tin và nhấn gửi thư
 
-![](<../../.gitbook/assets/20 (1).png>)
+![](../../.gitbook/assets/20.png)
 
 ### **4.4 Quản lý tạm ứng lái xe** <a href="#_2pta16n" id="_2pta16n"></a>
 
@@ -104,7 +104,7 @@ Quản lý các khoản tạm ứng, thu – chi cho từng lái xe theo ngày, 
 
 #### **4.4.1 Quản lý tạm ứng và hoàn ứng lái xe** <a href="#_14ykbeg" id="_14ykbeg"></a>
 
-![Màn hình Quản lý tạm ứng lái xe](<../../.gitbook/assets/21 (1).png>)
+![Màn hình Quản lý tạm ứng lái xe](../../.gitbook/assets/21.png)
 
 Bước 1: Tại mục Lái xe, chọn Quản lý tạm ứng lái xe
 
@@ -118,7 +118,7 @@ Các chi phí được lấy từ khai báo chi trả hộ của lái xe trên m
 
 
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption><p><em><strong>Màn hình thanh toán chi phí với lái xe</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption><p><em><strong>Màn hình thanh toán chi phí với lái xe</strong></em></p></figcaption></figure>
 
 * **Các bước thêm mới chi phí:**
 
@@ -126,13 +126,13 @@ Bước 1: Nhấn nút Thêm mới 🡪 Nhập thông tim phí cần thêm
 
 Bước 2: Nhấn Lưu hoặc Lưu và tiếp tục.
 
-<figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 * **Các bước thanh toán chi phí:**
 
 Bước 1: Chọn nhân viên – Người nhận thanh toán
 
-Bước 2: Tích chọn tại cột Thanh toán, chứng từ (nếu có). Có thể nhập số hóa đơn và ghi chú trực tiếp tại đây 🡪 Nhấn nút ![](<../../.gitbook/assets/image (125).png>) . Thông tin sau khi nhấn Lưu được đưa sang quản lý trong bảng Quản lý tạm ứng.
+Bước 2: Tích chọn tại cột Thanh toán, chứng từ (nếu có). Có thể nhập số hóa đơn và ghi chú trực tiếp tại đây 🡪 Nhấn nút ![](<../../.gitbook/assets/image (49).png>) . Thông tin sau khi nhấn Lưu được đưa sang quản lý trong bảng Quản lý tạm ứng.
 
 _Lưu ý:_
 

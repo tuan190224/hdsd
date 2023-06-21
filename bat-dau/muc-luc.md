@@ -2,7 +2,7 @@
 
 ##
 
-[_**A.**_ _**CÁC BƯỚC BẮT ĐẦU SỬ DỤNG PHẦN MỀM**_ ](../cac-buoc-bat-dau-s-dung-phan-mem/)
+## [_**A.**_ _**CÁC BƯỚC BẮT ĐẦU SỬ DỤNG PHẦN MỀM**_ ](../cac-buoc-bat-dau-s-dung-phan-mem/)
 
 [**1.** **Hướng dẫn đăng nhập trên máy tính** ](../cac-buoc-bat-dau-s-dung-phan-mem/#\_1ci93xb)
 
@@ -14,7 +14,7 @@
 
 [3.2. Tạo tài khoản để người dùng sử dụng ](../cac-buoc-bat-dau-s-dung-phan-mem/#\_3as4poj)
 
-[_**B.**_ _**NHẬP THÔNG TIN CHUNG**_ ](../nhap-thong-tin-chung/)
+## [_**B.**_ _**NHẬP THÔNG TIN CHUNG**_ ](../nhap-thong-tin-chung/)
 
 [1. Quản lý thông tin nhân viên ](../nhap-thong-tin-chung/#\_2grqrue)
 
@@ -54,7 +54,7 @@
 
 **20.** **Định mức cước biển**&#x20;
 
-[_**C.**_ _**CHI TIẾT CÔNG VIỆC CỦA TỪNG BỘ PHẬN**_ ](../chi-tiet-cong-viec-cua-tung-bo-phan/)
+## [_**C.**_ _**CHI TIẾT CÔNG VIỆC CỦA TỪNG BỘ PHẬN**_ ](../chi-tiet-cong-viec-cua-tung-bo-phan/)
 
 [_**1.**_ _**HÀNH CHÍNH**_ ](../chi-tiet-cong-viec-cua-tung-bo-phan/1.-hanh-chinh/)&#x20;
 

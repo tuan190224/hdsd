@@ -47,11 +47,11 @@ Có 2 cách để thêm mới cấp dầu:
 
 Bước 1: Tại mục Nhiên liệu, chọn QL dầu cấp cho xe
 
-Bước 2: Nhấn nút <img src="../../.gitbook/assets/4 (3).png" alt="" data-size="line"> 🡪 nhập thông tin vào bảng 🡪 Lưu.
+Bước 2: Nhấn nút <img src="../../.gitbook/assets/4 (8).png" alt="" data-size="line"> 🡪 nhập thông tin vào bảng 🡪 Lưu.
 
-![](<../../.gitbook/assets/5 (8).png>)
+![](<../../.gitbook/assets/5 (2).png>)
 
-<figure><img src="../../.gitbook/assets/6 (2).png" alt=""><figcaption><p><em><strong>Màn hình nhập dữ liệu</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption><p><em><strong>Màn hình nhập dữ liệu</strong></em></p></figcaption></figure>
 
 * Biển số xe: Chọn từ danh sách xe đã nhập trong mục Thông tin chung
 * Nơi cung cấp: Chọn theo danh sách NCC Nhiên liệu đã nhập trong Thông tin chung, bảng Đối tác. Phần mềm lấy theo khai báo để xác định việc đổ dầu lấy từ cây dầu trong công ty hay đổ ngoài.
@@ -61,7 +61,7 @@ Bước 2: Nhấn nút <img src="../../.gitbook/assets/4 (3).png" alt="" data-si
 
 #### **7.3.2 Tải file excel dầu cấp nhiều xe** <a href="#_13qzunr" id="_13qzunr"></a>
 
-Bước 1: Tại màn hình Ql cấp dầu cho xe, nhấn nút <img src="../../.gitbook/assets/7 (5).png" alt="" data-size="line">
+Bước 1: Tại màn hình Ql cấp dầu cho xe, nhấn nút <img src="../../.gitbook/assets/7 (7).png" alt="" data-size="line">
 
 * Mẫu file excel tải lên: [https://bitly.com.vn/0e9aeq](https://bitly.com.vn/0e9aeq)
 
@@ -73,4 +73,4 @@ Bước 2: Chọn file excel từ máy tính 🡪 nhấn Mở để đưa file l
 
 _Lưu ý: trong trường hợp người dùng khai báo cấp dầu từ cây dầu của công ty, số liệu sẽ được sử dụng vào báo cáo tồn dầu._
 
-![Mẫu nhập liệu file excel](<../../.gitbook/assets/8 (8).png>)
+![Mẫu nhập liệu file excel](<../../.gitbook/assets/8 (2).png>)
