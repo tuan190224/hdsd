@@ -14,7 +14,7 @@ Chủ doanh nghiệp cần nhập toàn bộ số lượng và thông tin nhân 
 
 Bước 1: Vào Thông tin chung, chọn danh mục Nhân viên.
 
-Bước 2: Nhấn nút <img src="../.gitbook/assets/1.png" alt="" data-size="original"> và Nhập thông tin Nhân viên vào bảng thêm mới. Nhấn ![](../.gitbook/assets/2.png) để lưu thông tin nhân viên mới tạo.
+Bước 2: Nhấn nút <img src="../.gitbook/assets/1 (7).png" alt="" data-size="original"> và Nhập thông tin Nhân viên vào bảng thêm mới. Nhấn ![](<../.gitbook/assets/2 (8).png>) để lưu thông tin nhân viên mới tạo.
 
 ![](../.gitbook/assets/3.jpeg)
 
@@ -33,7 +33,7 @@ Quản lý thông tin đối tác của doanh nghiệp, bao gồm 5 loại đố
 * NCC phí thường niên: Quản lý nhà cung cấp các phí khấu hao, dịch vụ thường niên, …
 * NCC vật tư: Quản lý thông tin nhà cung cấp các phụ tùng cho sửa chữa, các kho hàng, vật tư văn phòng, …
 
-![Màn hình danh sách đối tác -Khách hàng](<../.gitbook/assets/4 (1).png>)
+![Màn hình danh sách đối tác -Khách hàng](<../.gitbook/assets/4 (4).png>)
 
 **Các bước thêm đối tác vào danh sách:**
 
@@ -45,13 +45,13 @@ Bước 3: Nhập các thông tin đối tác vào các trường dữ liệu. S
 
 _Lưu ý : Người dùng có thể chọn nhiều hơn 01 loại đối tác cho cùng một doanh nghiệp. Khi chọn loại đối tác là NCC Nhiên liệu, bảng thêm mới xuất hiện thêm ô chọn là Nhà cung cấp nhiên liệu của công ty. Trường hợp bỏ tích chọn, phần mềm tự động hiểu thông tin thêm mới là một cây dầu của công ty để tính lượng dầu trong kho._
 
-![Màn hình Thêm mới đối tác](<../.gitbook/assets/5 (1).png>)
+![Màn hình Thêm mới đối tác](<../.gitbook/assets/5 (4).png>)
 
 #### **3. Quản lý nhóm Khách hàng** <a href="#_3znysh7" id="_3znysh7"></a>
 
 Chức năng hoạt động trên cơ chế phân quyền nhóm người dùng vào quản lý từng nhóm khách hàng riêng biệt. Thông qua chức năng này, cá nhân/ bộ phận có thể dễ dàng và độc lập quản lý tệp khách hàng mà mình được phân công. Đồng thời, nhà quản lý sẽ đánh giá được hiệu suất công việc của từng cá nhân/ bộ phận theo ngày, theo tháng, …; đánh giá được nhóm khách hàng tiềm năng cho doanh nghiệp.
 
-<figure><img src="../.gitbook/assets/6 (2).png" alt=""><figcaption><p><em><strong>Màn hình quản lý Khách hàng theo nhóm</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (5).png" alt=""><figcaption><p><em><strong>Màn hình quản lý Khách hàng theo nhóm</strong></em></p></figcaption></figure>
 
 **Các bước quản lý:**
 
@@ -63,11 +63,11 @@ Bước 3: Trong bảng Đối tác, với phân loại Khách hàng, khi thêm 
 
 Như vậy, những nhóm người dùng sẽ chỉ tập trung vào từng nhóm Khách hàng được phân công khi thực hiện các công việc thuộc mục Điều hành (bao gồm quản lý lô hàng, điều xe, quản lý cước, thông báo)
 
-<figure><img src="../.gitbook/assets/7 (6).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới Nhóm KH (</strong><strong><code>Bước</code></strong><strong> </strong><strong>1-2)</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/7 (3).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới Nhóm KH (</strong><strong><code>Bước</code></strong><strong> </strong><strong>1-2)</strong></em></p></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/8 (6).png" alt=""><figcaption><p><em><strong>Màn hình phân nhóm khách hàng (Bước 3)</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/8 (3).png" alt=""><figcaption><p><em><strong>Màn hình phân nhóm khách hàng (Bước 3)</strong></em></p></figcaption></figure>
 
 
 
@@ -77,7 +77,7 @@ Thông tin rơ mooc được quản lý và sử dụng trong các công việc 
 
 Ngoài ra, thông số trọng lượng được sử dụng trong để tính toán tải trọng an toàn xe cũng như tối ưu trong lượng chở các xe khi sắp xếp hàng.
 
-![Màn hình Quản lý rơ mooc](<../.gitbook/assets/9 (6).png>)
+![Màn hình Quản lý rơ mooc](<../.gitbook/assets/9 (4).png>)
 
 
 
@@ -97,7 +97,7 @@ Quản lý thông tin xe giúp doanh nghiệp quản lý chi tiết các dữ li
 
 Giống với quản lý mooc, danh sách xe trên phần mềm cũng quản lý thêm cả các thông số liên quan tới tải trọng xe, làm cơ sở dữ liệu tính toán tải trọng an toàn, sắp xếp hàng hóa lên xe của bộ phận điều xe.
 
-<figure><img src="../.gitbook/assets/10 (2).png" alt=""><figcaption><p><em><strong>Màn hình chính của mục quản lý xe</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (4).png" alt=""><figcaption><p><em><strong>Màn hình chính của mục quản lý xe</strong></em></p></figcaption></figure>
 
 
 
@@ -115,7 +115,7 @@ _Lưu ý: Mỗi một xe của chủ doanh nghiệp được thêm mới tương
 
 Quản lý thông tin cảng, depot, kho CFS và các chi cục tương ứng; phục vụ cho việc lên đơn hàng (Quản lý lô hàng) và lên chi phí đơn hàng tự động (Định mức hải quản – tạm ứng lô hàng).
 
-<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption><p><em><strong>Màn hình danh sách các cảng và depot</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption><p><em><strong>Màn hình danh sách các cảng và depot</strong></em></p></figcaption></figure>
 
 **Các bước thêm mới thông tin:**
 
@@ -167,7 +167,7 @@ _Lưu ý: Việc Lựa chọn hàng hóa có kiểm tra và tỉ lệ kiểm s�
 
 Bước 3: Nhấn Lưu để lưu lại thông tin hàng hóa vừa tạo.
 
-![Màn hình Thêm mới thông tin hàng hóa](<../.gitbook/assets/16 (1).jpeg>)
+![Màn hình Thêm mới thông tin hàng hóa](../.gitbook/assets/16.jpeg)
 
 
 
@@ -185,7 +185,7 @@ Bước 2: Nhập địa chỉ vào bảng 🡪 Nhấn lưu
 
 Lưu ý: Trong trường hợp đơn vị tính toán chi phí vận chuyển theo khu vực, người dùng chọn thêm địa chỉ Mở rộng cho các địa chỉ chi tiết đã nhập. Khi đó, các địa chỉ chi tiết có cùng địa chỉ mở rộng sẽ có cùng mức chi phí vận chuyển.
 
-<figure><img src="../.gitbook/assets/17.png" alt=""><figcaption><p><em><strong>Màn hình Danh sách địa chỉ</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/17 (6).png" alt=""><figcaption><p><em><strong>Màn hình Danh sách địa chỉ</strong></em></p></figcaption></figure>
 
 
 
@@ -195,7 +195,7 @@ Bước 1: Chọn mục điều hành🡪 Chọn Lô hàng hoặc Kế hoạch v
 
 Bước 2: Tại các ô nhập địa chỉ Lấy/ giao hàng, Lấy/ Hạ vỏ, chọn Địa chỉ khác🡪 Nhập địa chỉ🡪 Nhấn tạo mới “tên địa chỉ”. Địa chỉ thêm mới sẽ được tự động lưu lại vào Thông tin chung.
 
-<figure><img src="../.gitbook/assets/18.png" alt=""><figcaption><p><em><strong>Màn hình thêm mới địa chỉ trong Lô hàng</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/18 (3).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới địa chỉ trong Lô hàng</strong></em></p></figcaption></figure>
 
 
 
@@ -223,7 +223,7 @@ Bước 1: Chọn mục điều hành🡪 Chọn Kế hoạch điều xe
 
 Bước 2: Tại các ô nhập Tuyến đường 🡪 Chọn hoặc nhập mới địa chỉ🡪Thêm khoảng cách tuyến đường. Tuyến đường mới lưu trực tiếp vào Thông tin chung.
 
-<figure><img src="../.gitbook/assets/20 (7).png" alt=""><figcaption><p><em><strong>Màn hình thêm kế hoạch điều xe- Thêm trực tiếp tuyến đường</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/20 (3).png" alt=""><figcaption><p><em><strong>Màn hình thêm kế hoạch điều xe- Thêm trực tiếp tuyến đường</strong></em></p></figcaption></figure>
 
 
 
@@ -245,7 +245,7 @@ Bước 1: Trong mục Thông tin chung, tại danh mục Định mức dầu, n
 
 Bước 2: Nhập thông tin theo bảng Thêm mới.
 
-<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới định mức xăng dầu</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới định mức xăng dầu</strong></em></p></figcaption></figure>
 
 
 
@@ -257,7 +257,7 @@ Các loại chi phí hải quan sẽ được phần mềm lấy làm dữ liệ
 
 Thông tin Giá thanh toán được sử dụng để làm tạm ứng và quyết toán nội bộ, trong khi Giá hợp đồng được sử dụng để làm quyết toán khách hàng. Người dùng có thể theo dõi và quản lý 2 mức giá, chênh lệch giá trong phần **Báo cáo 🡪 Báo cáo tổng hợp🡪 Báo cáo lô hàng.**
 
-<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption><p><em><strong>Màn hình danh sách chi phí định mức hải quan</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption><p><em><strong>Màn hình danh sách chi phí định mức hải quan</strong></em></p></figcaption></figure>
 
 
 
@@ -277,7 +277,7 @@ Các trường dữ liệu bao gồm: Tên chi phí trả hộ, Đơn vị tính
 
 Cách sử dụng Giá thanh toán và Giá hợp đồng giống như trong quản lý chi phí hải quan.
 
-<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption><p><em><strong>Màn hình danh sách Chi phí chi, trả hộ</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption><p><em><strong>Màn hình danh sách Chi phí chi, trả hộ</strong></em></p></figcaption></figure>
 
 
 
@@ -299,7 +299,7 @@ Quản lý thông tin định mức giá cước vận chuyển theo thanh toán
 
 
 
-<figure><img src="../.gitbook/assets/image (102).png" alt=""><figcaption><p><strong>Màn hình danh sách Cước vận chuyển</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption><p><strong>Màn hình danh sách Cước vận chuyển</strong></p></figcaption></figure>
 
 **Các bước nhập thông tin cước vận chuyển:**
 
@@ -317,7 +317,7 @@ _Cách tính cước vận chuyển cũng được linh hoạt theo hoạt độ
 
 Định mức Tiền đường được tính chia thành: tiền vé, tiền ăn, tiền làm luật, lương chuyến và các chi phí phát sinh khác. Thông tin được sử dụng làm dữ liệu tính toán tham khảo trong bảng Ql chi phí vận chuyển, tiền đề để tạo các báo cáo thanh quyết toán theo chuyến xe.
 
-<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption><p><em><strong>Màn hình Quản lý tiền đường</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption><p><em><strong>Màn hình Quản lý tiền đường</strong></em></p></figcaption></figure>
 
 
 
@@ -331,7 +331,7 @@ Bước 3: Nhấn Lưu để lưu lại thông tin tiền đường.
 
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><em><strong>Màn hình Quản lý tiền đường</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption><p><em><strong>Màn hình Quản lý tiền đường</strong></em></p></figcaption></figure>
 
 _Lưu ý: Cách tính tiền đường cũng có thể cài đặt công thức như Định mức dầu và Cước vận chuyển._
 
@@ -339,7 +339,7 @@ _Lưu ý: Cách tính tiền đường cũng có thể cài đặt công thức 
 
 Trong kế hoạch vận chuyển, phần tiền cược vỏ được tính là tạm ứng cho Ops đi làm việc cùng với các chi phí hải quan và chi trả hộ. Khi quyết toán, phần tiền cược vỏ Container được quản lý riêng trong Quản lý cược vỏ.
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption><p><em><strong>Màn hình danh sách Giá cược vỏ</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption><p><em><strong>Màn hình danh sách Giá cược vỏ</strong></em></p></figcaption></figure>
 
 
 
@@ -355,7 +355,7 @@ Bước 3: Nhấn Lưu để lưu lại thông tin giá cược vỏ container.
 
 Tính năng giúp doanh nghiệp theo dõi giá xăng dầu lên xuống của từng loại. Từ đó doanh nghiệp tính toán chuẩn sát chi phí nhiên liệu đi đường của từng xe. Đây cũng là cơ sở tính doanh thu, chi phí theo xe sau này.
 
-<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption><p><em><strong>Màn hình danh sách Giá dầu</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption><p><em><strong>Màn hình danh sách Giá dầu</strong></em></p></figcaption></figure>
 
 **Các bước tạo thông tin giá dầu mới:**
 
@@ -375,13 +375,13 @@ Bước 2: Nhập thông tin loại dầu, đơn giá, khoảng thời gian áp 
 
 * phần mềm tự động lọc toàn bộ các chuyến điều xe có Ngày xe đi theo khoảng thời gian đã chọn và cập nhập đơn giá dầu mới.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><em><strong>Màn hình cập nhật giá dầu</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p><em><strong>Màn hình cập nhật giá dầu</strong></em></p></figcaption></figure>
 
 #### **18. Quản lý cước thuê ngoài** <a href="#_2zbgiuw" id="_2zbgiuw"></a>
 
 Chức năng nhằm quản lý định mức cước vận chuyển khi thuê xe ngoài doanh nghiệp. Dữ liệu thiết lập được sử dụng làm thông tin tham khảo trong Ql cước vận chuyển, cơ sở để lên các báo cáo thanh quyết toán công nợ vendor, …
 
-<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption><p><em><strong>Màn hình quản lý định mức cước thuê ngoài</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption><p><em><strong>Màn hình quản lý định mức cước thuê ngoài</strong></em></p></figcaption></figure>
 
 **Các bước thêm mới định mức cước ngoài:**
 
@@ -391,7 +391,7 @@ Bước 2: Nhập các thông tin liên quan đến định mức vào bảng �
 
 Người dùng có thể nhấn nút  để bổ sung thêm dòng nhập dữ liệu.
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới định mức cước thuê ngoài</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới định mức cước thuê ngoài</strong></em></p></figcaption></figure>
 
 _Lưu ý: Mỗi lần thao tác nhập định mức từ excel, phần mềm tự động làm mới lại toàn bộ bảng dữ liệu và chỉ tải lên thông tin theo file vừa chọn._
 
@@ -399,7 +399,7 @@ _Lưu ý: Mỗi lần thao tác nhập định mức từ excel, phần mềm t�
 
 Tính năng giúp tính phí theo từng khách hàng; trong khi chi phí hải quan và chi phí chi, trả hộ được tính theo từng đầu mục phí riêng biệt. Thông tin chi phí sẽ được đưa trực tiếp vào trong mục Kế toán – Quyết toán khách hàng dùng để thanh quyết toán với khách hàng.
 
-<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption><p><em><strong>Màn hình Dịch vụ khách hàng</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption><p><em><strong>Màn hình Dịch vụ khách hàng</strong></em></p></figcaption></figure>
 
 **Các bước thêm mới Phí theo khách hàng:**
 
@@ -407,13 +407,13 @@ Bước 1: Tại màn hình **Dịch vụ khách hàng**, nhấn nút Thêm mớ
 
 Bước 2: Nhập các thông tin liên quan đến Phí khách hàng 🡪 Nhấn Lưu.
 
-<figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới Phí dịch vụ khách hàng</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới Phí dịch vụ khách hàng</strong></em></p></figcaption></figure>
 
 1. **Định mức cước biển**
 
 Chức năng nhằm quản lý định mức cước biển đối với các doanh nghiệp có vận chuyển theo đường biển. Dữ liệu thiết lập được sử dụng làm thông tin tham khảo về Cước thực thu và Cước hợp đồng trong mục Vận tải biển, làm cơ sở để lên Báo cáo cước Vận tải biển.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><em><strong>Màn hình Quản lý cước vận tải biển</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption><p><em><strong>Màn hình Quản lý cước vận tải biển</strong></em></p></figcaption></figure>
 
 **Các bước tạo thông tin định mức cước:**
 
@@ -423,4 +423,4 @@ Bước 2: Nhập thông tin theo yêu cầu.
 
 Bước 3: Nhấn Lưu để lưu lại thông tin.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới cước vận tải biển</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới cước vận tải biển</strong></em></p></figcaption></figure>

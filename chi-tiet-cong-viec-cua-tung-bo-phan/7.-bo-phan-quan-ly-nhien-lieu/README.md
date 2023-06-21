@@ -4,7 +4,7 @@
 
 Bước 1: Tại mục **Nhiên liệu**, lựa chọn chức năng **Quản lý nhập nhiên liệu**.
 
-Bước 2: Nhấn nút <img src="../../.gitbook/assets/0 (9).png" alt="" data-size="line">🡪 Điền các thông tin vào bảng.
+Bước 2: Nhấn nút <img src="../../.gitbook/assets/0 (2).png" alt="" data-size="line">🡪 Điền các thông tin vào bảng.
 
 Bước 3: Nhấn Lưu để lưu lại thông tin thêm mới nhiên liệu
 
@@ -47,11 +47,11 @@ Có 2 cách để thêm mới cấp dầu:
 
 Bước 1: Tại mục Nhiên liệu, chọn QL dầu cấp cho xe
 
-Bước 2: Nhấn nút <img src="../../.gitbook/assets/4 (2).png" alt="" data-size="line"> 🡪 nhập thông tin vào bảng 🡪 Lưu.
+Bước 2: Nhấn nút <img src="../../.gitbook/assets/4 (5).png" alt="" data-size="line"> 🡪 nhập thông tin vào bảng 🡪 Lưu.
 
-![](../../.gitbook/assets/5.png)
+![](<../../.gitbook/assets/5 (3).png>)
 
-<figure><img src="../../.gitbook/assets/6 (7).png" alt=""><figcaption><p><em><strong>Màn hình nhập dữ liệu</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption><p><em><strong>Màn hình nhập dữ liệu</strong></em></p></figcaption></figure>
 
 * Biển số xe: Chọn từ danh sách xe đã nhập trong mục Thông tin chung
 * Nơi cung cấp: Chọn theo danh sách NCC Nhiên liệu đã nhập trong Thông tin chung, bảng Đối tác. Phần mềm lấy theo khai báo để xác định việc đổ dầu lấy từ cây dầu trong công ty hay đổ ngoài.
@@ -61,7 +61,7 @@ Bước 2: Nhấn nút <img src="../../.gitbook/assets/4 (2).png" alt="" data-si
 
 #### **7.3.2 Tải file excel dầu cấp nhiều xe** <a href="#_13qzunr" id="_13qzunr"></a>
 
-Bước 1: Tại màn hình Ql cấp dầu cho xe, nhấn nút <img src="../../.gitbook/assets/7.png" alt="" data-size="line">
+Bước 1: Tại màn hình Ql cấp dầu cho xe, nhấn nút <img src="../../.gitbook/assets/7 (6).png" alt="" data-size="line">
 
 * Mẫu file excel tải lên: [https://bitly.com.vn/0e9aeq](https://bitly.com.vn/0e9aeq)
 

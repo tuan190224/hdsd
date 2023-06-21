@@ -12,13 +12,13 @@ Sự khác biệt của Quản lý lô hàng (đủ) và Quản lý lô hàng (r
 
 Sau khi ký hợp đồng, nhân viên dịch vụ khách hàng (CUS) bắt đầu nhập thông tin lô hàng vào hệ thống. Thông tin lô hàng sẽ được tự động đồng bộ sang các bộ phận khác ở quy trình sau như điều xe, kế toán, điều hành, ...
 
-![Màn hình quản lý lô hàng đủ](../../.gitbook/assets/0.png)
+![Màn hình quản lý lô hàng đủ](<../../.gitbook/assets/0 (4).png>)
 
 Bước 1: Trong thanh menu bên trái, tại mục **Điều hành**🡪 nhấn chọn **Quản lý lô hàng đủ/ rút gọn** tùy theo mục đích quản lý
 
-Bước 2: Nhấn nút ![](<../../.gitbook/assets/1 (8).png>) 🡪 Điền các thông tin vào bảng thêm mới. Nhập các thông tin lô hàng bằng cách nhấp chuột và chọn dữ liệu.
+Bước 2: Nhấn nút ![](<../../.gitbook/assets/1 (5).png>) 🡪 Điền các thông tin vào bảng thêm mới. Nhập các thông tin lô hàng bằng cách nhấp chuột và chọn dữ liệu.
 
-![](<../../.gitbook/assets/2 (7).png>) ![](<../../.gitbook/assets/3 (8).png>)
+![](<../../.gitbook/assets/2 (4).png>) ![](<../../.gitbook/assets/3 (2).png>)
 
 _Màn hình thêm mới thông tin lô hàng đủ_
 
@@ -53,14 +53,14 @@ Bước 1: Sau khi điền các thông tin về lô hàng🡪 Nhấn vào dòng 
 
 Bước 2: Dưới phần thông tin chi tiết về lô hàng, người dùng thực hiện nhập danh sách cont hàng theo:
 
-* Nhập cùng lúc nhiều Cont hàng theo danh sách từ file excel sẵn có bằng cách nhấn **Thêm file excel** ![](<../../.gitbook/assets/4 (5).png>)🡪 Chọn file excel sẵn có trên máy người dùng 🡪 Nhấn **Lưu** và xác nhận yêu cầu lưu.
+* Nhập cùng lúc nhiều Cont hàng theo danh sách từ file excel sẵn có bằng cách nhấn **Thêm file excel** ![](<../../.gitbook/assets/4 (8).png>)🡪 Chọn file excel sẵn có trên máy người dùng 🡪 Nhấn **Lưu** và xác nhận yêu cầu lưu.
 * Link file mẫu để tải số cont: [https://bitly.com.vn/p0qvk7](https://bitly.com.vn/p0qvk7)
 
 <figure><img src="../../.gitbook/assets/5.jpeg" alt=""><figcaption><p><em><strong>Giao diện màn hình thêm danh sách Cont</strong></em></p></figcaption></figure>
 
 ![Danh sách cont hàng được đưa lên phần mềm](../../.gitbook/assets/6.jpeg)
 
-* Hoặc: Nhập từng Cont hàng trực tiếp vào phần mềm: Nhấn chọn ![](<../../.gitbook/assets/7 (3).png>)🡪 nhập thông tin từng cont hàng🡪 nhấn **Lưu.** Thông tin về cont hàng của lô được hiển thị trên phần mềm.
+* Hoặc: Nhập từng Cont hàng trực tiếp vào phần mềm: Nhấn chọn ![](../../.gitbook/assets/7.png)🡪 nhập thông tin từng cont hàng🡪 nhấn **Lưu.** Thông tin về cont hàng của lô được hiển thị trên phần mềm.
 
 ![Giao diện màn hình thêm mới từng Cont hàng](../../.gitbook/assets/8.jpeg)
 
@@ -78,13 +78,13 @@ Bước 1: Vào chức năng Điều xe 🡪 Thêm mới
 
 Bước 2: Nhập trực tiếp số cont vào kế hoạch 🡪 Lưu. Khi đó, số cont cũng được quản lý vào trong lô hàng tương ứng.
 
-![Màn hình thêm mới thông tin điều xe](<../../.gitbook/assets/11 (6).png>)
+![Màn hình thêm mới thông tin điều xe](<../../.gitbook/assets/11 (5).png>)
 
 #### **2.1.3 Chuyển trạng thái lô hàng** <a href="#_xvir7l" id="_xvir7l"></a>
 
 Sau khi nhập xong thông tin lô hàng, để chuyển lô sang cho bộ phận điều xe, Cus thực hiện chuyển trạng thái của lô hàng- Dành riêng cho lô hàng đủ:
 
-Bước 1: Tại bảng Quản lý lô hàng 🡪 Chọn lô hàng cần điều vận 🡪 kích vào biểu tượng ![](<../../.gitbook/assets/12 (6).png>)
+Bước 1: Tại bảng Quản lý lô hàng 🡪 Chọn lô hàng cần điều vận 🡪 kích vào biểu tượng ![](<../../.gitbook/assets/12 (3).png>)
 
 Bước 2: Trên bảng chỉnh sửa thông tin quản lý lô hàng 🡪 kéo chuột xuống ô Trạng thái lô hàng ở dưới cùng 🡪 nhấn vào thay đổi trạng thái lô hàng sang có thể vận chuyển 🡪 Nhấn Lưu để kết thúc.
 
@@ -92,15 +92,15 @@ Bước 2: Trên bảng chỉnh sửa thông tin quản lý lô hàng 🡪 kéo 
 
 Mục danh sách cont hàng giúp người dùng theo dõi được danh sách các lô hàng đã được bên DVKH-CUS tạo, giúp điều vận dễ dàng theo dõi tiến độ và tạo kế hoạch điều xe, danh sách chi tiết từng cont hàng và trạng thái cont hàng (Vận chuyển, đã bán, …); đưa ra cảnh báo quá hạn lưu cont/ lưu vỏ/ lưu bãi.
 
-![Màn hình chi tiết danh sách cont hàng](<../../.gitbook/assets/13 (1).png>)
+![Màn hình chi tiết danh sách cont hàng](<../../.gitbook/assets/13 (5).png>)
 
 #### **2.2.1 Quản lý trạng thái cont hàng** <a href="#_1x0gk37" id="_1x0gk37"></a>
 
-Người dùng cập nhật trạng thái cùng từng cont hàng bằng cách nhấn vào ![](<../../.gitbook/assets/14 (1).png>) 🡪 Nhập thông tin về cont.
+Người dùng cập nhật trạng thái cùng từng cont hàng bằng cách nhấn vào ![](<../../.gitbook/assets/14 (4).png>) 🡪 Nhập thông tin về cont.
 
 Trường hợp cont bán, người dùng có thể nhập thêm Đơn giá mua/ bán để quản lý thêm.
 
-![Màn hình cập nhập trạng thái cont](../../.gitbook/assets/15.png)
+![Màn hình cập nhập trạng thái cont](<../../.gitbook/assets/15 (3).png>)
 
 #### **2.2.2 Quản lý cảnh báo** <a href="#_4h042r0" id="_4h042r0"></a>
 
@@ -128,11 +128,11 @@ Cảnh báo cược vỏ
 
 Bước 1: Trong mục danh sách lô hàng (đủ), tại cột Tạm ứng, nhấn vào con số 0 tương ứng với lô hàng
 
-![](<../../.gitbook/assets/16 (2).jpeg>)
+![](<../../.gitbook/assets/16 (1).jpeg>)
 
-Bước 2: Nhấn ![](<../../.gitbook/assets/17 (4).png>), các chi phí tạm ứng định mức của lô hàng được hiển thị. Chỉnh sửa trực tiếp vào các ô số lượng, đơn giá tạm ứng, thêm ghi chú nếu cần 🡪 Nhấn nút Lưu cuối bảng.
+Bước 2: Nhấn ![](<../../.gitbook/assets/17 (1).png>), các chi phí tạm ứng định mức của lô hàng được hiển thị. Chỉnh sửa trực tiếp vào các ô số lượng, đơn giá tạm ứng, thêm ghi chú nếu cần 🡪 Nhấn nút Lưu cuối bảng.
 
-![Bảng tạm ứng lô hàng](<../../.gitbook/assets/18 (5).png>)
+![Bảng tạm ứng lô hàng](<../../.gitbook/assets/18 (1).png>)
 
 Bước 3: Trường hợp cần thêm chi phí 🡪 nhấn nút **Thêm mới**🡪 Nhập thông tin vào bảng🡪 Nhấn **Lưu.**
 
@@ -144,17 +144,17 @@ Trong trường hợp đã làm quyết toán nội bộ cho hóa đơn tạm �
 
 Điều kiện thêm mới tạm ứng phát sinh: Kế toán 🡪 Ql QTNB ở trạng thái Mở.
 
-![Màn hình Kế toán - Ql Quyết toán nội bộ](<../../.gitbook/assets/20 (6).png>)
+![Màn hình Kế toán - Ql Quyết toán nội bộ](<../../.gitbook/assets/20 (2).png>)
 
 Bước 1: Trong mục danh sách lô hàng, tại cột Tạm ứng, nhấn vào con số (gạch chân, màu xanh) tương ứng với lô hàng cần tạo thêm tạm ứng.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Bước 2: Tại Màn hình Quản lý danh sách tạm ứng, nhấn vào **Thêm mới**🡪Chọn loại Tạm ứng🡪 Nhấn **Lưu.**
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 Bước 3: Nhấn vào mã tạm ứng vừa thêm🡪 Xuất hiện màn hình Quản lý thông tin tạm ứng 🡪 Nhấn **Thêm mới** để thêm các khoản chi phí nếu cần🡪 **Lưu**.
 
