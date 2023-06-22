@@ -26,6 +26,8 @@
   * [16. Quản lý thông tin Giá cược vỏ container](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/nhap-thong-tin-chung#\_3l18frh)
   * [17. Quản lý thông tin Giá dầu](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/nhap-thong-tin-chung#\_206ipza)
   * [18. Quản lý cước thuê ngoài](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/nhap-thong-tin-chung#\_2zbgiuw)
+  * [19. Phí theo khách hàng](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/nhap-thong-tin-chung#19.-phi-theo-khach-hang)
+  * [20. Định mức cước biển](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/nhap-thong-tin-chung#20.-dinh-muc-cuoc-bien)
 * [CHI TIẾT CÔNG VIỆC CỦA TỪNG BỘ PHẬN](chi-tiet-cong-viec-cua-tung-bo-phan/README.md)
   * [1. HÀNH CHÍNH](chi-tiet-cong-viec-cua-tung-bo-phan/1.-hanh-chinh/README.md)
     * [1.1 Cài đặt công việc](http://localhost:5000/s/reBIAZpigAXwN2jEDhWV/chi-tiet-cong-viec-cua-tung-bo-phan/1.-hanh-chinh#\_3cqmetx)

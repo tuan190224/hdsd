@@ -8,17 +8,17 @@ Ngoài ra quản trị viên cũng có thể thêm mới trực tiếp tài kho�
 
 Bước 1: Vào bảng TTC 🡪 Nhân viên 🡪 Khai báo nhân viên với vị trí Lái xe
 
-![](<../../../.gitbook/assets/0 (6).png>)
+![](<../../../.gitbook/assets/0 (9).png>)
 
-Bước 2: Tại mục Quản lý hệ thống\_Quản lý nhóm 🡪 Tìm nhóm Lái xe (Thực hiện Thêm mới nếu chưa có) 🡪 Nhấn nút ![](../../../.gitbook/assets/1.png)
+Bước 2: Tại mục Quản lý hệ thống\_Quản lý nhóm 🡪 Tìm nhóm Lái xe (Thực hiện Thêm mới nếu chưa có) 🡪 Nhấn nút ![](<../../../.gitbook/assets/1 (5).png>)
 
 Bước 3: Chọn tab Quyền 🡪 Tích chọn phân quyền cho tài khoản Mobile 🡪 Cập nhật
 
-![](<../../../.gitbook/assets/2 (5).png>)
+![](<../../../.gitbook/assets/2 (1).png>)
 
 Bước 4: Vào mục Quản lý người dùng 🡪 Thêm mới tài khoản🡪 Gán nhân viên Lái xe vừa tạo, chọn nhóm LÁI XE 🡪 Lưu
 
-![](<../../../.gitbook/assets/3 (7).png>)
+![](<../../../.gitbook/assets/3 (9).png>)
 
 ### **9.2 Đăng nhập** <a href="#_2d51dmb" id="_2d51dmb"></a>
 
@@ -32,13 +32,13 @@ Bước 2: Nhập các thông tin để đăng nhập:
 * Mật khẩu: Người tạo tài khoản cung cấp
 * Mã bảo mật: tencongty.tts-vn.com
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p><em><strong>Màn hình đăng nhập trên điện thoại</strong></em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption><p><em><strong>Màn hình đăng nhập trên điện thoại</strong></em></p></figcaption></figure>
 
 Bước 3: Lựa chọn xe cần quản lý thông tin
 
 
 
-<figure><img src="../../../.gitbook/assets/5 (7).png" alt=""><figcaption><p><em><strong>Các chức năng chính trên app mobile</strong></em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/5 (9).png" alt=""><figcaption><p><em><strong>Các chức năng chính trên app mobile</strong></em></p></figcaption></figure>
 
 
 
@@ -48,11 +48,11 @@ Bước 1: Nhấn chọn Kế hoạch VC 🡪 Chọn chuyến vận chuyển
 
 Bước 2: Chọn ngày muốn kiểm tra, chọn chuyến hàng trong ngày muốn xem hoặc cập nhật thông tin.
 
-![Màn hình danh sách chuyến hàng](<../../../.gitbook/assets/6 (7).png>)
+![Màn hình danh sách chuyến hàng](../../../.gitbook/assets/6.png)
 
 Bước 3: Nhấp chọn chuyến hàng trong ngày muốn xem hoặc cập nhật thông tin.
 
-![Màn hình quản lý chi tiết một chuyến hàng](<../../../.gitbook/assets/7 (3).png>)
+![Màn hình quản lý chi tiết một chuyến hàng](<../../../.gitbook/assets/7 (8).png>)
 
 
 
@@ -64,7 +64,7 @@ Người dùng có thể cập nhật thông tin hàng hóa như: Cân tổng l�
 
 Nếu có biên bản, nhấn thu biên bản.
 
-![](<../../../.gitbook/assets/8 (4).png>)
+![](<../../../.gitbook/assets/8 (6).png>)
 
 Khi lái xe tích trạng thái Đã nhận hàng, Đã giao hàng trên app lái xe thì sẽ ghi nhận thời gian này sẽ link lại vào cột Thời gian nhận hàng, giao hàng trên phần mềm và phần mềm sẽ tự động tính thời gian đóng trả của 1 chuyến hàng trong Bảng kê chi tiết vận chuyển
 
@@ -74,7 +74,7 @@ Trên màn hình chi tiết vận chuyển chọn thông tin chuyến xe để x
 
 Ở thanh tab dưới màn hình, người dùng nhấn để chọn đến các màn hình Tuyến đường, Tiền đường và Cước phí.
 
-![Màn hình tiền đường](<../../../.gitbook/assets/9 (1).png>)
+![Màn hình tiền đường](<../../../.gitbook/assets/9 (4).png>)
 
 Để thay đổi quyền chỉnh sửa thông tin Tiền đường và Lưu ca của lái xe, người dùng thực hiện thay đổi trên web:
 
@@ -82,39 +82,39 @@ Trên màn hình chi tiết vận chuyển chọn thông tin chuyến xe để x
 
 Bước 1: Tại mục Điều hành, chọn Điều xe gộp cước
 
-Bước 2: Tìm lô muốn đổi quyền, nhấn nút ![](<../../../.gitbook/assets/10 (1).png>) 🡪 Chuyển trạng thái Trả cước sang:
+Bước 2: Tìm lô muốn đổi quyền, nhấn nút ![](<../../../.gitbook/assets/10 (3).png>) 🡪 Chuyển trạng thái Trả cước sang:
 
 * Lái xe được nhập: Lái xe được phép nhập Tiền Đường, Số ngày lưu ca, Giá lưu ca và Cước phải thu.
 * Lái xe nhận: Lái xe được ủy quyền thu hộ, trên màn hình Lưu ca lái xe có thể nhập Ngày thu cước, nhấn chọn Đã thu cước và nhấn nút Xác nhận để xác nhận thu cước. Sau khi nhấn Xác nhận, trạng thái chuyến hàng được chuyển về Lái xe đã nhận và lái xe không thể thay đổi Ngày thu cước và chọn Đã thu cước được nữa.
 * Các trạng thái khác: chỉ cho phép lái xe theo dõi số liệu đã định mức trên web, không cho phép sửa thông tin.
 
-![](../../../.gitbook/assets/11.png)
+![](<../../../.gitbook/assets/11 (5).png>)
 
 Cách 2: Lựa chọn từ Hệ điều hành/QL cước VC, chọn chuyến xe muốn sửa và thay đổi trạng thái cột Trả cước:
 
-![](<../../../.gitbook/assets/12 (5).png>)
+![](<../../../.gitbook/assets/12 (1).png>)
 
 #### **9.3.3 Chi trả hộ** <a href="#_4bewzdj" id="_4bewzdj"></a>
 
-Bước 1: Nhấn nút Chi trả hộ🡪 Nhấn <img src="../../../.gitbook/assets/13 (2).png" alt="" data-size="line"> để thêm các loại phí thu chi phát sinh
+Bước 1: Nhấn nút Chi trả hộ🡪 Nhấn <img src="../../../.gitbook/assets/13 (3).png" alt="" data-size="line"> để thêm các loại phí thu chi phát sinh
 
 Bước 2: Chọn tên chi phí, nhập giá tiền 🡪 nhấn Lưu
 
-![](<../../../.gitbook/assets/14 (5).png>) ![](<../../../.gitbook/assets/15 (2).png>)
+![](../../../.gitbook/assets/14.png) ![](<../../../.gitbook/assets/15 (5).png>)
 
 _Màn hình thông tin và nhập thu chi phát sinh_
 
 Thông tin lái xe nhập sau đó sẽ được trả về web, trong mục Lái xe 🡪 Quản lý thu chi lái xe và các báo cáo liên quan.
 
-<figure><img src="../../../.gitbook/assets/16 (6).png" alt=""><figcaption><p><em><strong>Màn hình quản lý thu chi lái xe trên web</strong></em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/16 (1).png" alt=""><figcaption><p><em><strong>Màn hình quản lý thu chi lái xe trên web</strong></em></p></figcaption></figure>
 
 #### **9.3.4 Ảnh chứng từ** <a href="#_2qk79lc" id="_2qk79lc"></a>
 
-Bước 1: Nhấn nút Ảnh chứng từ 🡪 Nhấn <img src="../../../.gitbook/assets/17 (7).png" alt="" data-size="line"> để thêm ảnh
+Bước 1: Nhấn nút Ảnh chứng từ 🡪 Nhấn <img src="../../../.gitbook/assets/17 (4).png" alt="" data-size="line"> để thêm ảnh
 
 Bước 2: Chọn ảnh từ thư viện hoặc chụp trực tiếp 🡪 Nhấn Tải lên để đưa ảnh vào lưu trữ
 
-<figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption><p><em><strong>Màn hình tải ảnh chứng từ trên mobile app</strong></em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (142).png" alt=""><figcaption><p><em><strong>Màn hình tải ảnh chứng từ trên mobile app</strong></em></p></figcaption></figure>
 
 Ảnh chứng từ vừa tải lên sẽ được quản lý trên web, tại:
 
@@ -123,17 +123,17 @@ Bước 2: Chọn ảnh từ thư viện hoặc chụp trực tiếp 🡪 Nhấn
 
 ### **9.4 Sửa chữa** <a href="#_15phjt5" id="_15phjt5"></a>
 
-<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption><p><em><strong>Thao tác khai báo đề xuất sửa chữa</strong></em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (156).png" alt=""><figcaption><p><em><strong>Thao tác khai báo đề xuất sửa chữa</strong></em></p></figcaption></figure>
 
 Bước 1: Tại màn hình trang chủ, chọn chức năng Sửa chữa
 
 Bước 2: Màn hình xuất hiện 2 chức năng là Đề xuất sửa chữa và Hóa đơn sửa chữa
 
-Bước 3: Vào Đề xuất sửa chữa -> Nhấn <img src="../../../.gitbook/assets/image (34).png" alt="" data-size="line"> 🡪 Nhập nội dung cần sửa chữa 🡪 Nhấn Lưu. Các Yêu cầu sửa chữa sẽ hiển thị vào mục Danh sách công việc trên Phần mềm. Quản lý sẽ duyệt các yêu cầu nào cho sửa, yêu cầu nào huỷ. Quản lý thao tác xong thì thông tin sẽ tự động thông báo lại App Mobile cho lái xe theo dõi. Nếu duyệt thì sẽ bắt đầu sửa. (Đối với các yêu cầu sửa chữa lớn)
+Bước 3: Vào Đề xuất sửa chữa -> Nhấn <img src="../../../.gitbook/assets/image (130).png" alt="" data-size="line"> 🡪 Nhập nội dung cần sửa chữa 🡪 Nhấn Lưu. Các Yêu cầu sửa chữa sẽ hiển thị vào mục Danh sách công việc trên Phần mềm. Quản lý sẽ duyệt các yêu cầu nào cho sửa, yêu cầu nào huỷ. Quản lý thao tác xong thì thông tin sẽ tự động thông báo lại App Mobile cho lái xe theo dõi. Nếu duyệt thì sẽ bắt đầu sửa. (Đối với các yêu cầu sửa chữa lớn)
 
-Vào Hóa đơn sửa chữa -> Nhấn <img src="../../../.gitbook/assets/image (10).png" alt="" data-size="line">🡪 Thêm mới, nhập thông tin sửa chữa -> Nhấn Lưu -> Khi Quản lý duyệt thì các thông tin về sửa chữa sẽ tự động link vào Thay thế, sửa chữa. (Đối với các yêu cầu sửa chữa nhỏ)
+Vào Hóa đơn sửa chữa -> Nhấn <img src="../../../.gitbook/assets/image (106).png" alt="" data-size="line">🡪 Thêm mới, nhập thông tin sửa chữa -> Nhấn Lưu -> Khi Quản lý duyệt thì các thông tin về sửa chữa sẽ tự động link vào Thay thế, sửa chữa. (Đối với các yêu cầu sửa chữa nhỏ)
 
-<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p><em><strong>Màn hình trang chủ Màn                                     hình thêm mới HĐ SC                              Màn hình thêm mới ĐX SC</strong></em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (116).png" alt=""><figcaption><p><em><strong>Màn hình trang chủ Màn                                     hình thêm mới HĐ SC                              Màn hình thêm mới ĐX SC</strong></em></p></figcaption></figure>
 
 _**Sửa nội dung hóa đơn**_
 
@@ -143,7 +143,7 @@ Bước 2: Chọn Sửa hoặc Xóa hóa đơn
 
 Bước 3: Trong trường hợp sửa hóa đơn🡪 thay đổi nội dung🡪 Nhấn nút **Thêm** để lưu lại chỉnh sửa.
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption><p><em><strong>Màn hình sửa thông tin hóa đơn Sửa chữa</strong></em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (127).png" alt=""><figcaption><p><em><strong>Màn hình sửa thông tin hóa đơn Sửa chữa</strong></em></p></figcaption></figure>
 
 _**Sửa chi tiết hóa đơn**_
 
@@ -153,17 +153,17 @@ Bước 2: Tại chi tiết muốn sửa, dùng tay kéo từ phải sang trái,
 
 Bước 3: Cập nhật lại nội dung cần thay đổi🡪 Nhấn nút **Thêm** để lưu lại.
 
-<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption><p><em><strong>Màn hình chỉnh sửa chi tiết                                                                Hóa đơn sửa chữa</strong></em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (149).png" alt=""><figcaption><p><em><strong>Màn hình chỉnh sửa chi tiết                                                                Hóa đơn sửa chữa</strong></em></p></figcaption></figure>
 
 ### **9.5 Khai báo đổ dầu** <a href="#_3pp52gy" id="_3pp52gy"></a>
 
 Bước 1: Tại trang chủ mobile app, chọn nhút Xăng dầu
 
-Bước 2: Nhấn ![](<../../../.gitbook/assets/image (25).png>) 🡪 Khai báo thông tin dầu cấp cho xe 🡪 Nhấn Lưu
+Bước 2: Nhấn ![](<../../../.gitbook/assets/image (121).png>) 🡪 Khai báo thông tin dầu cấp cho xe 🡪 Nhấn Lưu
 
 Ngoài ra, người dùng có thể chỉnh sửa thông tin dầu cấp bằng cách dùng tay kéo từ phải sang trái, chọn Sửa hoặc Xóa 🡪 Cập nhật lại nội dung cần thay đổi và lưu lại.
 
-<figure><img src="../../../.gitbook/assets/image (156).png" alt=""><figcaption><p><em><strong>Màn hình khai báo dầu cấp                                                                          Màn hình Quản lý dầu cấp</strong></em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (159).png" alt=""><figcaption><p><em><strong>Màn hình khai báo dầu cấp                                                                          Màn hình Quản lý dầu cấp</strong></em></p></figcaption></figure>
 
 ### **9.6 Theo dõi thông báo, cảnh báo** <a href="#_24ufcor" id="_24ufcor"></a>
 
@@ -179,5 +179,5 @@ Bước 2: Tại màn hình trang chủ, nhận chọn vào mục thông báo đ
 
 &#x20; &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption><p><em><strong>Màn hình hiển thị thông báo</strong></em></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (148).png" alt=""><figcaption><p><em><strong>Màn hình hiển thị thông báo</strong></em></p></figcaption></figure>
 

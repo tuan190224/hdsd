@@ -8,7 +8,7 @@ Là chức năng quản lý kế hoạch của bộ phận điều xe theo ngày
 
 #### **3.1.1 Tạo kế hoạch vận chuyển** <a href="#_39kk8xu" id="_39kk8xu"></a>
 
-![Màn hình Kế hoạch vận chuyển](<../../.gitbook/assets/0 (3).png>)
+![Màn hình Kế hoạch vận chuyển](<../../.gitbook/assets/0 (6).png>)
 
 Bước 1: Trong mục **Điều hành**, chọn **Kế hoạch vận chuyển**🡪 Nhấn nút Thêm mới
 
@@ -19,20 +19,20 @@ Bước 2: Nhập thông tin vào bảng thêm mới
 * Thời gian cắt máng và thời gian đóng hàng: thời gian cắt máng sẽ phải nhập đủ ngày và giờ cụ thể, còn thời gian đóng hàng sẽ nhập giờ đóng hàng cụ thể, còn ngày đóng hàng sẽ lấy theo trường ngày vận chuyển
 * Số lượng xe điều vận, Tấn: Người dùng nhập theo thực tế kế hoạch
 * Trong TH hàng cont, người dùng có thể nhập thêm/ lựa chọn số cont đã có của lô.
-* Ngoài ra, nếu chưa có lô hàng, người dùng vẫn có thể chọn Khách hàng và lên kế hoạch vận chuyển như bình thường. Lô hàng tự tạo sau đó được lưu sang Ql lô rút gọn. Nút tắt ![](<../../.gitbook/assets/1 (7).png>) được dùng để tải file danh sách cont lên phần mềm.
+* Ngoài ra, nếu chưa có lô hàng, người dùng vẫn có thể chọn Khách hàng và lên kế hoạch vận chuyển như bình thường. Lô hàng tự tạo sau đó được lưu sang Ql lô rút gọn. Nút tắt ![](../../.gitbook/assets/1.png) được dùng để tải file danh sách cont lên phần mềm.
 
-Bước 3: Phầm mềm cũng hỗ trợ tạo điều xe từ kế hoạch vận chuyển với nút tắt ![](<../../.gitbook/assets/2 (2).png>). Điều kiện sử dụng nút tắt:
+Bước 3: Phầm mềm cũng hỗ trợ tạo điều xe từ kế hoạch vận chuyển với nút tắt ![](<../../.gitbook/assets/2 (9).png>). Điều kiện sử dụng nút tắt:
 
 * Hàng nhập: Có số cont khi lên kế hoạch vận chuyển. Mỗi cont tương ứng với 01 chuyến được tạo trong màn hình Điều xe.
 * Hàng xuất: Nhập số lượng xe điều vận, không cần nhập số cont. Mỗi xe tương ứng với 01 chuyến được tạo trong màn hình Điều xe.
 
-![Màn hình thêm mới Kế hoạch vận chuyển](<../../.gitbook/assets/3 (9).png>)
+![Màn hình thêm mới Kế hoạch vận chuyển](<../../.gitbook/assets/3 (2).png>)
 
 #### **3.1.2 Theo dõi lịch điều xe** <a href="#_1opuj5n" id="_1opuj5n"></a>
 
 Theo dõi số lượng xe điều, lượng hàng vận chuyển trong 01 tháng theo từng lô hàng, cập nhật tiến độ điều xe hàng ngày.
 
-<figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption><p><em><strong>Màn hình Kế hoạch điều xe</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (3).png" alt=""><figcaption><p><em><strong>Màn hình Kế hoạch điều xe</strong></em></p></figcaption></figure>
 
 Bảng thông tin hiển thị dưới dạng bảng liệt kê, lưu trữ thông tin điều xe. Tuy nhiên, người dùng vẫn có thể sửa trực tiếp số lượng điều xe dự toán trong ngày bằng cách:
 
@@ -40,7 +40,7 @@ Bước 1: Trong mục Kế hoạch điều xe, chọn tab Lịch điều xe
 
 Bước 2: Nhấn chuột vào sửa cột thời gian tương ứng với ngày dùng phần mềm 🡪 Nhập liệu🡪 Lưu
 
-![](<../../.gitbook/assets/5 (1).png>)
+![](<../../.gitbook/assets/5 (3).png>)
 
 _Lưu ý:_
 
@@ -68,24 +68,24 @@ Bước 3: Nhập thông tin vào bảng thêm mới điều 1 xe 🡪 Nhấn l�
 
 * Trong trường hợp có chuyến ghép, người dùng chọn _Mã chuyến ghép_ – là mã các chuyến có cùng Ngày xe đi.
 * Loại rơ mooc được gán liền theo số mooc, nếu muốn thay đổi cần vào TTC – Danh sách Rơ-mooc để đổi loại.
-* Trường hợp sử dụng xe ngoài chưa khai báo trong danh sách xe. Nhấn chọn thêm xe ![](<../../.gitbook/assets/7 (1).png>) tại bảng Thêm kế hoạch điều xe. Sau đó điền thông tin xe muốn điều.
+* Trường hợp sử dụng xe ngoài chưa khai báo trong danh sách xe. Nhấn chọn thêm xe ![](<../../.gitbook/assets/7 (5).png>) tại bảng Thêm kế hoạch điều xe. Sau đó điền thông tin xe muốn điều.
 
 (Chức năng này chỉ sử dụng cho xe thuê ngoài. Đối với xe của công ty, người dùng thêm mới xe tại **Danh sách xe** của mục TTC)
 
-* Nhấn ![](<../../.gitbook/assets/8 (2).png>) nếu muốn điều thêm một xe khác với cùng thông tin lô.
+* Nhấn ![](<../../.gitbook/assets/8 (5).png>) nếu muốn điều thêm một xe khác với cùng thông tin lô.
 
 _Lưu ý:_
 
 * _Màn hình Kế hoạch điều xe_
 
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-* _Mỗi trạng thái sẽ hiển thị màu khác nhau:_ <img src="../../.gitbook/assets/image (21).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (38).png" alt="" data-size="original">![](<../../.gitbook/assets/image (141).png>)![](<../../.gitbook/assets/image (30).png>)![](<../../.gitbook/assets/image (164).png>)
+* _Mỗi trạng thái sẽ hiển thị màu khác nhau:_ <img src="../../.gitbook/assets/image (117).png" alt="" data-size="original"><img src="../../.gitbook/assets/image (134).png" alt="" data-size="original">![](<../../.gitbook/assets/image (165).png>)![](<../../.gitbook/assets/image (126).png>)![](<../../.gitbook/assets/image (11).png>)
 * _Khi lái xe thay đổi trạng thái chuyến xe trên app mobile thì phần mền sẽ hiển thị thông báo ở góc màn hình là xe nào đã cập nhật để điều vận theo dõi, cùng với đó trạng thái chuyến đó sẽ được thay đổi_
 
-![Màn hình thêm mới điều 1 xe](<../../.gitbook/assets/15 (5).png>)
+![Màn hình thêm mới điều 1 xe](<../../.gitbook/assets/15 (8).png>)
 
-![Màn hình thêm xe thuê ngoài](<../../.gitbook/assets/16 (1).jpeg>)
+![Màn hình thêm xe thuê ngoài](<../../.gitbook/assets/16 (2).jpeg>)
 
 #### **3.2.2 Điều nhiều xe** <a href="#_1302m92" id="_1302m92"></a>
 
@@ -93,7 +93,7 @@ Bước 1: Trong mục Điều xe, nhấn Thêm mới 🡪 chọn n xe
 
 Bước 2: Chọn Mã lô 🡪 Nhập các thông tin vào bảng.
 
-![Màn hình điều n xe – lô hàng đủ ](<../../.gitbook/assets/20 (6).png>)
+![Màn hình điều n xe – lô hàng đủ ](<../../.gitbook/assets/20 (9).png>)
 
 ![Màn hình điều n xe – lô rút gọn](<../../.gitbook/assets/21 (1).png>)
 
@@ -103,7 +103,7 @@ Bước 1: Trong mục Điều xe, nhấn Thêm mới 🡪 chọn Không cần l
 
 Bước 2: Chọn Khách hàng 🡪 Nhập các thông tin vào bảng.
 
-![Màn hình thêm mới điều không lô](<../../.gitbook/assets/22 (1).png>)
+![Màn hình thêm mới điều không lô](../../.gitbook/assets/22.png)
 
 _Lưu ý: Lô hàng được tạo tự động từ điều không lô sẽ được quản lý trong lô rút gọn._
 
@@ -163,9 +163,9 @@ Bước 1: Tại mục Điều hành, chọn Điều xe ghép
 
 Bước 2: Nhấn nút Điều xe 🡪 nhập thông tin vào bảng thêm mới 🡪 Lưu.
 
-* Trường hợp người dùng muốn bổ sung thêm điểm giao hàng, nhấn nút ![](<../../.gitbook/assets/image (128).png>)
+* Trường hợp người dùng muốn bổ sung thêm điểm giao hàng, nhấn nút ![](<../../.gitbook/assets/image (94).png>)
 * Lợi nhuận %: được hiểu là lợi nhuận tính cho đội xe.
-* Nhấn nút nếu muốn tiếp tục điều xe với các dữ liệu sẵn có <img src="../../.gitbook/assets/image (96).png" alt="" data-size="line">
+* Nhấn nút nếu muốn tiếp tục điều xe với các dữ liệu sẵn có <img src="../../.gitbook/assets/image (62).png" alt="" data-size="line">
 
 ![Màn hình thêm mới điều xe ghép](../../.gitbook/assets/30.png)
 
@@ -189,7 +189,7 @@ Bước 2: Nhấn nút ![](../../.gitbook/assets/31.png) 🡪 Lựa chọn thêm
 
 Bước 3: Nếu muốn gán kế hoạch, nhấn đúp chuột vào biểu tượng xe tương ứng trên bản đồ 🡪 Nhập nội dung điều xe 🡪 Lưu.
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption><p><em><strong>Màn hình bản đồ định vị các xe</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption><p><em><strong>Màn hình bản đồ định vị các xe</strong></em></p></figcaption></figure>
 
 ### **3.5 Vận tải biển**
 
@@ -202,13 +202,13 @@ Các tiện ích được xây dựng bao gồm:
 * Cập nhật lại giá cước
 * Xuất file lưu trữ
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption><p><em><strong>Màn hình điều vận vận tải biển</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption><p><em><strong>Màn hình điều vận vận tải biển</strong></em></p></figcaption></figure>
 
 
 
 * **Thao tác tạo mới chuyến điều vận:**
 
-_**Bước 1**_: Nhấn nút <img src="../../.gitbook/assets/image (58).png" alt="" data-size="line"> → Nhập thông tin vào bảng thêm mới
+_**Bước 1**_: Nhấn nút <img src="../../.gitbook/assets/image (24).png" alt="" data-size="line"> → Nhập thông tin vào bảng thêm mới
 
 * Hãng tàu: Được hiểu là hãng tàu sẽ thực hiện vận chuyển các cont hàng trong chuyến
 * Mã lô: Lấy theo mã lô đã tạo từ Quản lý lô hàng ( có tích chọn Vận tải biển và nhập thông tin trong tab)
@@ -219,11 +219,11 @@ _**Bước 1**_: Nhấn nút <img src="../../.gitbook/assets/image (58).png" alt
 
 _**Bước 2**_: Nhấn Lưu
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới/cập nhật lại chuyến điều vận vận tải biển</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới/cập nhật lại chuyến điều vận vận tải biển</strong></em></p></figcaption></figure>
 
 * **Thao tác cập nhật lại cước biển:**
 
-Trong trường hợp có phát sinh vấn đề cần cập nhật lại giá cước biển, người dùng sử dụng nút: <img src="../../.gitbook/assets/image (59).png" alt="" data-size="line"> . Thông tin cước sẽ được cập nhật lại theo dữ liệu hiện có trong Thông tin chung-Định mức cước biển.
+Trong trường hợp có phát sinh vấn đề cần cập nhật lại giá cước biển, người dùng sử dụng nút: <img src="../../.gitbook/assets/image (25).png" alt="" data-size="line"> . Thông tin cước sẽ được cập nhật lại theo dữ liệu hiện có trong Thông tin chung-Định mức cước biển.
 
 ### **3.6 Quản lý Cước vận chuyển** <a href="#_1tuee74" id="_1tuee74"></a>
 
@@ -235,7 +235,7 @@ Quản lý các loại chi phí:
 * Chi phí khách tạm ứng
 * Thông tin nhận – trả cước
 
-<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption><p><em><strong>Màn hình quản lý cước vận chuyển</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption><p><em><strong>Màn hình quản lý cước vận chuyển</strong></em></p></figcaption></figure>
 
 #### **3.6.1 Quản lý cước** <a href="#_4du1wux" id="_4du1wux"></a>
 
@@ -243,7 +243,7 @@ Thông tin từ bảng Quản lý cước sẽ được dùng làm cơ sở lên
 
 Bước 1: Sau khi điều xe, sang bảng Ql cước vc kiểm tra lại thông tin. Định mức cước được phần mềm tự động tính theo định mức Cước vc và Cước thuê ngoài có trong TTC.
 
-Bước 2: Trường hợp chưa có dữ liệu hoặc cần thay đổi, người dùng có thể chỉnh sửa trực tiếp tại các ô chữ màu xanh hoặc quay lại nhập từ TTC rồi chọn ![](<../../.gitbook/assets/image (48).png>)  để cập nhật lại cước.
+Bước 2: Trường hợp chưa có dữ liệu hoặc cần thay đổi, người dùng có thể chỉnh sửa trực tiếp tại các ô chữ màu xanh hoặc quay lại nhập từ TTC rồi chọn ![](<../../.gitbook/assets/image (144).png>)  để cập nhật lại cước.
 
 Lưu ý: Khoảng cách tuyến đường và định mức dầu, chi phí cước thực thu, hợp đồng sẽ lấy theo địa chỉ mở rộng – chi tiết
 
@@ -268,7 +268,7 @@ Bước 2: Kéo đến cột chức năng cuối bảng Ql cước vc 🡪 Nhậ
 
 Bước 3: Lựa chọn thông tin định mức muốn lưu trữ 🡪 Lưu
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption><p><em><strong>Màn hình Lưu ngược định mức cước</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption><p><em><strong>Màn hình Lưu ngược định mức cước</strong></em></p></figcaption></figure>
 
 _Lưu ý: Tuyến đường để lưu ngược định mức cước là từ Địa chỉ Mở rộng – Chi tiết của tuyến điều xe, chiều đi._
 
@@ -276,15 +276,15 @@ _Lưu ý: Tuyến đường để lưu ngược định mức cước là từ �
 
 Trong trường hợp cước vận chuyển của chuyến có thay đổi, người dùng muốn cập nhật lại theo định mức, có thể sử dụng:
 
-Cách 1: Làm mới chi phí một chuyến xe🡪 Nhấn nút ![](<../../.gitbook/assets/image (43).png>) để lấy lại giá trị định mức ban đầu.
+Cách 1: Làm mới chi phí một chuyến xe🡪 Nhấn nút ![](<../../.gitbook/assets/image (139).png>) để lấy lại giá trị định mức ban đầu.
 
 Cách 2: Làm mới chi phí nhiều chuyến cùng lúc: Tích chọn các chuyến cần chỉnh sửa 🡪 Nhấn nút Cập nhật định mức 🡪 Tích chọn phần chi phí cần chỉnh 🡪 Nhấn Xác nhận
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p><em><strong>Màn hình cập nhật cước</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption><p><em><strong>Màn hình cập nhật cước</strong></em></p></figcaption></figure>
 
 #### **3.6.4 Đóng quản lý** <a href="#_3s49zyc" id="_3s49zyc"></a>
 
-Khi người dùng đã xử lý xong quản lý cước của 1 chuyến, có thể sử dụng nút ![](<../../.gitbook/assets/image (88).png>)  để đóng lại thanh toán của chuyến của chuyến vận chuyển, đồng nghĩ với việc các đơn giá sẽ không thể thay đổi giá trị được. Nếu muốn sửa đổi quản lý đã đóng, người dùng nhấn lại vào nút ![](<../../.gitbook/assets/image (99).png>) để mở.
+Khi người dùng đã xử lý xong quản lý cước của 1 chuyến, có thể sử dụng nút ![](<../../.gitbook/assets/image (54).png>)  để đóng lại thanh toán của chuyến của chuyến vận chuyển, đồng nghĩ với việc các đơn giá sẽ không thể thay đổi giá trị được. Nếu muốn sửa đổi quản lý đã đóng, người dùng nhấn lại vào nút ![](<../../.gitbook/assets/image (65).png>) để mở.
 
 _Lưu ý: Khi đóng Ql cước vận chuyển thì thông tin điều xe của chuyến cũng không thể thay đổi nhằm đảm bảo tính thống nhất trong dữ liệu. Khi muốn thay đổi thông tin chuyến trong Điều xe, cần mở lại Ql cước vc._
 
@@ -296,7 +296,7 @@ Quản lý các khoản chi phí cho một chuyến xe:
 * Lương chuyến: đối với các đơn vị tính lương lái xe theo doanh số chuyến
 * Định mức dầu và đơn giá dầu
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption><p><em><strong>Màn hình quản lý chi phí vận chuyển</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption><p><em><strong>Màn hình quản lý chi phí vận chuyển</strong></em></p></figcaption></figure>
 
 #### **3.7.1 Quản lý chi phí** <a href="#_meukdy" id="_meukdy"></a>
 
@@ -304,7 +304,7 @@ Giống với Ql cước vận chuyển, Ql chi phí được tạo ra khi có d
 
 Bước 1: Sau khi điều xe, sang bảng Ql chi phí vc kiểm tra lại thông tin.
 
-Bước 2: Trường hợp chưa có dữ liệu hoặc cần thay đổi, người dùng có thể chỉnh sửa trực tiếp tại các ô chữ màu xanh hoặc quay lại nhập từ TTC rồi chọn ![](<../../.gitbook/assets/image (51).png>) để cập nhật lại chi phí.
+Bước 2: Trường hợp chưa có dữ liệu hoặc cần thay đổi, người dùng có thể chỉnh sửa trực tiếp tại các ô chữ màu xanh hoặc quay lại nhập từ TTC rồi chọn ![](<../../.gitbook/assets/image (147).png>) để cập nhật lại chi phí.
 
 Tương tự như Quản lý cước vận chuyển, các dữ liệu trong bảng này sẽ lấy theo tuyến đường địa chỉ mở rộng – chi tiết
 
@@ -312,25 +312,25 @@ Tương tự như Quản lý cước vận chuyển, các dữ liệu trong bả
 
 Bước 1: Nhập các mục chi phí của chuyến xe
 
-Bước 2: Kéo đến cột chức năng cuối bảng Ql chi phí vc🡪 Nhận nút <img src="../../.gitbook/assets/image (35).png" alt="" data-size="line">
+Bước 2: Kéo đến cột chức năng cuối bảng Ql chi phí vc🡪 Nhận nút <img src="../../.gitbook/assets/image (131).png" alt="" data-size="line">
 
 Bước 3: Lựa chọn thông tin định mức muốn lưu trữ 🡪 Lưu
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption><p><em><strong>Màn hình lưu ngược định mức tiền đường</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption><p><em><strong>Màn hình lưu ngược định mức tiền đường</strong></em></p></figcaption></figure>
 
 #### **3.7.3 Cập nhật chi phí** <a href="#_1ljsd9k" id="_1ljsd9k"></a>
 
 Trong trường hợp chi phí và định mức dầu của chuyến có thay đổi, người dùng muốn cập nhật lại theo định mức, có thể sử dụng:
 
-Cách 1: Làm mới chi phí một chuyến xe🡪 Nhấn nút ![](<../../.gitbook/assets/image (161).png>) để lấy lại giá trị định mức ban đầu.
+Cách 1: Làm mới chi phí một chuyến xe🡪 Nhấn nút ![](<../../.gitbook/assets/image (7).png>) để lấy lại giá trị định mức ban đầu.
 
 Cách 2: Làm mới chi phí nhiều chuyến cùng lúc: Tích chọn các chuyến cần chỉnh sửa 🡪 Nhấn nút Cập nhật định mức 🡪 Tích chọn phần chi phí cần chỉnh 🡪 Nhấn Xác nhận
 
-<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption><p><em><strong>Màn hình cập nhật chi phí vận chuyển</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption><p><em><strong>Màn hình cập nhật chi phí vận chuyển</strong></em></p></figcaption></figure>
 
 #### **3.7.4 Đóng chi phí** <a href="#_45jfvxd" id="_45jfvxd"></a>
 
-Khi người dùng đã xử lý xong quản lý cước của 1 chuyến, có thể sử dụng nút ![](<../../.gitbook/assets/image (79).png>) để đóng lại thanh toán của chuyến của chuyến vận chuyển, đồng nghĩ với việc các đơn giá sẽ không thể thay đổi giá trị được. Nếu muốn sửa đổi quản lý đã đóng, người dùng nhấn lại vào nút ![](<../../.gitbook/assets/image (33).png>) để mở.
+Khi người dùng đã xử lý xong quản lý cước của 1 chuyến, có thể sử dụng nút ![](<../../.gitbook/assets/image (45).png>) để đóng lại thanh toán của chuyến của chuyến vận chuyển, đồng nghĩ với việc các đơn giá sẽ không thể thay đổi giá trị được. Nếu muốn sửa đổi quản lý đã đóng, người dùng nhấn lại vào nút ![](<../../.gitbook/assets/image (129).png>) để mở.
 
 Lưu ý: Khi đóng Ql chi phí vc thì thông tin điều xe của chuyến cũng không thể thay đổi nhằm đảm bảo tính thống nhất trong dữ liệu. Khi muốn thay đổi thông tin chuyến trong Điều xe, cần mở lại Ql chi phí vc.
 
@@ -356,7 +356,7 @@ Bước 2: Chọn nút **Thêm mới** và nhập các thông tin
 
 Bước 3: Nhấn **Lưu** lại thông báo
 
-<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption><p><em><strong>Màn hình nhập thông báo</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p><em><strong>Màn hình nhập thông báo</strong></em></p></figcaption></figure>
 
 ### **3.9 Báo cáo hoạt động xe** <a href="#_zu0gcz" id="_zu0gcz"></a>
 
@@ -366,7 +366,7 @@ Là báo cáo thống kê tỉ lệ hoạt động của của xe, khách hàng 
 
 Báo cáo tính theo hoạt động của từng xe trong tháng, bao gồm cả xe của doanh nghiệp và các xe thuê ngoài.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p><em><strong>Màn hình báo cáo hoạt động theo xe</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption><p><em><strong>Màn hình báo cáo hoạt động theo xe</strong></em></p></figcaption></figure>
 
 <table data-header-hidden data-full-width="false"><thead><tr><th width="255"></th><th></th></tr></thead><tbody><tr><td>Số chuyến hàng cont</td><td>Số lượng chuyến vận chuyển với loại hàng cont</td></tr><tr><td>Số chuyến hàng rời</td><td>Số lượng chuyến vận chuyển với loại hàng rời</td></tr><tr><td>Tổng số chuyến (A)</td><td>= Số chuyến hàng cont + Số chuyến hàng rời</td></tr><tr><td>Tổng số km di chuyển (B)</td><td>Tổng km di chuyển của xe, lấy theo Ql chi phí vc</td></tr><tr><td>Km di chuyển trung bình</td><td>= B/A</td></tr><tr><td>Khối lượng</td><td>Lượng lái xe giao trong vận chuyển. Theo Ql cước vc</td></tr></tbody></table>
 
@@ -374,21 +374,21 @@ Báo cáo tính theo hoạt động của từng xe trong tháng, bao gồm cả
 
 Báo cáo tính theo hoạt động vận chuyển đối với từng KH trong tháng
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption><p><em><strong>Màn hình báo cáo hoạt động khách hàng</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption><p><em><strong>Màn hình báo cáo hoạt động khách hàng</strong></em></p></figcaption></figure>
 
 ### **3.10 Báo cáo tải trọng an toàn đầu kéo** <a href="#_4iylrwe" id="_4iylrwe"></a>
 
 Tính toán và quản lý tải trọng chở hàng cho phép cho từng đầu kéo theo chuyến vận chuyển.
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption><p><em><strong>Màn hình Báo cáo tải trọng an toàn đầu kéo</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption><p><em><strong>Màn hình Báo cáo tải trọng an toàn đầu kéo</strong></em></p></figcaption></figure>
 
 <table data-header-hidden><thead><tr><th width="247"></th><th></th></tr></thead><tbody><tr><td>Tên khách hàng-…Loại cont</td><td>Lấy theo thông tin trong mục Điều xe</td></tr><tr><td>SK đầu kéo</td><td>Sức kéo đầu kéo. Theo khai báo trong TTC – Danh sách xe – Cột Khối lượng kéo theo TK/CP TGGT</td></tr><tr><td>Trọng lượng SMRM</td><td>Trọng lượng mooc. Theo khai báo trong TTC- Danh sách Rơmooc – Cột Trọng lượng Rơ mooc</td></tr><tr><td>Trọng lượng vỏ cont</td><td><p>Theo mặc định từ hệ thống</p><p>Cont 20’ = 2290 kg</p><p>Cont 40’ = 3628 kg</p></td></tr><tr><td>Khối lượng chở cho phép</td><td><p><strong>Cách tính 1:</strong> Khối lượng hàng CC theo TK/CP TGGT của SMRM - Trọng lượng vỏ Cont (lấy theo thông số nhỏ hơn- CP TGGT – cho phép tham gia giao thông)</p><p><strong>Cách tính 2:</strong> Khối lượng kéo đầu * 110% - Khối lượng mooc - Trọng lượng vỏ cont + 150 (Khối lượng kéo đầu lấy theo thông số nhỏ hơn của Khối lượng kéo theo TK/CP TGGT của Đầu kéo)</p><ul><li>So sánh kết quả 2 cách tính, hiển thị khối lượng nhỏ hơn</li></ul></td></tr><tr><td>Khối lượng hàng</td><td>= Lượng lx nhận trong Ql cước vc</td></tr><tr><td>Chênh lệch</td><td>= Khối lượng hàng – Khối lượng chở cho phép</td></tr><tr><td>Chức năng</td><td>Chức năng chỉnh sửa chỉ có đối với loại hàng chở cont, có đủ thông tin: Số xe, số mooc, loại cont</td></tr></tbody></table>
 
 * **Cách kiểm tra Khối lượng chở cho phép của 1 chuyến hàng:**
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
-Bước 1: Trong màn hình báo cáo tải trọng an toàn đầu kéo🡪 Nhấn nút <img src="../../.gitbook/assets/image (143).png" alt="" data-size="line">
+Bước 1: Trong màn hình báo cáo tải trọng an toàn đầu kéo🡪 Nhấn nút <img src="../../.gitbook/assets/image (167).png" alt="" data-size="line">
 
 Bước 2: Trong màn hình tính toán, chọn số xe đầu kéo và số mooc muốn kiểm tra.
 

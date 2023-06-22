@@ -50,9 +50,9 @@
 
 [18. Quản lý cước thuê ngoài ](../nhap-thong-tin-chung/#\_2zbgiuw)
 
-**19.** **Phí theo khách hàng**&#x20;
+[**19.** **Phí theo khách hàng** ](../nhap-thong-tin-chung/#19.-phi-theo-khach-hang)
 
-**20.** **Định mức cước biển**&#x20;
+[**20.** **Định mức cước biển** ](../nhap-thong-tin-chung/#20.-dinh-muc-cuoc-bien)
 
 ## [_**C.**_ _**CHI TIẾT CÔNG VIỆC CỦA TỪNG BỘ PHẬN**_ ](../chi-tiet-cong-viec-cua-tung-bo-phan/)
 
