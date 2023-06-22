@@ -20,11 +20,11 @@ Bước 3: Xóa người dùng khỏi nhóm (nếu cần).
 
 \+ Loại công việc: phụ thuộc vào các đặt của công ty, doanh nghiệp- mặc định: hợp đồng, tạm ứng, thanh toán, báo giá
 
-<figure><img src="../../.gitbook/assets/2 (3).png" alt=""><figcaption><p><em><strong>Màn hình cài đặt loại công việc</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption><p><em><strong>Màn hình cài đặt loại công việc</strong></em></p></figcaption></figure>
 
 \+ Các mức độ ưu tiên: phân chia thứ tự ưu tiên để hoàn thành công việc- Cực cao, cao, bình thường, thấp, cực thấp, …
 
-<figure><img src="../../.gitbook/assets/3 (7).png" alt=""><figcaption><p><em><strong>Màn hình cài đặt các mức độ ưu tiên</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption><p><em><strong>Màn hình cài đặt các mức độ ưu tiên</strong></em></p></figcaption></figure>
 
 ### **1.2 Danh sách công việc** <a href="#_1rvwp1q" id="_1rvwp1q"></a>
 
@@ -36,7 +36,7 @@ Người dùng quản lý các đầu công việc và tiến độ của từng
 
 \- Có thể di chuyển chuột tới từng nội dung để xem thêm chi tiết
 
-<figure><img src="../../.gitbook/assets/5 (2).png" alt=""><figcaption><p><em><strong>Màn hình Danh sách công việc</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (4).png" alt=""><figcaption><p><em><strong>Màn hình Danh sách công việc</strong></em></p></figcaption></figure>
 
 #### **1.2.1 Thêm mới công việc** <a href="#_4bvk7pj" id="_4bvk7pj"></a>
 
@@ -52,7 +52,7 @@ Bước 2: Nhập thông tin trong bảng thêm mới công việc🡪 Lưu.
 * Công việc cha: Được hiểu như 1 Công việc bao quát chung/ 1 dự án/ 1 mục của dự án. Khi chọn Công việc cha, có nghĩa là Công việc thêm mới là một trong số những công việc nhỏ nằm trong Công việc cha.
 * Nhập file: Cho phép người dùng đưa lên 1 file bất kỳ có liên quan tới công việc đang tạo.
 
-![Màn hình thêm mới công việc](<../../.gitbook/assets/6 (4).png>)
+![Màn hình thêm mới công việc](../../.gitbook/assets/6.png)
 
 * _**Cách 2: Thêm mới gián tiếp**_
 
@@ -62,9 +62,9 @@ Người dùng có thể thêm mới công việc gián tiếp từ các bảng:
 
 Có 4 cách để cập nhật nội dung công việc.
 
-<figure><img src="../../.gitbook/assets/12 (1).png" alt=""><figcaption><p><em><strong>Màn hình lịch sử thay đổi</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12 (2).png" alt=""><figcaption><p><em><strong>Màn hình lịch sử thay đổi</strong></em></p></figcaption></figure>
 
-* **Cách 3:** Trong màn hình Gantt🡪 Nhấn chuột vào nội dung công việc trên thanh gantt 🡪 Nhấn nút cập nhật ![](<../../.gitbook/assets/13 (3).png>)
+* **Cách 3:** Trong màn hình Gantt🡪 Nhấn chuột vào nội dung công việc trên thanh gantt 🡪 Nhấn nút cập nhật ![](<../../.gitbook/assets/13 (1).png>)
 * **Cách 4:** Đối với công việc tạo gián tiếp từ tạm ứng và phơi phiếu, người dùng có thể sửa đổi trực tiếp trong chi tiết tạm ứng lô hàng và trong lệnh điều xe và nhấn lại nút đề xuất🡪 phần mềm tự tạo thêm 1 file cập nhật đưa vào lịch sử thay đổi của lô hàng.
 
 #### **1.2.3 Lọc thông tin** <a href="#_1664s55" id="_1664s55"></a>
@@ -75,17 +75,17 @@ Người dùng có thể lọc các thông tin theo:
 * Theo trạng thái công việc tại ô số 2
 * Theo nhóm công việc tại ô số 3
 
-![](<../../.gitbook/assets/14 (4).png>)
+![](../../.gitbook/assets/14.png)
 
 Người dùng cũng có thể theo dõi công việc cho từng cá nhân và tiến độ công việc của họ bằng cách nhấn sang tab Theo người thực hiện
 
-![Màn hình quản lý tiến độ công việc theo người thực hiện](<../../.gitbook/assets/15 (3).png>)
+![Màn hình quản lý tiến độ công việc theo người thực hiện](../../.gitbook/assets/15.png)
 
 ### **1.3 Phê duyệt** <a href="#_3q5sasy" id="_3q5sasy"></a>
 
 #### **1.3.1 Quản lý đề xuất** <a href="#_25b2l0r" id="_25b2l0r"></a>
 
-<figure><img src="../../.gitbook/assets/16 (2).png" alt=""><figcaption><p><em><strong>Màn hình quản lý đề xuất</strong></em></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/16.png" alt=""><figcaption><p><em><strong>Màn hình quản lý đề xuất</strong></em></p></figcaption></figure>
 
 Bước 1: Trong chức năng **Phê duyệt**, chọn tab **Đề xuất**
 
@@ -93,14 +93,14 @@ Bước 2: Nhấn nút Thêm mới🡪 Nhập thông tin cần phê duyệt, t�
 
 Bước 3: nhấn Lưu để chuyển tiếp đề xuất sang người phê duyệt.
 
-![Màn hình thêm mới đề xuất](<../../.gitbook/assets/18 (2).png>)
+![Màn hình thêm mới đề xuất](<../../.gitbook/assets/18 (4).png>)
 
 #### **1.3.2 Phê duyệt đề xuất** <a href="#_kgcv8k" id="_kgcv8k"></a>
 
 Bao gồm các đề xuất mà người đăng nhập là: Người yêu cầu hoặc người duyệt.
 
-![](<../../.gitbook/assets/19 (1).png>)
+![](<../../.gitbook/assets/19 (2).png>)
 
-Để thêm nội dung phê duyệt, người dùng chọn nút ![](<../../.gitbook/assets/20 (5).png>) và nhập nội dung.
+Để thêm nội dung phê duyệt, người dùng chọn nút ![](<../../.gitbook/assets/20 (2).png>) và nhập nội dung.
 
-Để duyệt đề xuất, người dùng nhấn nút ![](../../.gitbook/assets/21.png) để chuyển trạng thái phê duyệt, chuyển duyệt.
+Để duyệt đề xuất, người dùng nhấn nút ![](<../../.gitbook/assets/21 (2).png>) để chuyển trạng thái phê duyệt, chuyển duyệt.

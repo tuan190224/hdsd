@@ -47,9 +47,9 @@ Có 2 cách để thêm mới cấp dầu:
 
 Bước 1: Tại mục Nhiên liệu, chọn QL dầu cấp cho xe
 
-Bước 2: Nhấn nút <img src="../../.gitbook/assets/4 (1).png" alt="" data-size="line"> 🡪 nhập thông tin vào bảng 🡪 Lưu.
+Bước 2: Nhấn nút <img src="../../.gitbook/assets/image (125).png" alt="" data-size="line"> 🡪 nhập thông tin vào bảng 🡪 Lưu.
 
-![](<../../.gitbook/assets/5 (7).png>)
+![](../../.gitbook/assets/5.png)
 
 <figure><img src="../../.gitbook/assets/6 (8).png" alt=""><figcaption><p><em><strong>Màn hình nhập dữ liệu</strong></em></p></figcaption></figure>
 
@@ -61,7 +61,7 @@ Bước 2: Nhấn nút <img src="../../.gitbook/assets/4 (1).png" alt="" data-si
 
 #### **7.3.2 Tải file excel dầu cấp nhiều xe** <a href="#_13qzunr" id="_13qzunr"></a>
 
-Bước 1: Tại màn hình Ql cấp dầu cho xe, nhấn nút <img src="../../.gitbook/assets/7.png" alt="" data-size="line">
+Bước 1: Tại màn hình Ql cấp dầu cho xe, nhấn nút <img src="../../.gitbook/assets/7 (2).png" alt="" data-size="line">
 
 * Mẫu file excel tải lên: [https://bitly.com.vn/0e9aeq](https://bitly.com.vn/0e9aeq)
 
@@ -73,4 +73,4 @@ Bước 2: Chọn file excel từ máy tính 🡪 nhấn Mở để đưa file l
 
 _Lưu ý: trong trường hợp người dùng khai báo cấp dầu từ cây dầu của công ty, số liệu sẽ được sử dụng vào báo cáo tồn dầu._
 
-![Mẫu nhập liệu file excel](<../../.gitbook/assets/8 (6).png>)
+![Mẫu nhập liệu file excel](<../../.gitbook/assets/8 (3).png>)

@@ -14,7 +14,7 @@ Chủ doanh nghiệp cần nhập toàn bộ số lượng và thông tin nhân 
 
 Bước 1: Vào Thông tin chung, chọn danh mục Nhân viên.
 
-Bước 2: Nhấn nút <img src="../.gitbook/assets/1 (1).png" alt="" data-size="original"> và Nhập thông tin Nhân viên vào bảng thêm mới. Nhấn ![](../.gitbook/assets/2.png) để lưu thông tin nhân viên mới tạo.
+Bước 2: Nhấn nút <img src="../.gitbook/assets/1 (4).png" alt="" data-size="original"> và Nhập thông tin Nhân viên vào bảng thêm mới. Nhấn ![](<../.gitbook/assets/2 (1).png>) để lưu thông tin nhân viên mới tạo.
 
 ![](<../.gitbook/assets/3 (1).jpeg>)
 
@@ -33,7 +33,7 @@ Quản lý thông tin đối tác của doanh nghiệp, bao gồm 5 loại đố
 * NCC phí thường niên: Quản lý nhà cung cấp các phí khấu hao, dịch vụ thường niên, …
 * NCC vật tư: Quản lý thông tin nhà cung cấp các phụ tùng cho sửa chữa, các kho hàng, vật tư văn phòng, …
 
-![Màn hình danh sách đối tác -Khách hàng](../.gitbook/assets/4.png)
+![Màn hình danh sách đối tác -Khách hàng](<../.gitbook/assets/4 (2).png>)
 
 **Các bước thêm đối tác vào danh sách:**
 
@@ -45,13 +45,13 @@ Bước 3: Nhập các thông tin đối tác vào các trường dữ liệu. S
 
 _Lưu ý : Người dùng có thể chọn nhiều hơn 01 loại đối tác cho cùng một doanh nghiệp. Khi chọn loại đối tác là NCC Nhiên liệu, bảng thêm mới xuất hiện thêm ô chọn là Nhà cung cấp nhiên liệu của công ty. Trường hợp bỏ tích chọn, phần mềm tự động hiểu thông tin thêm mới là một cây dầu của công ty để tính lượng dầu trong kho._
 
-![Màn hình Thêm mới đối tác](../.gitbook/assets/5.png)
+![Màn hình Thêm mới đối tác](<../.gitbook/assets/5 (2).png>)
 
 ## **3. Quản lý nhóm Khách hàng** <a href="#_3znysh7" id="_3znysh7"></a>
 
 Chức năng hoạt động trên cơ chế phân quyền nhóm người dùng vào quản lý từng nhóm khách hàng riêng biệt. Thông qua chức năng này, cá nhân/ bộ phận có thể dễ dàng và độc lập quản lý tệp khách hàng mà mình được phân công. Đồng thời, nhà quản lý sẽ đánh giá được hiệu suất công việc của từng cá nhân/ bộ phận theo ngày, theo tháng, …; đánh giá được nhóm khách hàng tiềm năng cho doanh nghiệp.
 
-<figure><img src="../.gitbook/assets/6.png" alt=""><figcaption><p><em><strong>Màn hình quản lý Khách hàng theo nhóm</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (3).png" alt=""><figcaption><p><em><strong>Màn hình quản lý Khách hàng theo nhóm</strong></em></p></figcaption></figure>
 
 **Các bước quản lý:**
 
@@ -97,7 +97,7 @@ Quản lý thông tin xe giúp doanh nghiệp quản lý chi tiết các dữ li
 
 Giống với quản lý mooc, danh sách xe trên phần mềm cũng quản lý thêm cả các thông số liên quan tới tải trọng xe, làm cơ sở dữ liệu tính toán tải trọng an toàn, sắp xếp hàng hóa lên xe của bộ phận điều xe.
 
-<figure><img src="../.gitbook/assets/10 (2).png" alt=""><figcaption><p><em><strong>Màn hình chính của mục quản lý xe</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (4).png" alt=""><figcaption><p><em><strong>Màn hình chính của mục quản lý xe</strong></em></p></figcaption></figure>
 
 
 
@@ -167,7 +167,7 @@ _Lưu ý: Việc Lựa chọn hàng hóa có kiểm tra và tỉ lệ kiểm s�
 
 Bước 3: Nhấn Lưu để lưu lại thông tin hàng hóa vừa tạo.
 
-![Màn hình Thêm mới thông tin hàng hóa](<../.gitbook/assets/16 (1).jpeg>)
+![Màn hình Thêm mới thông tin hàng hóa](../.gitbook/assets/16.jpeg)
 
 
 
@@ -195,7 +195,7 @@ Bước 1: Chọn mục điều hành🡪 Chọn Lô hàng hoặc Kế hoạch v
 
 Bước 2: Tại các ô nhập địa chỉ Lấy/ giao hàng, Lấy/ Hạ vỏ, chọn Địa chỉ khác🡪 Nhập địa chỉ🡪 Nhấn tạo mới “tên địa chỉ”. Địa chỉ thêm mới sẽ được tự động lưu lại vào Thông tin chung.
 
-<figure><img src="../.gitbook/assets/18.png" alt=""><figcaption><p><em><strong>Màn hình thêm mới địa chỉ trong Lô hàng</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/18 (2).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới địa chỉ trong Lô hàng</strong></em></p></figcaption></figure>
 
 
 
@@ -375,7 +375,7 @@ Bước 2: Nhập thông tin loại dầu, đơn giá, khoảng thời gian áp 
 
 * phần mềm tự động lọc toàn bộ các chuyến điều xe có Ngày xe đi theo khoảng thời gian đã chọn và cập nhập đơn giá dầu mới.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><em><strong>Màn hình cập nhật giá dầu</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption><p><em><strong>Màn hình cập nhật giá dầu</strong></em></p></figcaption></figure>
 
 ## **18. Quản lý cước thuê ngoài** <a href="#_2zbgiuw" id="_2zbgiuw"></a>
 
@@ -413,7 +413,7 @@ Bước 2: Nhập các thông tin liên quan đến Phí khách hàng 🡪 Nhấ
 
 Chức năng nhằm quản lý định mức cước biển đối với các doanh nghiệp có vận chuyển theo đường biển. Dữ liệu thiết lập được sử dụng làm thông tin tham khảo về Cước thực thu và Cước hợp đồng trong mục Vận tải biển, làm cơ sở để lên Báo cáo cước Vận tải biển.
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p><em><strong>Màn hình Quản lý cước vận tải biển</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><em><strong>Màn hình Quản lý cước vận tải biển</strong></em></p></figcaption></figure>
 
 **Các bước tạo thông tin định mức cước:**
 
@@ -423,4 +423,4 @@ Bước 2: Nhập thông tin theo yêu cầu.
 
 Bước 3: Nhấn Lưu để lưu lại thông tin.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới cước vận tải biển</strong></em></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption><p><em><strong>Màn hình thêm mới cước vận tải biển</strong></em></p></figcaption></figure>
